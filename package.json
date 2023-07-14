@@ -1,0 +1,22 @@
+{
+  "name": "jt2m0l3y",
+  "version": "1.0.0",
+  "description": "<!-- **JT2M0L3Y/JT2M0L3Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JT2M0L3Y/JT2M0L3Y.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JT2M0L3Y/JT2M0L3Y/issues"
+  },
+  "homepage": "https://github.com/JT2M0L3Y/JT2M0L3Y#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^4.0.2"
+  }
+}
