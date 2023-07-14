@@ -1,4 +1,6 @@
-[![Jonathan's GitHub Banner](./assets/profile-img.gif)](https://www.github.com/JT2M0L3Y)
+<a href="https://www.github.com/JT2M0L3Y">
+  <img width=100% src=./assets/profile-img.gif alt="Jonathan's GitHub Banner"/>
+</a>
 
 <!-- Clickable Badges -->
 [![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
@@ -150,6 +152,8 @@
 ![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 <br>
+
+#
 
 ## 📯 How about a cheeky quote?
 

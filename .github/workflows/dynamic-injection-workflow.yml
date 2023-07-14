@@ -4,7 +4,6 @@ on:
   # this will make it run every hour
   - cron: "0 * * * *"
   # run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-  worflow_dispatch:
 jobs:
   get-office-quotes:
     runs-on: ubuntu-latest
