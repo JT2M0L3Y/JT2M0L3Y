@@ -7,7 +7,7 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-Profile-informational?style=flat&logo=steam&logoColor=white&color=0D76A8)](https://steamcommunity.com/id/Kaedowjan/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=0D76A8)](https://www.youtube.com/channel/UCWYFmvu7mBQzwhG29mJWiKQ)
 
-<!-- Pinned Repositories -->
+<!-- Pinned Repositories
 <a href="https://github.com/JT2M0L3Y/MyPL">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=MyPL&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
@@ -38,8 +38,6 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=cryptography&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
-<!-- GitHub Stats -->
-
 <a href="https://github.com/JT2M0L3Y">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT2M0L3Y&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -47,3 +45,11 @@
 <a href="https://github.com/JT2M0L3Y">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
+GitHub Stats
+
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
+
+Check back at the top of the hour for a new quote!
+ -->

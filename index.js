@@ -15,7 +15,7 @@ async function main() {
   
   const readme = readmeTemplate
     .replace("{office_quote}", office_quote.data.content)
-    .replace("{office_character}", `-${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
+    .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
   */
   
   // await fs.writeFile("README.md", readme);
