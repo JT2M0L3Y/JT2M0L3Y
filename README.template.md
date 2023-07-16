@@ -159,7 +159,7 @@
 
 <p>{quote}</p>
 
-<p>{author}</p>
+<p>- {author}</p>
 
 Check back at the top of the hour for a new quote!
 

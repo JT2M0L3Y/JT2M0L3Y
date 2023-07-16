@@ -8,12 +8,12 @@ async function main() {
   ).toString("utf-8");
   
   const quote_data = await (
-    await fetch("https://zenquotes.io/api/quotes/")
+    await fetch("https://zenquotes.io/api/random/")
   ).json();
-  
+
   const readme = readmeTemplate
-    .replace("{quote}", quote_data.q)
-    .replace("{author}", `- ${quote_data.a}`)
+    .replace("{quote}", quote_data[0].q)
+    .replace("{author}", quote_data[0].a)
   
   await fs.writeFile("README.md", readme);
 }

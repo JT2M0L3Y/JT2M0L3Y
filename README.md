@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>undefined</p>
+<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
 
-<p>- undefined</p>
+<p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 
