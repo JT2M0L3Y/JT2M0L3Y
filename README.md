@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>{office_quote}</p>
+<p>undefined</p>
 
-<p>{office_character}</p>
+<p>- undefined</p>
 
 Check back at the top of the hour for a new quote!
 

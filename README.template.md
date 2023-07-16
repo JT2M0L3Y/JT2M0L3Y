@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>{office_quote}</p>
+<p>{quote}</p>
 
-<p>{office_character}</p>
+<p>{author}</p>
 
 Check back at the top of the hour for a new quote!
 

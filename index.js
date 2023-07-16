@@ -7,18 +7,15 @@ async function main() {
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
   
-  /*
-  const office_quote = await (
-    await fetch("https://officeapi.dev/api/quotes/random")
+  const quote_data = await (
+    await fetch("https://zenquotes.io/api/quotes/")
   ).json();
   
   const readme = readmeTemplate
-    .replace("{office_quote}", office_quote.data.content)
-    .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
-  */
+    .replace("{quote}", quote_data.q)
+    .replace("{author}", `- ${quote_data.a}`)
   
-  // await fs.writeFile("README.md", readme);
-  await fs.writeFile("README.md", readmeTemplate);
+  await fs.writeFile("README.md", readme);
 }
 
 main();
