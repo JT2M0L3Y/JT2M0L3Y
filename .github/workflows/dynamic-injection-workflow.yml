@@ -44,10 +44,10 @@ jobs:
           CI_COMMIT_MESSAGE: CI to push new quote
           CI_COMMIT_AUTHOR: Continuous Integration
         run: |
-          git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "jtsmoley@icloud.com"
           git add .
-          git commit -m ${{ env.CI_COMMIT_MESSAGE }}
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
 
       # push changes to repo
       - name: Push Changes
