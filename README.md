@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
 
-<p>- Lao Tzu</p>
+<p>- Maxime Lagace</p>
 
 Check back at the top of the hour for a new quote!
 

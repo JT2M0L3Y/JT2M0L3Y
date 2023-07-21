@@ -4,6 +4,7 @@ on:
   schedule: # run workflow automatically
   # this will make it run every day at midnight
   - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   get-quotes:
     runs-on: ubuntu-latest
