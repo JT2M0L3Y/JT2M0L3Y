@@ -15,7 +15,6 @@ jobs:
     env:
           CI_COMMIT_MESSAGE: "CI: Push New Quote"
           CI_COMMIT_AUTHOR: Continuous Integration
-          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     steps:
       # checkout updated repo
       - name: Checkout Repo
@@ -53,10 +52,5 @@ jobs:
 
       # push changes to repo
       - name: Push Changes
-        run: |
-          git remote set-url --push origin https://JT2M0L3Y:${{ env.GITHUB_TOKEN }}@github.com/JT2M0L3Y/JT2M0L3Y
-          git push
+        run: git push
         # uses: ad-m/github-push-action@master
-        # with:
-        #   github_token: ${{ secrets.PUSH_TOKEN }}
-        #   branch: ${{ github.ref }}
