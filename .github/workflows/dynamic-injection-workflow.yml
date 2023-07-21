@@ -12,6 +12,10 @@ on:
 jobs:
   get-quotes:
     runs-on: ubuntu-latest
+    env:
+          CI_COMMIT_MESSAGE: "CI: Push New Quote"
+          CI_COMMIT_AUTHOR: Continuous Integration
+          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     steps:
       # checkout updated repo
       - name: Checkout Repo
@@ -42,17 +46,17 @@ jobs:
 
       # add & commit changes
       - name: Commit Changes
-        env:
-          CI_COMMIT_MESSAGE: "CI: Push New Quote"
-          CI_COMMIT_AUTHOR: Continuous Integration
         run: |
           git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
           git config --global user.email "jtsmoley@icloud.com"
-          git commit -a -m "[Automated] ${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -am ${{ env.CI_COMMIT_MESSAGE }}
 
       # push changes to repo
       - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PUSH_TOKEN }}
-          branch: ${{ github.ref }}
+        run: |
+          git remote set-url --push origin https://JT2M0L3Y:${{ env.GITHUB_TOKEN }}@github.com/JT2M0L3Y/JT2M0L3Y
+          git push
+        # uses: ad-m/github-push-action@master
+        # with:
+        #   github_token: ${{ secrets.PUSH_TOKEN }}
+        #   branch: ${{ github.ref }}
