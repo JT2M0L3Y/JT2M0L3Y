@@ -5,16 +5,13 @@ on:
       - main
   # run workflow automatically  
   schedule:
-    # this will make it run every day at midnight
+  # this will make it run every day at midnight
   - cron: "0 0 * * *"
   # this will allow the workflow to be run manually from GitHub
   workflow_dispatch:
 jobs:
   get-quotes:
     runs-on: ubuntu-latest
-    env:
-      CI_COMMIT_MESSAGE: "CI: Push New Quote"
-      CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       # checkout updated repo
       - name: Checkout Repo
@@ -45,10 +42,13 @@ jobs:
 
       # add & commit changes
       - name: Commit Changes
+        env:
+          CI_COMMIT_MESSAGE: "CI: Push New Quote"
+          CI_COMMIT_AUTHOR: Continuous Integration
         run: |
           git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
           git config --global user.email "jtsmoley@icloud.com"
-          git commit -am "[Automated] ${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -a -m "[Automated] ${{ env.CI_COMMIT_MESSAGE }}"
 
       # push changes to repo
       - name: Push Changes
@@ -56,5 +56,3 @@ jobs:
         with:
           github_token: ${{ secrets.PUSH_TOKEN }}
           branch: ${{ github.ref }}
-        # run: |
-        #   git push
