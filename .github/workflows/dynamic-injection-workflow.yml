@@ -1,6 +1,8 @@
 name: Dynamic README injection
 on:
   push:
+    branches:
+      - main
   # run workflow automatically  
   schedule:
     # this will make it run every day at midnight
@@ -11,33 +13,48 @@ jobs:
   get-quotes:
     runs-on: ubuntu-latest
     env:
-      CI_COMMIT_MESSAGE: Continuous Integration Push New Quote
+      CI_COMMIT_MESSAGE: "CI: Push New Quote"
       CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       # checkout updated repo
-      - name: Checkout recent repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
       # configure node in runner
-      - name: Node Versioning
+      - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 14.6.0
 
       # clean install npm
-      - name: Node Install
+      - name: Install Dependencies
         run: npm ci
 
       # run script found in package.json
-      - name: Node Build
+      - name: Compile & Run
         run: npm start
 
-      # add changes to repo
-      - name: Git CMDs
+      # pull changes from repo
+      - name: Pull Changes
         run: |
           git config pull.rebase false
           git pull
+
+      # add & commit changes
+      - name: Commit Changes
+        run: |
           git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
           git config --global user.email "jtsmoley@icloud.com"
           git commit -am "[Automated] ${{ env.CI_COMMIT_MESSAGE }}"
-          git push
+
+      # push changes to repo
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PUSH_TOKEN }}
+          branch: ${{ github.ref }}
+        # run: |
+        #   git push
