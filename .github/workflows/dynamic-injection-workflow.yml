@@ -11,7 +11,7 @@ jobs:
   get-quotes:
     runs-on: ubuntu-latest
     env:
-          CI_COMMIT_MESSAGE: "CI: Push New Quote"
+          CI_COMMIT_MESSAGE: CI - Push New Quote
           CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       # checkout updated repo
@@ -46,9 +46,9 @@ jobs:
         run: |
           git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
           git config --global user.email "jtsmoley@icloud.com"
-          git commit -a -m ${{ env.CI_COMMIT_MESSAGE }}
+          git add .
+          git commit -m ${{ env.CI_COMMIT_MESSAGE }}
 
       # push changes to repo
       - name: Push Changes
         run: git push
-        # uses: ad-m/github-push-action@master
