@@ -10,9 +10,6 @@ on:
 jobs:
   get-quotes:
     runs-on: ubuntu-latest
-    env:
-          CI_COMMIT_MESSAGE: CI to push new quote
-          CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       # checkout updated repo
       - name: Checkout Repo
@@ -43,6 +40,9 @@ jobs:
 
       # add & commit changes
       - name: Commit Changes
+        env:
+          CI_COMMIT_MESSAGE: CI to push new quote
+          CI_COMMIT_AUTHOR: Continuous Integration
         run: |
           git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
           git config --global user.email "jtsmoley@icloud.com"
