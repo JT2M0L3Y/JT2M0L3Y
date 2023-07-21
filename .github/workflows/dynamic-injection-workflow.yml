@@ -11,7 +11,7 @@ jobs:
   get-quotes:
     runs-on: ubuntu-latest
     env:
-          CI_COMMIT_MESSAGE: CI - Push New Quote
+          CI_COMMIT_MESSAGE: CI to push new quote
           CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       # checkout updated repo
