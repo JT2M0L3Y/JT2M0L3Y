@@ -1,5 +1,6 @@
 name: Dynamic README injection
 on:
+  push:
   # run workflow automatically  
   schedule:
     # this will make it run every day at midnight
