@@ -24,7 +24,7 @@ jobs:
 
       - name: Add to git repo
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PUSH_CREDENTIAL }}
         run: |
           git config pull.rebase false
           git pull
@@ -37,5 +37,5 @@ jobs:
 
       # - name: Push
       #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
+      #   env:
+      #     github-token: ${{ secrets.PUSH_CREDENTIAL }}
