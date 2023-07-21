@@ -33,5 +33,5 @@ jobs:
 
       - name: Push
         uses: ad-m/github-push-action@master
-        env:
-          github-token: ${{ secrets.PUSH_CREDENTIAL }}
+        with:
+          github_token: ${{ secrets.PUSH_CREDENTIAL }}
