@@ -1,5 +1,6 @@
 name: Dynamic README injection
-on: 
+on:
+  push:
   schedule: # run workflow automatically
   # this will make it run every day at midnight
   - cron: "0 0 * * *"
