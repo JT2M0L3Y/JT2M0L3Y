@@ -32,7 +32,7 @@ jobs:
           git config --global user.name "JT2M0L3Y"
           git config --global user.email "jtsmoley@icloud.com"
           git commit -m "[Automated] README updated with new quote!"
-          git remote set-url --push origin https://JT2M0L3Y:$GITHUB_TOKEN@github.com/JT2M0L3Y/JT2M0L3Y.git
+          git remote set-url --add https://JT2M0L3Y:$PUSH_CREDENTIAL@github.com/JT2M0L3Y/JT2M0L3Y.git
           git push
 
       # - name: Push
