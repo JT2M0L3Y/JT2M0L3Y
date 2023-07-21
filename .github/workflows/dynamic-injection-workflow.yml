@@ -4,7 +4,7 @@ on:
   # run workflow automatically  
   schedule:
     # this will make it run every day at midnight
-    - cron: "0 0 * * *"
+  - cron: "0 0 * * *"
   # this will allow the workflow to be run manually from GitHub
   workflow_dispatch:
 jobs:
@@ -15,7 +15,8 @@ jobs:
       CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       # checkout updated repo
-      - uses: actions/checkout@v3
+      - name: Checkout recent repo
+        uses: actions/checkout@v3
 
       # configure node in runner
       - name: Node Versioning
