@@ -1,8 +1,6 @@
 name: Dynamic README injection
 on:
   push:
-    branches:
-      - main
   # run workflow automatically  
   schedule:
   # this will make it run every day at midnight
@@ -48,7 +46,7 @@ jobs:
         run: |
           git config --global user.name ${{ env.CI_COMMIT_AUTHOR }}
           git config --global user.email "jtsmoley@icloud.com"
-          git commit -am ${{ env.CI_COMMIT_MESSAGE }}
+          git commit -a -m ${{ env.CI_COMMIT_MESSAGE }}
 
       # push changes to repo
       - name: Push Changes
