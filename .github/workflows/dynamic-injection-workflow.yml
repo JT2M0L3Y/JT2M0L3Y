@@ -8,6 +8,7 @@ on:
 jobs:
   get-quotes:
     runs-on: ubuntu-latest
+    environment: Profile-Change
     steps:
       - uses: actions/checkout@v3
         with:
@@ -24,7 +25,7 @@ jobs:
 
       - name: Add to git repo
         env:
-          github_token: ${{ secrets.PUSH_CREDENTIAL }}
+          credentials: ${{ secrets.PUSH_CREDENTIAL }}
         run: |
           git config pull.rebase false
           git pull
