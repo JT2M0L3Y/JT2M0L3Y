@@ -4,6 +4,8 @@
 
 <!-- Clickable Badges -->
 [![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
+[![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/dynamic-injection-workflow.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=0072b1&color=0072b1)](https://www.linkedin.com/in/jonathansmoley/)
 [![Flickr Badge](https://img.shields.io/badge/Flickr-Profile-informational?style=flat&logo=flickr&logoColor=FF0084&color=FF0084)](https://www.flickr.com/photos/198498782@N02/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=833AB4&color=833AB4)](https://www.instagram.com/jonathansmoley/)
@@ -157,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>We all give up great expectations along the way.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Carlos Ruiz Zafon</p>
 
 Check back at the top of the hour for a new quote!
 
