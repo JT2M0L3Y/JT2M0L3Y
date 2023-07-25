@@ -187,7 +187,7 @@
 
 <p>- {author}</p>
 
-Check back at the top of the hour for a new quote!
+Check back daily for a new quote!
 
 <br>
 

@@ -183,11 +183,11 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Faith means believing the unbelievable.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Isaac Newton</p>
 
-Check back at the top of the hour for a new quote!
+Check back daily for a new quote!
 
 <br>
 
