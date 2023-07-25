@@ -26,6 +26,26 @@
 <!-- Pinned Repositories -->
 # 📍 Pinned Repositories
 
+<a href="https://github.com/JT2M0L3Y/amplify-react-graphql">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=amplify-react-graphql&theme=yeblu"/>
+</a>
+
+<a href="https://github.com/JT2M0L3Y/twitter-clone">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=twitter-clone&theme=yeblu"/>
+</a>
+
+<a href="https://github.com/JT2M0L3Y/news-aggregator">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=news-aggregator&theme=yeblu"/>
+</a>
+
+<a href="https://github.com/NisaMeshal/ACM_WebDev">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NisaMeshal&repo=ACM_WebDev&theme=yeblu"/>
+</a>
+
 <a href="https://github.com/JT2M0L3Y/MyPL">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=MyPL&theme=yeblu"/>
@@ -36,19 +56,9 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=yeblu"/>
 </a>
 
-<a href="https://github.com/JT2M0L3Y/news-aggregator">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=news-aggregator&theme=yeblu"/>
-</a>
-
 <a href="https://github.com/JT2M0L3Y/assignment-scheduler">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=assignment-scheduler&theme=yeblu"/>
-</a>
-
-<a href="https://github.com/NisaMeshal/ACM_WebDev">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=NisaMeshal&repo=ACM_WebDev&theme=yeblu"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/cryptopgraphy">
@@ -159,6 +169,7 @@
 
 ### VCS
 <details>
+  <summary></summary>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </details>

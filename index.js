@@ -7,9 +7,8 @@ async function main() {
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
-
   const quote_data = await (
-    await fetch("https://zenquotes.io/api/today/")
+    await fetch("https://zenquotes.io/api/random/")
   ).json()
     .catch((e) => { console.error(e.message); });
 
