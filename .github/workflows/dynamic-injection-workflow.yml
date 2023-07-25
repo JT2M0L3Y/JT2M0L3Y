@@ -24,9 +24,6 @@ jobs:
         with:
           node-version: 14.6.0
 
-      - name: Create Node Env
-        run: npm
-
       # clean install npm
       - name: Install Dependencies
         run: npm ci
