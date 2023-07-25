@@ -5,8 +5,7 @@ const path = require("path");
 async function main() {
   const readmeTemplate = (
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
-  ).toString("utf-8")
-   .catch (error => { console.log("Read file failed"); });
+  ).toString("utf-8");
   
   const quote_data = await (
     await fetch("https://zenquotes.io/api/random/")
