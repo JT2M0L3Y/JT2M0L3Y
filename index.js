@@ -10,7 +10,7 @@ async function main() {
   
   const quote_data = await (
     await fetch("https://zenquotes.io/api/random/")
-       .catch (error => { console.log("Fetch failed"); });
+       .catch (error => { console.log("Fetch failed"); })
   ).json()
    .catch (error => { console.log("Get data failed"); });
 
