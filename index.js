@@ -6,13 +6,13 @@ async function main() {
   const readmeTemplate = (
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8")
-   .catch (error) { console.log("Read file failed"); };
+   .catch (error => { console.log("Read file failed"); });
   
   const quote_data = await (
     await fetch("https://zenquotes.io/api/random/")
-       .catch (error) { console.log("Fetch failed"); };
+       .catch (error => { console.log("Fetch failed"); });
   ).json()
-   .catch (error) { console.log("Get data failed"); };
+   .catch (error => { console.log("Get data failed"); });
 
   const readme = readmeTemplate
     .replace("{quote}", quote_data[0].q)
@@ -20,7 +20,7 @@ async function main() {
   
   await fs
     .writeFile("README.md", readme)
-    .catch (error) { console.log("Write file failed"); };
+    .catch (error => { console.log("Write file failed"); });
 }
 
 main();
