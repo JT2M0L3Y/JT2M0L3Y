@@ -34,6 +34,7 @@ jobs:
           CI_COMMIT_MESSAGE: push new quote
           CI_COMMIT_AUTHOR: README-bot
         run: |
+          git config --global --add url."git@github.com:".insteadOf "https://github.com/"
           git config --global user.email "jtsmoley@icloud.com"
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git add .
