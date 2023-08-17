@@ -19,4 +19,4 @@ async function main() {
   await fs.writeFile("README.md", readme);
 };
 
-main();
+main().then((res) => console.log(res));
