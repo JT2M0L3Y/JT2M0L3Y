@@ -25,15 +25,20 @@ jobs:
         run: npm ci
 
       # Continuous Integration
-      - name: Compile & Run
+      - name: Integrate
         run: node .
 
       # Continuous Deployment
-      - name: Deploy
+      - name: Add, Commit
         run: |
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git remote set-url origin https://github.com/JT2M0L3Y/JT2M0L3Y.git
           git add .
           git commit -m "push new quote"
-          git push
+
+      # Deploy
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PAT }}
