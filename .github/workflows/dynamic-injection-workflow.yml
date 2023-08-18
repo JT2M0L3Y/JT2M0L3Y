@@ -5,14 +5,14 @@ on:
   schedule:
   - cron: "0 12 * * *"
 jobs:
-  get-quotes:
+  get-quote:
     runs-on: ubuntu-latest
     steps:
       # checkout updated repo
       - name: Checkout Repo
         uses: actions/checkout@v3
-        # with:
-        #   token: ${{ secrets.GH_TOKEN }}
+        with:
+          fetch-depth: 1
 
       # configure node in runner
       - name: Setup Node
@@ -24,20 +24,15 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      # run script found in package.json
+      # Continuous Integration
       - name: Compile & Run
         run: node .
 
-      # pull, add, commit, push changes
-      - name: Add, Commit, Push
-        env:
-          CI_COMMIT_MESSAGE: push new quote
-          CI_COMMIT_AUTHOR: README-bot
-        # git config --global --add url."git@github.com:".insteadOf "https://github.com/"  
-        # git push
+      # Continuous Deployment
+      - name: Deploy
         run: |
-          git config --global user.email "jtsmoley@icloud.com"
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}" || exit 0
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/JT2M0L3Y/JT2M0L3Y.git
+          git commit -m "push new quote"
+          git push --all -f https://${{ secrets.GH_TOKEN }}@github.com/JT2M0L3Y/JT2M0L3Y.git
