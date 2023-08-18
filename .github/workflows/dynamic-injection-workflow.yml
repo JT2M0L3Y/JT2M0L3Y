@@ -12,7 +12,8 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 1
+          persist-credentials: false
+          fetch-depth: 0
 
       # configure node in runner
       - name: Setup Node
@@ -44,4 +45,3 @@ jobs:
           github_token: ${{ secrets.PAT }}
           repository: JT2M0L3Y/JT2M0L3Y
           branch: main
-          directory: .
