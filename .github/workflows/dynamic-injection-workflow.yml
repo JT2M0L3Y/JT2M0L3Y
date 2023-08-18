@@ -35,11 +35,13 @@ jobs:
         run: |
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git commit -am "push new quote"
+          git add README.md
+          git commit -m "push new quote"
 
       # Deploy
       - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PAT }}
+          repository: "JT2M0L3Y/JT2M0L3Y"
           branch: ${{ github.ref }}
