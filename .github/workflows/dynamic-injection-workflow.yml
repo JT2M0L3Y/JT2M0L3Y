@@ -44,4 +44,3 @@ jobs:
         with:
           github_token: ${{ secrets.PAT }}
           repository: "JT2M0L3Y/JT2M0L3Y"
-          branch: ${{ github.ref }}
