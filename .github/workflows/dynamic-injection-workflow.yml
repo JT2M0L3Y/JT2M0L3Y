@@ -11,9 +11,6 @@ jobs:
       # checkout updated repo
       - name: Checkout Repo
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-          fetch-depth: 0
 
       # configure node in runner
       - name: Setup Node
@@ -31,7 +28,6 @@ jobs:
 
       # Continuous Deployment
       - name: Add, Commit
-        # git remote set-url origin https://github.com/JT2M0L3Y/JT2M0L3Y.git
         run: |
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
@@ -39,8 +35,8 @@ jobs:
           git commit -m "push new quote"
 
       # Deploy
-      # - name: Push
-      #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github_token: ${{ secrets.PAT }}
-      #     repository: "JT2M0L3Y/JT2M0L3Y"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          repository: "JT2M0L3Y/JT2M0L3Y"
