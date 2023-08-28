@@ -1,6 +1,8 @@
 name: Dynamic README injection
 on:
   push:
+    branches:
+    - main
   workflow_dispatch:
   schedule:
   - cron: "0 12 * * *"
@@ -20,23 +22,25 @@ jobs:
 
       # clean install npm
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       # Continuous Integration
       - name: Integrate
         run: node .
 
       # Continuous Deployment
-      - name: Add, Commit
+      - name: Add To Repo
         run: |
-          git config --global user.name "${GITHUB_ACTOR}"
-          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add README.md
-          git commit -m "push new quote"
+          git config pull.rebase false
+          git pull
+          # git add README.md
+          git add .
+          git config --global user.name "JT2M0L3Y"
+          git config --global user.email "jtsmoley@icloud.com"
+          git commit -m "[Automated] push new quote"
 
       # Deploy
       - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: "JT2M0L3Y/JT2M0L3Y"
