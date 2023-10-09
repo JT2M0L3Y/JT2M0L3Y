@@ -12,11 +12,11 @@ jobs:
     steps:
       # checkout updated repo
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       # configure node in runner
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v2
         with:
           node-version: 18
 
@@ -33,7 +33,6 @@ jobs:
         run: |
           git config pull.rebase false
           git pull
-          # git add README.md
           git add .
           git config --global user.name "JT2M0L3Y"
           git config --global user.email "jtsmoley@icloud.com"
