@@ -17,9 +17,9 @@
 
 # 👋 Introduction
 
-### Hello!😜
-
-### I'm Jonathan, a computer science student, novice photographer, and a PC gamer. I am interested in Software Engineering and DevOps. My recent projects have involved full-stack development, cryptography, and cybersecurity.
+<p>Hello!😜</p>
+<p>I'm Jonathan, a Computer Science student and novice photographer.</p>
+<p>I am most interested in Software Engineering and DevOps, but I also have explored Cybersecurity and Machine Learning.</p>
 
 <br>
 
@@ -41,9 +41,9 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=news-aggregator&theme=yeblu"/>
 </a>
 
-<a href="https://github.com/NisaMeshal/ACM_WebDev">
+<a href="https://github.com/wakfi/roboboi">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=NisaMeshal&repo=ACM_WebDev&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=wakfi&repo=roboboi&theme=yeblu"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/MyPL">
@@ -56,32 +56,30 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=yeblu"/>
 </a>
 
-<a href="https://github.com/JT2M0L3Y/assignment-scheduler">
+<a href="https://github.com/JT2M0L3Y/JT2M0L3Y.github.io">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=assignment-scheduler&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=JT2M0L3Y.github.io&theme=yeblu"/>
 </a>
 
-<a href="https://github.com/JT2M0L3Y/cryptopgraphy">
+<a href="https://github.com/JT2M0L3Y/quantified-self">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=cryptography&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=quantified-self&theme=yeblu"/>
 </a>
 
 <!-- GitHub Stats -->
 # 📈 GitHub Stats
 
-<!--
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=yeblu" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center"
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=JT2M0L3Y">
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=JT2M0L3Y&theme=yeblu">
 </a>
--->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=yeblu" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=yeblu" />
 </a>
 
 <br>
@@ -194,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Dalai Lama</p>
 
 Check back daily for a new quote!
 
