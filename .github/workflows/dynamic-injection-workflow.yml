@@ -13,10 +13,6 @@ jobs:
       # checkout updated repo
       - name: Checkout Repo
         uses: actions/checkout@v2
-        # with:
-          # ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
-          # persist-credentials: true
-          # fetch-depth: 0
 
       # configure node in runner
       - name: Setup Node
@@ -35,8 +31,6 @@ jobs:
       # Continuous Deployment
       - name: Add To Repo
         run: |
-          # git config pull.rebase false
-          # git pull
           git add .
           git config --global user.name "JT2M0L3Y"
           git config --global user.email "jtsmoley@icloud.com"
@@ -48,5 +42,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-          # ssh: true
-          # force: true
