@@ -4,6 +4,7 @@
   "description": "<a href=\"https://www.github.com/JT2M0L3Y\">   <img width=100% src=./assets/profile-img.gif alt=\"Jonathan's GitHub Banner\"/> </a>",
   "main": "index.js",
   "scripts": {
+    "start": "node ."
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
