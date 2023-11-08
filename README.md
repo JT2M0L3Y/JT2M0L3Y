@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
+<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
 
-<p>- Alfred Adler</p>
+<p>- Roy T. Bennett</p>
 
 Check back daily for a new quote!
 
