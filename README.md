@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Joyce Meyer</p>
 
 Check back daily for a new quote!
 
