@@ -38,8 +38,8 @@ jobs:
           # git config pull.rebase false
           # git pull
           git add .
-          # git config --global user.name "JT2M0L3Y"
-          # git config --global user.email "jtsmoley@icloud.com"
+          git config --global user.name "JT2M0L3Y"
+          git config --global user.email "jtsmoley@icloud.com"
           git commit -m "[Automated] push new quote"
 
       # Deploy
