@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
 
-<p>- Dalai Lama</p>
+<p>- Alfred Adler</p>
 
 Check back daily for a new quote!
 
