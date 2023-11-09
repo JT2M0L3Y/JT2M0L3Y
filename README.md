@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Rewards and punishment is the lowest form of education.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>- Zhuangzi</p>
+<p>- Bodhidharma</p>
 
 Check back daily for a new quote!
 
