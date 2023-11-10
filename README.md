@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>- Bodhidharma</p>
+<p>- Anne Frank</p>
 
 Check back daily for a new quote!
 
