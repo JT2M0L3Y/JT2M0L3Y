@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>- Anne Frank</p>
+<p>- Eric Hoffer</p>
 
 Check back daily for a new quote!
 
