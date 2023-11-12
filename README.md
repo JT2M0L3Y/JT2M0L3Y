@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>To be alive - is Power.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Emily Dickinson</p>
 
 Check back daily for a new quote!
 
