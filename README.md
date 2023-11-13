@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>To be alive - is Power.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Emily Dickinson</p>
+<p>- Chinese Proverb</p>
 
 Check back daily for a new quote!
 
