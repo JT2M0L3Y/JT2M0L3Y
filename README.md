@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Les Brown</p>
 
 Check back daily for a new quote!
 

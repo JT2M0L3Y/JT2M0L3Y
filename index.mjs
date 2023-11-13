@@ -1,10 +1,10 @@
-require("isomorphic-unfetch");
-const { promises: fs } = require("fs");
-const path = require("path");
+// import "isomorphic-unfetch";
+import { promises as fs } from "fs";
+import { join } from "path";
 
 async function main() {
   const readmeTemplate = (
-    await fs.readFile(path.join(process.cwd(), "./README.template.md"))
+    await fs.readFile(join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
   const quote_data = await (
@@ -15,7 +15,7 @@ async function main() {
   const readme = readmeTemplate
     .replace("{quote}", quote_data[0].q)
     .replace("{author}", quote_data[0].a)
-  
+
   await fs.writeFile("README.md", readme);
 };
 
