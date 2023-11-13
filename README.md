@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Les Brown</p>
+<p>- Samuel Butler</p>
 
 Check back daily for a new quote!
 
