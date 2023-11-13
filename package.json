@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/JT2M0L3Y/JT2M0L3Y/issues"
   },
-  "homepage": "https://github.com/JT2M0L3Y/JT2M0L3Y#readme",
-  "dependencies": {
-    "isomorphic-unfetch": "^4.0.2"
-  }
+  "homepage": "https://github.com/JT2M0L3Y/JT2M0L3Y#readme"
 }

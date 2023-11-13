@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>- Les Brown</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
