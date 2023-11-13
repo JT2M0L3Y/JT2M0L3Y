@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Kahlil Gibran</p>
 
 Check back daily for a new quote!
 
