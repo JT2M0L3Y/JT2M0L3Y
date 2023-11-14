@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</p>
+<p>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</p>
 
-<p>- Unknown</p>
+<p>- Sydney Smith</p>
 
 Check back daily for a new quote!
 
