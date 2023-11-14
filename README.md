@@ -194,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>Be - don't try to become </p>
+<p>There is no path to Love. Love is the path.</p>
 
-<p>- Osho</p>
+<p>- Dan Millman</p>
 
 Check back daily for a new quote!
 
