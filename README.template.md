@@ -56,9 +56,9 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=yeblu"/>
 </a>
 
-<a href="https://github.com/JT2M0L3Y/JT2M0L3Y.github.io">
+<a href="https://github.com/JT2M0L3Y/assignment-scheduler">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=JT2M0L3Y.github.io&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=assignment-scheduler&theme=yeblu"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/quantified-self">
@@ -72,8 +72,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=yeblu" />
 </a>
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=yeblu" />
@@ -194,7 +192,7 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>{quote}</p>
+<p>"{quote}"</p>
 
 <p>- {author}</p>
 
