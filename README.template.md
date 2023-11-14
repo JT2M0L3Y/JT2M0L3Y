@@ -4,7 +4,7 @@
 
 <!-- Clickable Badges -->
 [![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
-[![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/dynamic-injection-workflow.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
+[![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=0072b1&color=0072b1)](https://www.linkedin.com/in/jonathansmoley/)
 [![Flickr Badge](https://img.shields.io/badge/Flickr-Profile-informational?style=flat&logo=flickr&logoColor=FF0084&color=FF0084)](https://www.flickr.com/photos/198498782@N02/)
