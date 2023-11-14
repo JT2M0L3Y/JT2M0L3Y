@@ -194,15 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<<<<<<< HEAD
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>Be - don't try to become </p>
 
-<p>- Brian Tracy</p>
-=======
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
-
-<p>- Samuel Butler</p>
->>>>>>> 536a814a7d03eb97601f08557c15a96557844bc1
+<p>- Osho</p>
 
 Check back daily for a new quote!
 
