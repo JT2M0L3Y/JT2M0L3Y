@@ -73,6 +73,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=yeblu" />
 </a>
 
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=yeblu" />
 </a>
@@ -192,9 +194,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Alexander Graham Bell</p>
 
 Check back daily for a new quote!
 
