@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Unhappiness enters through a door that has been left open."</p>
+<p>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</p>
 
-<p>- Zen Proverb</p>
+<p>- Norman Vincent Peale</p>
 
 Check back daily for a new quote!
 
