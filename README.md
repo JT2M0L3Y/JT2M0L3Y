@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</p>
+<p>"It's not the love you make. It's the love you give. "</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Nikola Tesla</p>
 
 Check back daily for a new quote!
 
