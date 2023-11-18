@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It's not the love you make. It's the love you give. "</p>
+<p>"If you're waiting until you feel talented enough to make it, you'll never make it."</p>
 
-<p>- Nikola Tesla</p>
+<p>- Criss Jami</p>
 
 Check back daily for a new quote!
 
