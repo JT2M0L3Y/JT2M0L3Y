@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you're waiting until you feel talented enough to make it, you'll never make it."</p>
+<p>"It is ignorance that causes most mistakes."</p>
 
-<p>- Criss Jami</p>
+<p>- Harry S. Truman</p>
 
 Check back daily for a new quote!
 
