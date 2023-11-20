@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is ignorance that causes most mistakes."</p>
+<p>"Courage is knowing what not to fear."</p>
 
-<p>- Harry S. Truman</p>
+<p>- Plato</p>
 
 Check back daily for a new quote!
 
