@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Courage is knowing what not to fear."</p>
+<p>"The more you know, the more you know you don't know."</p>
 
-<p>- Plato</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
 
