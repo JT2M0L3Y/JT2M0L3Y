@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The more you know, the more you know you don't know."</p>
+<p>"Better to have, and not need, than to need, and not have."</p>
 
-<p>- Aristotle</p>
+<p>- Franz Kafka</p>
 
 Check back daily for a new quote!
 
