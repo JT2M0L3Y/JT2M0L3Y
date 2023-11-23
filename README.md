@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Better to have, and not need, than to need, and not have."</p>
+<p>"Whatever your mind can conceive and believe, it can achieve."</p>
 
-<p>- Franz Kafka</p>
+<p>- Napoleon Hill</p>
 
 Check back daily for a new quote!
 
