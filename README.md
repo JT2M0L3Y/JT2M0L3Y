@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Whatever your mind can conceive and believe, it can achieve."</p>
+<p>"Always forgive your enemies - nothing annoys them so much. "</p>
 
-<p>- Napoleon Hill</p>
+<p>- Oscar Wilde</p>
 
 Check back daily for a new quote!
 
