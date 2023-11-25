@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Always forgive your enemies - nothing annoys them so much. "</p>
+<p>"I love fools' experiments. I am always making them."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Charles Darwin</p>
 
 Check back daily for a new quote!
 
