@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"I love fools' experiments. I am always making them."</p>
+<p>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</p>
 
-<p>- Charles Darwin</p>
+<p>- Robert Collier</p>
 
 Check back daily for a new quote!
 
