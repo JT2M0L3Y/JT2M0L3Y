@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</p>
+<p>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</p>
 
-<p>- Robert Collier</p>
+<p>- Bruce Lee</p>
 
 Check back daily for a new quote!
 
