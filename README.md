@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</p>
+<p>"The only normal people are the ones you don't know very well."</p>
 
-<p>- Bruce Lee</p>
+<p>- Alfred Adler</p>
 
 Check back daily for a new quote!
 
