@@ -28,11 +28,7 @@ jobs:
       - name: Integrate
         run: node .
 
-      # Continuous Deployment
-      - name: Add To Repo
-        run: |
-          git add .
-          git commit -m "[Automated] push new quote"
+      
 
       # Deploy
       - name: Push
