@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The only normal people are the ones you don't know very well."</p>
+<p>"Don't try to steer the river."</p>
 
-<p>- Alfred Adler</p>
+<p>- Deepak Chopra</p>
 
 Check back daily for a new quote!
 
