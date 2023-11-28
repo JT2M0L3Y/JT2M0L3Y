@@ -28,7 +28,13 @@ jobs:
       - name: Integrate
         run: node .
 
-      
+      # Continuous Deployment
+      - name: Add To Repo
+        run: |
+          git add .
+          git config --global user.name "JT2M0L3Y"
+          git config --global user.email "jtsmoley@icloud.com"
+          git commit -m "[Automated] push new quote"
 
       # Deploy
       - name: Push
