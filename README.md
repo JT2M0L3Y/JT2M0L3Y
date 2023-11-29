@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't try to steer the river."</p>
+<p>"Fear can hold you prisoner. Hope can set you free."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Stephen King</p>
 
 Check back daily for a new quote!
 
