@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Fear can hold you prisoner. Hope can set you free."</p>
+<p>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</p>
 
-<p>- Stephen King</p>
+<p>- Robin Williams</p>
 
 Check back daily for a new quote!
 
