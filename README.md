@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</p>
+<p>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</p>
 
-<p>- Robin Williams</p>
+<p>- T.S. Eliot</p>
 
 Check back daily for a new quote!
 
