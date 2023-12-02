@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</p>
+<p>"Night is a more quiet time to work. It aids thought."</p>
 
-<p>- T.S. Eliot</p>
+<p>- Alexander Graham Bell</p>
 
 Check back daily for a new quote!
 
