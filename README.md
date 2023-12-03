@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Night is a more quiet time to work. It aids thought."</p>
+<p>"The impossible can always be broken down into possibilities."</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
