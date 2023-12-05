@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</p>
+<p>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</p>
 
-<p>- Jack Butcher</p>
+<p>- Criss Jami</p>
 
 Check back daily for a new quote!
 
