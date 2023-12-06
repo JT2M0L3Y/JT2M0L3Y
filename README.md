@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</p>
+<p>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</p>
 
-<p>- Criss Jami</p>
+<p>- Richard Bach</p>
 
 Check back daily for a new quote!
 
