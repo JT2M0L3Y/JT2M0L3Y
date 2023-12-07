@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</p>
+<p>"Take away love and our earth is a tomb."</p>
 
-<p>- Richard Bach</p>
+<p>- Robert Browning</p>
 
 Check back daily for a new quote!
 
