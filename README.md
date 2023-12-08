@@ -17,7 +17,7 @@
 
 # 👋 Introduction
 
-<p>Hello!😜</p>
+<p>Hello❗😊😢</p>
 <p>I'm Jonathan, a Computer Science student and novice photographer.</p>
 <p>I am most interested in Software Engineering and DevOps, but I also have explored Cybersecurity and Machine Learning.</p>
 
@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Who looks outside, dreams; who looks inside, awakes."</p>
+<p>"When I let go of what I am, I become what I might be."</p>
 
-<p>- Lolly Daskal</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
