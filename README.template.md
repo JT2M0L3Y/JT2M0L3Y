@@ -17,7 +17,7 @@
 
 # 👋 Introduction
 
-<p>Hello!😜</p>
+<p>Hello❗😊😢</p>
 <p>I'm Jonathan, a Computer Science student and novice photographer.</p>
 <p>I am most interested in Software Engineering and DevOps, but I also have explored Cybersecurity and Machine Learning.</p>
 
