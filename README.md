@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Take away love and our earth is a tomb."</p>
+<p>"Who looks outside, dreams; who looks inside, awakes."</p>
 
-<p>- Robert Browning</p>
+<p>- Lolly Daskal</p>
 
 Check back daily for a new quote!
 
