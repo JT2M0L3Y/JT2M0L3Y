@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When I let go of what I am, I become what I might be."</p>
+<p>"Success is built sequentially. It's one thing at a time."</p>
 
-<p>- Lao Tzu</p>
+<p>- Gary Keller</p>
 
 Check back daily for a new quote!
 
