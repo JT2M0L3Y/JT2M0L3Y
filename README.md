@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is built sequentially. It's one thing at a time."</p>
+<p>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</p>
 
-<p>- Gary Keller</p>
+<p>- Dan Millman</p>
 
 Check back daily for a new quote!
 
