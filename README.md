@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</p>
+<p>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</p>
 
-<p>- Dan Millman</p>
+<p>- Carlos Ruiz Zafon</p>
 
 Check back daily for a new quote!
 
