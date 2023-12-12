@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</p>
+<p>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Martin Luther King, Jr.</p>
 
 Check back daily for a new quote!
 
