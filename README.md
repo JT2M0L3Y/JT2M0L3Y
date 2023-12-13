@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</p>
+<p>"The people who are crazy enough to think they can change the world are the ones who do."</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Steve Jobs</p>
 
 Check back daily for a new quote!
 
