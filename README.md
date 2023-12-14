@@ -192,9 +192,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The people who are crazy enough to think they can change the world are the ones who do."</p>
+<p>"When one does not have what one wants, one must want what one has."</p>
 
-<p>- Steve Jobs</p>
+<p>- Sigmund Freud</p>
 
 Check back daily for a new quote!
 
