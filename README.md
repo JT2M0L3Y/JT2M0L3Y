@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is not enough to win a war; it is more important to organize the peace."</p>
+<p>"The person who says something is impossible should not interrupt the person who is doing it."</p>
 
-<p>- Aristotle</p>
+<p>- Chinese Proverb</p>
 
 Check back daily for a new quote!
 
