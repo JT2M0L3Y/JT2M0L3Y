@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The person who says something is impossible should not interrupt the person who is doing it."</p>
+<p>"The heart wants what it wants. There's no logic. "</p>
 
-<p>- Chinese Proverb</p>
+<p>- Woody Allen</p>
 
 Check back daily for a new quote!
 
