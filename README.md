@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The heart wants what it wants. There's no logic. "</p>
+<p>"There is no value in anything until it is finished. "</p>
 
-<p>- Woody Allen</p>
+<p>- Genghis Khan</p>
 
 Check back daily for a new quote!
 
