@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There is no value in anything until it is finished. "</p>
+<p>"The greatest mistake you can make in life is to be continually fearing you will make one."</p>
 
-<p>- Genghis Khan</p>
+<p>- Elbert Hubbard</p>
 
 Check back daily for a new quote!
 
