@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The greatest mistake you can make in life is to be continually fearing you will make one."</p>
+<p>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Dogen</p>
 
 Check back daily for a new quote!
 
