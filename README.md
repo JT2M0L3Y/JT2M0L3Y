@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</p>
+<p>"Believe you can and you will be halfway there."</p>
 
-<p>- Dogen</p>
+<p>- Lolly Daskal</p>
 
 Check back daily for a new quote!
 
