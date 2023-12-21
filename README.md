@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Believe you can and you will be halfway there."</p>
+<p>"Once you choose hope, anything's possible."</p>
 
-<p>- Lolly Daskal</p>
+<p>- Christopher Reeve</p>
 
 Check back daily for a new quote!
 
