@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Once you choose hope, anything's possible."</p>
+<p>"Human happiness and moral duty are inseparably connected. "</p>
 
-<p>- Christopher Reeve</p>
+<p>- George Washington</p>
 
 Check back daily for a new quote!
 
