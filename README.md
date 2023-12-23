@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Human happiness and moral duty are inseparably connected. "</p>
+<p>"Obstacles don't block the path, they are the path."</p>
 
-<p>- George Washington</p>
+<p>- Zen Proverb</p>
 
 Check back daily for a new quote!
 
