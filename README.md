@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Obstacles don't block the path, they are the path."</p>
+<p>"Make failure your teacher, not your undertaker.  "</p>
 
-<p>- Zen Proverb</p>
+<p>- Zig Ziglar</p>
 
 Check back daily for a new quote!
 
