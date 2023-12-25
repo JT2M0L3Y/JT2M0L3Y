@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Make failure your teacher, not your undertaker.  "</p>
+<p>"My powers are ordinary. Only my application brings me success."</p>
 
-<p>- Zig Ziglar</p>
+<p>- Isaac Newton</p>
 
 Check back daily for a new quote!
 
