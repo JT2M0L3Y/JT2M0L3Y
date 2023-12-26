@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"My powers are ordinary. Only my application brings me success."</p>
+<p>"Our deeds determine us, as much as we determine our deeds."</p>
 
-<p>- Isaac Newton</p>
+<p>- George Eliot</p>
 
 Check back daily for a new quote!
 
