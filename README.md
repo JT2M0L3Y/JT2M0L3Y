@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Our deeds determine us, as much as we determine our deeds."</p>
+<p>"Youth has no age."</p>
 
-<p>- George Eliot</p>
+<p>- Pablo Picasso</p>
 
 Check back daily for a new quote!
 
