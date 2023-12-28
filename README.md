@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Youth has no age."</p>
+<p>"We can see through others only when we can see through ourselves."</p>
 
-<p>- Pablo Picasso</p>
+<p>- Bruce Lee</p>
 
 Check back daily for a new quote!
 
