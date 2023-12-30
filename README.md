@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We would accomplish many more things if we did not think of them as impossible."</p>
+<p>"It is easy to discover what another has discovered before."</p>
 
-<p>- Vince Lombardi</p>
+<p>- Christopher Columbus</p>
 
 Check back daily for a new quote!
 
