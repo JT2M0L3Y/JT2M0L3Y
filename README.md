@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is easy to discover what another has discovered before."</p>
+<p>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</p>
 
-<p>- Christopher Columbus</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
