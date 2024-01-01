@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</p>
+<p>"The purpose of life is the expansion of happiness."</p>
 
-<p>- Lao Tzu</p>
+<p>- Deepak Chopra</p>
 
 Check back daily for a new quote!
 
