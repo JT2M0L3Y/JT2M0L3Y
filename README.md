@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The purpose of life is the expansion of happiness."</p>
+<p>"A man who dares to waste one hour of time has not discovered the value of life."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Charles Darwin</p>
 
 Check back daily for a new quote!
 
