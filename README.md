@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</p>
+<p>"Insanity: doing the same thing over and over again and expecting different results."</p>
 
-<p>- Peter Drucker</p>
+<p>- Albert Einstein</p>
 
 Check back daily for a new quote!
 
