@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Insanity: doing the same thing over and over again and expecting different results."</p>
+<p>"Every hour of every day is an unspeakably perfect miracle."</p>
 
-<p>- Albert Einstein</p>
+<p>- Walt Whitman</p>
 
 Check back daily for a new quote!
 
