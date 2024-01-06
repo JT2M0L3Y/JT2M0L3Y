@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Every hour of every day is an unspeakably perfect miracle."</p>
+<p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
 
-<p>- Walt Whitman</p>
+<p>- Celestine Chua</p>
 
 Check back daily for a new quote!
 
