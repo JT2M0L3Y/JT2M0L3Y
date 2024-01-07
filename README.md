@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
+<p>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</p>
 
-<p>- Celestine Chua</p>
+<p>- George Bernard Shaw</p>
 
 Check back daily for a new quote!
 
