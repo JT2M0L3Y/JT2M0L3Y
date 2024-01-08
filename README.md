@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</p>
+<p>"Men trust their ears less than their eyes."</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Herodotus</p>
 
 Check back daily for a new quote!
 
