@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Men trust their ears less than their eyes."</p>
+<p>"Only in the agony of parting do we look into the depths of love."</p>
 
-<p>- Herodotus</p>
+<p>- George Eliot</p>
 
 Check back daily for a new quote!
 
