@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Only in the agony of parting do we look into the depths of love."</p>
+<p>"Happiness depends upon ourselves."</p>
 
-<p>- George Eliot</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
 
