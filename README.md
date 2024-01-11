@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Happiness depends upon ourselves."</p>
+<p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
 
-<p>- Aristotle</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
