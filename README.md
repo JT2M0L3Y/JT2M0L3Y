@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
+<p>"Care about what other people think and you will always be their prisoner."</p>
 
-<p>- Ayn Rand</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
