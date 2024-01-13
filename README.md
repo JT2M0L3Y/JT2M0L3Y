@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Care about what other people think and you will always be their prisoner."</p>
+<p>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</p>
 
-<p>- Lao Tzu</p>
+<p>- Earl Nightingale</p>
 
 Check back daily for a new quote!
 
