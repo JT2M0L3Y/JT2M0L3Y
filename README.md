@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</p>
+<p>"You will not do incredible things without an incredible dream."</p>
 
-<p>- Earl Nightingale</p>
+<p>- John Eliot</p>
 
 Check back daily for a new quote!
 
