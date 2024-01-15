@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You will not do incredible things without an incredible dream."</p>
+<p>"Integrity is the ability to stand by an idea."</p>
 
-<p>- John Eliot</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
