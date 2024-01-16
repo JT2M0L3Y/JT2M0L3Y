@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Integrity is the ability to stand by an idea."</p>
+<p>"All life is an experiment. The more experiments you make, the better."</p>
 
-<p>- Ayn Rand</p>
+<p>- Ralph Waldo Emerson</p>
 
 Check back daily for a new quote!
 
