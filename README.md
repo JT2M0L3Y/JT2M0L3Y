@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"All life is an experiment. The more experiments you make, the better."</p>
+<p>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Charles Darwin</p>
 
 Check back daily for a new quote!
 
