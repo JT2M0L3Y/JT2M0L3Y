@@ -212,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</p>
+<p>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</p>
 
-<p>- Charles Darwin</p>
+<p>- Orison Swett Marden</p>
 
 Check back daily for a new quote!
 
