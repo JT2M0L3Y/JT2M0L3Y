@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The score never interested me, only the game."</p>
+<p>"Everything has beauty but not everyone sees it."</p>
 
-<p>- Mae West</p>
+<p>- Confucius</p>
 
 Check back daily for a new quote!
 
