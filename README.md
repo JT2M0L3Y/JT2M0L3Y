@@ -77,11 +77,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=yeblu" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=500 align="center"
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=JT2M0L3Y&theme=yeblu">
-</a>
-
 <br>
 
 <!-- Skills -->
@@ -212,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</p>
+<p>"The score never interested me, only the game."</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Mae West</p>
 
 Check back daily for a new quote!
 
