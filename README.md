@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Everything has beauty but not everyone sees it."</p>
+<p>"The best way to understanding is a few good examples."</p>
 
-<p>- Confucius</p>
+<p>- Isaac Newton</p>
 
 Check back daily for a new quote!
 
