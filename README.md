@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The best way to understanding is a few good examples."</p>
+<p>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</p>
 
-<p>- Isaac Newton</p>
+<p>- Osho</p>
 
 Check back daily for a new quote!
 
