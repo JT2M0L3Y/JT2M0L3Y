@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</p>
+<p>"Stress happens when the mind resists what is."</p>
 
-<p>- Osho</p>
+<p>- Dan Millman</p>
 
 Check back daily for a new quote!
 
