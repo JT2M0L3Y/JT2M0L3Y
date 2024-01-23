@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Stress happens when the mind resists what is."</p>
+<p>"Against the assault of laughter nothing can stand."</p>
 
-<p>- Dan Millman</p>
+<p>- Mark Twain</p>
 
 Check back daily for a new quote!
 
