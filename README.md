@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The eyes of others our prisons; their thoughts our cages."</p>
+<p>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</p>
 
-<p>- Virginia Woolf</p>
+<p>- George Bernard Shaw</p>
 
 Check back daily for a new quote!
 
