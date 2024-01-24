@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Against the assault of laughter nothing can stand."</p>
+<p>"The eyes of others our prisons; their thoughts our cages."</p>
 
-<p>- Mark Twain</p>
+<p>- Virginia Woolf</p>
 
 Check back daily for a new quote!
 
