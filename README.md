@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Nature is pleased with simplicity. And nature is no dummy."</p>
+<p>"Peace is not the absence of conflict, but the ability to cope with it."</p>
 
-<p>- Isaac Newton</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
