@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Peace is not the absence of conflict, but the ability to cope with it."</p>
+<p>"There are no differences but differences of degree between different degrees of difference and no difference."</p>
 
-<p>- Unknown</p>
+<p>- William James</p>
 
 Check back daily for a new quote!
 
