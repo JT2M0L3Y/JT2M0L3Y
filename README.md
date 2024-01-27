@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There are no differences but differences of degree between different degrees of difference and no difference."</p>
+<p>"All happiness depends on courage and work."</p>
 
-<p>- William James</p>
+<p>- Honore de Balzac</p>
 
 Check back daily for a new quote!
 
