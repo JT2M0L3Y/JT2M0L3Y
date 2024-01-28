@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"All happiness depends on courage and work."</p>
+<p>"The quieter you become, the more you are able to hear."</p>
 
-<p>- Honore de Balzac</p>
+<p>- Rumi</p>
 
 Check back daily for a new quote!
 
