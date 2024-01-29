@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The quieter you become, the more you are able to hear."</p>
+<p>"The dreamers are the saviors of the worlds."</p>
 
-<p>- Rumi</p>
+<p>- James Allen</p>
 
 Check back daily for a new quote!
 
