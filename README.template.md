@@ -26,6 +26,11 @@
 <!-- Pinned Repositories -->
 # 📍 Pinned Repositories
 
+<a href="https://github.com/kevinthedang/discord-ollama">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=yeblu"/>
+</a>
+
 <a href="https://github.com/JT2M0L3Y/amplify-react-graphql">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=amplify-react-graphql&theme=yeblu"/>
