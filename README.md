@@ -207,9 +207,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The dreamers are the saviors of the worlds."</p>
+<p>"Success is built sequentially. It's one thing at a time."</p>
 
-<p>- James Allen</p>
+<p>- Gary Keller</p>
 
 Check back daily for a new quote!
 
