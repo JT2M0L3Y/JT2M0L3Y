@@ -26,6 +26,11 @@
 <!-- Pinned Repositories -->
 # 📍 Pinned Repositories
 
+<a href="https://github.com/kevinthedang/discord-ollama">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=yeblu"/>
+</a>
+
 <a href="https://github.com/JT2M0L3Y/amplify-react-graphql">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=amplify-react-graphql&theme=yeblu"/>
@@ -207,9 +212,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is built sequentially. It's one thing at a time."</p>
+<p>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</p>
 
-<p>- Gary Keller</p>
+<p>- Og Mandino</p>
 
 Check back daily for a new quote!
 
