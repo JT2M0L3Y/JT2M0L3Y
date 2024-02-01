@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Death is not an ending. It is a transformation."</p>
+<p>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Deepak Chopra</p>
 
 Check back daily for a new quote!
 
