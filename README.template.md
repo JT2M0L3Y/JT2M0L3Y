@@ -15,25 +15,20 @@
 
 <br>
 
-# 👋 Introduction
+## 👋 Introduction
 
 <p>Hello❗😊😢</p>
 <p>I'm Jonathan, an aspiring software engineer, student of computer science, and novice photographer.</p>
-<p>My interests lie mostly in software engineering and DevOps, but I also have explored cybersecurity and machine learning.</p>
+<p>I am interested in full-stack development, object-oriented programming, and DevOps; however, I also have been known to dive deep into cybersecurity, cloud computing, and machine learning as well.</p>
 
 <br>
 
 <!-- Pinned Repositories -->
-# 📍 Pinned Repositories
+## 📍 Pinned Repositories
 
 <a href="https://github.com/kevinthedang/discord-ollama">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=yeblu"/>
-</a>
-
-<a href="https://github.com/JT2M0L3Y/amplify-react-graphql">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=amplify-react-graphql&theme=yeblu"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/twitter-clone">
@@ -44,11 +39,6 @@
 <a href="https://github.com/JT2M0L3Y/news-aggregator">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=news-aggregator&theme=yeblu"/>
-</a>
-
-<a href="https://github.com/wakfi/roboboi">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=wakfi&repo=roboboi&theme=yeblu"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/MyPL">
@@ -71,8 +61,13 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=quantified-self&theme=yeblu"/>
 </a>
 
+<a href="https://github.com/JT2M0L3Y/amplify-react-graphql">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=amplify-react-graphql&theme=yeblu"/>
+</a>
+
 <!-- GitHub Stats -->
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=yeblu" />
@@ -82,10 +77,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=yeblu" />
 </a>
 
-<br>
-
 <!-- Skills -->
-# ⛏️ Tools I've Worked With
+## ⛏️ Tools I've Worked With
 
 ### Languages
 <details>
@@ -206,10 +199,6 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </details>
 
-<br>
-
-#
-
 ## 📯 How about a cheeky quote?
 
 <p>"{quote}"</p>
@@ -218,9 +207,6 @@
 
 Check back daily for a new quote!
 
-<br>
-
-<!-- Template Here! -->
-## ❗ Want to make your own GitHub profile page?
+### ❗ Want to make your own GitHub profile page?
 
 Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
