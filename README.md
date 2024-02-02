@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</p>
+<p>"Peaceful is the one who expects nothing."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Maxime Lagace</p>
 
 Check back daily for a new quote!
 
