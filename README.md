@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Peaceful is the one who expects nothing."</p>
+<p>"The trouble with the rat race is that even if you win, you're still a rat."</p>
 
-<p>- Maxime Lagace</p>
+<p>- Lily Tomlin</p>
 
 Check back daily for a new quote!
 
