@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The trouble with the rat race is that even if you win, you're still a rat."</p>
+<p>"Who looks outside, dreams; who looks inside, awakes."</p>
 
-<p>- Lily Tomlin</p>
+<p>- Lolly Daskal</p>
 
 Check back daily for a new quote!
 
