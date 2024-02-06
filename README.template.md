@@ -7,7 +7,7 @@
 [![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=0072b1&color=0072b1)](https://www.linkedin.com/in/jonathansmoley/)
-[![Flickr Badge](https://img.shields.io/badge/Flickr-Profile-informational?style=flat&logo=flickr&logoColor=FF0084&color=FF0084)](https://www.flickr.com/photos/198498782@N02/)
+[![Flickr Badge](https://img.shields.io/badge/Flickr-Profile-informational?style=flat&logo=flickr&logoColor=FF0084&color=FF0084)](https://www.flickr.com/people/198498782@N02/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=833AB4&color=833AB4)](https://www.instagram.com/jonathansmoley/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=4267B2&color=4267B2)](https://www.facebook.com/jonathansmoley.1/)
 [![Steam Badge](https://img.shields.io/badge/Steam-Profile-informational?style=flat&logo=steam&logoColor=232633&color=232633)](https://steamcommunity.com/id/Kaedowjan/)
