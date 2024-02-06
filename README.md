@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</p>
+<p>"Don't stumble over something that's behind you."</p>
 
-<p>- Samuel Beckett</p>
+<p>- Steve Harvey</p>
 
 Check back daily for a new quote!
 
