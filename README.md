@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't stumble over something that's behind you."</p>
+<p>"I hear and I forget. I see and I remember. I do and I understand. "</p>
 
-<p>- Steve Harvey</p>
+<p>- Confucius</p>
 
 Check back daily for a new quote!
 
