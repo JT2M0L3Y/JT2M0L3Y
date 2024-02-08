@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"I hear and I forget. I see and I remember. I do and I understand. "</p>
+<p>"Quality is more important than quantity. One home run is much better than two doubles."</p>
 
-<p>- Confucius</p>
+<p>- Steve Jobs</p>
 
 Check back daily for a new quote!
 
