@@ -206,9 +206,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Quality is more important than quantity. One home run is much better than two doubles."</p>
+<p>"Never be bored, and you will never be boring."</p>
 
-<p>- Steve Jobs</p>
+<p>- Eleanor Roosevelt</p>
 
 Check back daily for a new quote!
 
