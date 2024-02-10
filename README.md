@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Well done is better than well said."</p>
+<p>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
