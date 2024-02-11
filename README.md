@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</p>
+<p>"Luck is a matter of preparation meeting opportunity."</p>
 
-<p>- Lao Tzu</p>
+<p>- Oprah Winfrey</p>
 
 Check back daily for a new quote!
 
