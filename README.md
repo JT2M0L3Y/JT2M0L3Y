@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Luck is a matter of preparation meeting opportunity."</p>
+<p>"Wealth is the product of man's capacity to think."</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
