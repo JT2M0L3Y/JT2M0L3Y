@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wealth is the product of man's capacity to think."</p>
+<p>"You can suffer the pain of change or suffer remaining the way you are."</p>
 
-<p>- Ayn Rand</p>
+<p>- Joyce Meyer</p>
 
 Check back daily for a new quote!
 
