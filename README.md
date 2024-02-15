@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is passion that makes man live; wisdom makes one only last."</p>
+<p>"Instead of worrying about what you cannot control, shift your energy to what you can create."</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Roy T. Bennett</p>
 
 Check back daily for a new quote!
 
