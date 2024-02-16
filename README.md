@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Instead of worrying about what you cannot control, shift your energy to what you can create."</p>
+<p>"Don't let making a living prevent you from making a life."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
