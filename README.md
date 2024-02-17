@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't let making a living prevent you from making a life."</p>
+<p>"Your time is limited, so don't waste it living someone elses. life."</p>
 
-<p>- John Wooden</p>
+<p>- Steve Jobs</p>
 
 Check back daily for a new quote!
 
