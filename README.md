@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your time is limited, so don't waste it living someone elses. life."</p>
+<p>"Darkness is the absence of light."</p>
 
-<p>- Steve Jobs</p>
+<p>- Kamal Ravikant</p>
 
 Check back daily for a new quote!
 
