@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Darkness is the absence of light."</p>
+<p>"The most courageous act is still to think for yourself. Aloud."</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Coco Chanel</p>
 
 Check back daily for a new quote!
 
