@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The most courageous act is still to think for yourself. Aloud."</p>
+<p>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</p>
 
-<p>- Coco Chanel</p>
+<p>- Shunryu Suzuki</p>
 
 Check back daily for a new quote!
 
