@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</p>
+<p>"Real loss is only possible when you love something more than you love yourself."</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Robin Williams</p>
 
 Check back daily for a new quote!
 
