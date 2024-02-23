@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Where words fail, music speaks."</p>
+<p>"You have to keep breaking your heart until it opens."</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Rumi</p>
 
 Check back daily for a new quote!
 
