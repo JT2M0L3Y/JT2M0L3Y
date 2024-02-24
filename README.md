@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You have to keep breaking your heart until it opens."</p>
+<p>"Sometimes you have to travel a long way to find what is near."</p>
 
-<p>- Rumi</p>
+<p>- Paulo Coelho</p>
 
 Check back daily for a new quote!
 
