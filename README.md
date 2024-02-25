@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Sometimes you have to travel a long way to find what is near."</p>
+<p>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</p>
 
-<p>- Paulo Coelho</p>
+<p>- Stephen King</p>
 
 Check back daily for a new quote!
 
