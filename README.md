@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</p>
+<p>"Integrity is the ability to stand by an idea."</p>
 
-<p>- Stephen King</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
