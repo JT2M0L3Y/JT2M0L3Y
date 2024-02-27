@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Integrity is the ability to stand by an idea."</p>
+<p>"A person hears only what they understand."</p>
 
-<p>- Ayn Rand</p>
+<p>- Johann Wolfgang von Goethe</p>
 
 Check back daily for a new quote!
 
