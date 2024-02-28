@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A person hears only what they understand."</p>
+<p>"It is not how much we have, but how much we enjoy, that makes happiness."</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Charles Spurgeon</p>
 
 Check back daily for a new quote!
 
