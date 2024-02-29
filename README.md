@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is not how much we have, but how much we enjoy, that makes happiness."</p>
+<p>"Where violence reigns, reason is weak."</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Nicolas Chamfort</p>
 
 Check back daily for a new quote!
 
