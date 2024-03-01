@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Where violence reigns, reason is weak."</p>
+<p>"The purpose of life is the expansion of happiness."</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Deepak Chopra</p>
 
 Check back daily for a new quote!
 
