@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The purpose of life is the expansion of happiness."</p>
+<p>"Our truest life is when we are in dreams awake."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Henry David Thoreau</p>
 
 Check back daily for a new quote!
 
