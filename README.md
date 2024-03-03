@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Our truest life is when we are in dreams awake."</p>
+<p>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Kamal Ravikant</p>
 
 Check back daily for a new quote!
 
