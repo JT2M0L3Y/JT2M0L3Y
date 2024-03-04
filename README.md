@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</p>
+<p>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Thich Nhat Hanh</p>
 
 Check back daily for a new quote!
 
