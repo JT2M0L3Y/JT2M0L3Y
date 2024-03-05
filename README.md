@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</p>
+<p>"It's your life-but only if you make it so."</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Eleanor Roosevelt</p>
 
 Check back daily for a new quote!
 
