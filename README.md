@@ -18,9 +18,9 @@
 ## 👋 Introduction
 
 <p>Hello!</p>
-<p>I'm Jonathan, an aspiring software engineer, student of computer science, and novice photographer.</p>
-<p>I am interested in full-stack development, object-oriented programming, and DevOps.</p>
-<p>I also have been known to dive deep into cybersecurity, cloud computing, and machine learning as well.</p>
+<p>I'm Jonathan, an aspiring software engineer and student of computer science.</p>
+<p>Most of my experience is in full-stack development, object-oriented programming, and DevOps.</p>
+<p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
 
 <br>
 
@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It's your life-but only if you make it so."</p>
+<p>"Speak when you are angry - and you'll make the best speech you'll ever regret."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Laurence J. Peter</p>
 
 Check back daily for a new quote!
 
