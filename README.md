@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Speak when you are angry - and you'll make the best speech you'll ever regret."</p>
+<p>"A Quitter never wins - and - a Winner never quits."</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Napoleon Hill</p>
 
 Check back daily for a new quote!
 
