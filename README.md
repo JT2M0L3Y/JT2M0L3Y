@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A Quitter never wins - and - a Winner never quits."</p>
+<p>"Character is destiny."</p>
 
-<p>- Napoleon Hill</p>
+<p>- Heraclitus</p>
 
 Check back daily for a new quote!
 
