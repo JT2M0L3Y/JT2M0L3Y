@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</p>
+<p>"I don't walk away from things that I think are unfinished."</p>
 
-<p>- Brian Tracy</p>
+<p>- Arnold Schwarzenegger</p>
 
 Check back daily for a new quote!
 
