@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"I don't walk away from things that I think are unfinished."</p>
+<p>"It is startling to realize how much unbelief is necessary to make belief possible."</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Eric Hoffer</p>
 
 Check back daily for a new quote!
 
