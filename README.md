@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is startling to realize how much unbelief is necessary to make belief possible."</p>
+<p>"Not everything that weighs you down is yours to carry."</p>
 
-<p>- Eric Hoffer</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
