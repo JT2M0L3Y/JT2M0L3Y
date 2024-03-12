@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Not everything that weighs you down is yours to carry."</p>
+<p>"Confidence breeds beauty.  "</p>
 
-<p>- Unknown</p>
+<p>- Estee Lauder</p>
 
 Check back daily for a new quote!
 
