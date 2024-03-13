@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Confidence breeds beauty.  "</p>
+<p>"Until we can manage time, we can manage nothing else."</p>
 
-<p>- Estee Lauder</p>
+<p>- Peter Drucker</p>
 
 Check back daily for a new quote!
 
