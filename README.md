@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Until we can manage time, we can manage nothing else."</p>
+<p>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</p>
 
-<p>- Peter Drucker</p>
+<p>- Roy T. Bennett</p>
 
 Check back daily for a new quote!
 
