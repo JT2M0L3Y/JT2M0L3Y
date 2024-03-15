@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</p>
+<p>"Action may not always bring happiness, but there is no happiness without action."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- William James</p>
 
 Check back daily for a new quote!
 
