@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Action may not always bring happiness, but there is no happiness without action."</p>
+<p>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</p>
 
-<p>- William James</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
