@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</p>
+<p>"Real growth comes through intense, difficult, and challenging situations."</p>
 
-<p>- Ayn Rand</p>
+<p>- Kamal Ravikant</p>
 
 Check back daily for a new quote!
 
