@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Real growth comes through intense, difficult, and challenging situations."</p>
+<p>"Success is stumbling from failure to failure with no loss of enthusiasm."</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Winston Churchill</p>
 
 Check back daily for a new quote!
 
