@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is stumbling from failure to failure with no loss of enthusiasm."</p>
+<p>"Success is a poor teacher."</p>
 
-<p>- Winston Churchill</p>
+<p>- Robert Kiyosaki</p>
 
 Check back daily for a new quote!
 
