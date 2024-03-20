@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is a poor teacher."</p>
+<p>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Og Mandino</p>
 
 Check back daily for a new quote!
 
