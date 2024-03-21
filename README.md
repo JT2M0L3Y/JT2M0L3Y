@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</p>
+<p>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</p>
 
-<p>- Og Mandino</p>
+<p>- Colin Powell</p>
 
 Check back daily for a new quote!
 
