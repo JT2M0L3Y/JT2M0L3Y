@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</p>
+<p>"Muddy water is best cleared by leaving it alone."</p>
 
-<p>- Colin Powell</p>
+<p>- Alan Watts</p>
 
 Check back daily for a new quote!
 
