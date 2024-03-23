@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Muddy water is best cleared by leaving it alone."</p>
+<p>"Darkness is the absence of light."</p>
 
-<p>- Alan Watts</p>
+<p>- Kamal Ravikant</p>
 
 Check back daily for a new quote!
 
