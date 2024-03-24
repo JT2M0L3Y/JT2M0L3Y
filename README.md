@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Darkness is the absence of light."</p>
+<p>"Give so much away people insist on paying you."</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Jack Butcher</p>
 
 Check back daily for a new quote!
 
