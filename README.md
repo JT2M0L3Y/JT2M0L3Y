@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Give so much away people insist on paying you."</p>
+<p>"Passion is born deaf and dumb."</p>
 
-<p>- Jack Butcher</p>
+<p>- Honore de Balzac</p>
 
 Check back daily for a new quote!
 
