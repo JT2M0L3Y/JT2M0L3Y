@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Passion is born deaf and dumb."</p>
+<p>"Attitude, not aptitude, determines altitude.  "</p>
 
-<p>- Honore de Balzac</p>
+<p>- Zig Ziglar</p>
 
 Check back daily for a new quote!
 
