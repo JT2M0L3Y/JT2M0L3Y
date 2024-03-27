@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Attitude, not aptitude, determines altitude.  "</p>
+<p>"Empty your mind, be formless, shapeless, like water."</p>
 
-<p>- Zig Ziglar</p>
+<p>- Bruce Lee</p>
 
 Check back daily for a new quote!
 
