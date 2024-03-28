@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Empty your mind, be formless, shapeless, like water."</p>
+<p>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</p>
 
-<p>- Bruce Lee</p>
+<p>- John Tukey</p>
 
 Check back daily for a new quote!
 
