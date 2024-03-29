@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</p>
+<p>"If a man knows not to which port he sails, no wind is favorable.  "</p>
 
-<p>- John Tukey</p>
+<p>- Seneca</p>
 
 Check back daily for a new quote!
 
