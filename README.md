@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If a man knows not to which port he sails, no wind is favorable.  "</p>
+<p>"If you can see it in your mind, you can hold it in your mind."</p>
 
-<p>- Seneca</p>
+<p>- Steve Harvey</p>
 
 Check back daily for a new quote!
 
