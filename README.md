@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you can see it in your mind, you can hold it in your mind."</p>
+<p>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</p>
 
-<p>- Steve Harvey</p>
+<p>- Elon Musk</p>
 
 Check back daily for a new quote!
 
