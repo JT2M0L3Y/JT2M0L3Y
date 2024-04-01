@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</p>
+<p>"If you don't like something change it; if you can't change it, change the way you think about it."</p>
 
-<p>- Elon Musk</p>
+<p>- Mary Engelbreit</p>
 
 Check back daily for a new quote!
 
