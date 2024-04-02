@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you don't like something change it; if you can't change it, change the way you think about it."</p>
+<p>"Be as fluid as water, do not give your enemies anything solid to attack."</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Robert Greene</p>
 
 Check back daily for a new quote!
 
