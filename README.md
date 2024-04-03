@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be as fluid as water, do not give your enemies anything solid to attack."</p>
+<p>"Failure is not fatal, but failure to change might be."</p>
 
-<p>- Robert Greene</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
