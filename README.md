@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Failure is not fatal, but failure to change might be."</p>
+<p>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</p>
 
-<p>- John Wooden</p>
+<p>- Virginia Woolf</p>
 
 Check back daily for a new quote!
 
