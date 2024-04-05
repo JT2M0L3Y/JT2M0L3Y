@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</p>
+<p>"What one does is what counts. Not what one had the intention of doing."</p>
 
-<p>- Virginia Woolf</p>
+<p>- Pablo Picasso</p>
 
 Check back daily for a new quote!
 
