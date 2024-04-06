@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"What one does is what counts. Not what one had the intention of doing."</p>
+<p>"Love the life you live, live the life you love."</p>
 
-<p>- Pablo Picasso</p>
+<p>- Bob Marley</p>
 
 Check back daily for a new quote!
 
