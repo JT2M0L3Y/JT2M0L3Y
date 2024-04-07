@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Love the life you live, live the life you love."</p>
+<p>"Each time we don't say what we wanna say, we're dying."</p>
 
-<p>- Bob Marley</p>
+<p>- Yoko Ono</p>
 
 Check back daily for a new quote!
 
