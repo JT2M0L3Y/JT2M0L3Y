@@ -197,12 +197,12 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Each time we don't say what we wanna say, we're dying."</p>
+<p>"Faithless is he that says farewell when the road darkens."</p>
 
-<p>- Yoko Ono</p>
+<p>- J.R.R. Tolkien</p>
 
 Check back daily for a new quote!
 
 ### ❗ Want to make your own GitHub profile page?
 
-Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+Feel free to use mine as a template!
