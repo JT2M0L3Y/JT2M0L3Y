@@ -205,4 +205,4 @@ Check back daily for a new quote!
 
 ### ❗ Want to make your own GitHub profile page?
 
-Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+Feel free to use mine as a template!
