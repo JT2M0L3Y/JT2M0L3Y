@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Faithless is he that says farewell when the road darkens."</p>
+<p>"We can change our lives. We can do, have, and be exactly what we wish."</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Tony Robbins</p>
 
 Check back daily for a new quote!
 
