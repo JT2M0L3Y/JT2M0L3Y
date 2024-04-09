@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We can change our lives. We can do, have, and be exactly what we wish."</p>
+<p>"Don't give up on your dreams, or your dreams will give up on you."</p>
 
-<p>- Tony Robbins</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
