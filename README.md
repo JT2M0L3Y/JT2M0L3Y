@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't give up on your dreams, or your dreams will give up on you."</p>
+<p>"You have to keep breaking your heart until it opens."</p>
 
-<p>- John Wooden</p>
+<p>- Rumi</p>
 
 Check back daily for a new quote!
 
