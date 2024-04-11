@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You have to keep breaking your heart until it opens."</p>
+<p>"Always be a first rate version of yourself and not a second rate version of someone else."</p>
 
-<p>- Rumi</p>
+<p>- Judy Garland</p>
 
 Check back daily for a new quote!
 
