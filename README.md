@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Always be a first rate version of yourself and not a second rate version of someone else."</p>
+<p>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</p>
 
-<p>- Judy Garland</p>
+<p>- Alfred Adler</p>
 
 Check back daily for a new quote!
 
