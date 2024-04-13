@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</p>
+<p>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</p>
 
-<p>- Alfred Adler</p>
+<p>- George Washington</p>
 
 Check back daily for a new quote!
 
