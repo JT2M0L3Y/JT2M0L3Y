@@ -32,6 +32,11 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=yeblu"/>
 </a>
 
+<a href="https://github.com/kevinthedang/minecraft-ollama">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=yeblu"/>
+</a>
+
 <a href="https://github.com/JT2M0L3Y/twitter-clone">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=twitter-clone&theme=yeblu"/>
@@ -50,11 +55,6 @@
 <a href="https://github.com/JT2M0L3Y/multiplayer-yahtzee">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=yeblu"/>
-</a>
-
-<a href="https://github.com/JT2M0L3Y/assignment-scheduler">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=assignment-scheduler&theme=yeblu"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/quantified-self">
@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</p>
+<p>"Many roads lead to the path, but basically there are only two: reason and practice. "</p>
 
-<p>- George Washington</p>
+<p>- Bodhidharma</p>
 
 Check back daily for a new quote!
 
