@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</p>
+<p>"In three words I can sum up everything I've learned about life: it goes on."</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Robert Frost</p>
 
 Check back daily for a new quote!
 
