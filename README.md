@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"In three words I can sum up everything I've learned about life: it goes on."</p>
+<p>"Longevity is a fleeting moment that lasts forever."</p>
 
-<p>- Robert Frost</p>
+<p>- Vidal Sassoon</p>
 
 Check back daily for a new quote!
 
