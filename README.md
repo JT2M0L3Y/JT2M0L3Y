@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Many roads lead to the path, but basically there are only two: reason and practice. "</p>
+<p>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</p>
 
-<p>- Bodhidharma</p>
+<p>- Marilyn Monroe</p>
 
 Check back daily for a new quote!
 
