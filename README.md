@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Longevity is a fleeting moment that lasts forever."</p>
+<p>"A Rolling Stone Gathers No Moss."</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Publilius Syrus</p>
 
 Check back daily for a new quote!
 
