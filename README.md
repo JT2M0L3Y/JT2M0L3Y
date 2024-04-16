@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A Rolling Stone Gathers No Moss."</p>
+<p>"The best time to plant a tree was 20 years ago. The second best time is now."</p>
 
-<p>- Publilius Syrus</p>
+<p>- Zen Proverb</p>
 
 Check back daily for a new quote!
 
