@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The best time to plant a tree was 20 years ago. The second best time is now."</p>
+<p>"Be brave enough to suck at something new."</p>
 
-<p>- Zen Proverb</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
