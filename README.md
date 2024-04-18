@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be brave enough to suck at something new."</p>
+<p>"Just do the best you can. No one can do more than that."</p>
 
-<p>- Unknown</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
