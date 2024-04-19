@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Just do the best you can. No one can do more than that."</p>
+<p>"You can start changing our world for the better daily, no matter how small the action."</p>
 
-<p>- John Wooden</p>
+<p>- Nelson Mandela</p>
 
 Check back daily for a new quote!
 
