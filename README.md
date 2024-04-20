@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You can start changing our world for the better daily, no matter how small the action."</p>
+<p>"Sometimes adversity is what you need to face in order to become successful."</p>
 
-<p>- Nelson Mandela</p>
+<p>- Zig Ziglar</p>
 
 Check back daily for a new quote!
 
