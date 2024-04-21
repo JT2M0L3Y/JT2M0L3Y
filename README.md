@@ -197,9 +197,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Sometimes adversity is what you need to face in order to become successful."</p>
+<p>"Believe in one thing too much and you have no room for new ideas.  "</p>
 
-<p>- Zig Ziglar</p>
+<p>- Ray Bradbury</p>
 
 Check back daily for a new quote!
 
