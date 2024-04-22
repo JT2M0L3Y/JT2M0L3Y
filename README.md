@@ -191,9 +191,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Absurdity is the ecstasy of intellectualism."</p>
+<p>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</p>
 
-<p>- Criss Jami</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
