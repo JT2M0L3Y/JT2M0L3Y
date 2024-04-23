@@ -10,12 +10,14 @@
 [![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
 [![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=0072b1&color=000000)](https://www.linkedin.com/in/jonathansmoley/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=e4405f&color=000000)](https://www.instagram.com/jonathansmoley/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=4267B2&color=000000)](https://www.facebook.com/jonathansmoley.1/)
-[![Flickr Badge](https://img.shields.io/badge/Flickr-informational?style=flat&logo=flickr&logoColor=FF0084&color=000000)](https://www.flickr.com/people/198498782@N02/)
-[![Steam Badge](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=232633&color=000000)](https://steamcommunity.com/id/Kaedowjan/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=flat&logo=youtube&logoColor=C4302b&color=000000)](https://www.youtube.com/channel/UCWYFmvu7mBQzwhG29mJWiKQ)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=0072b1&color=gray)](https://www.linkedin.com/in/jonathansmoley/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=e4405f&color=gray)](https://www.instagram.com/jonathansmoley/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=4267B2&color=gray)](https://www.facebook.com/jonathansmoley.1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=gray)](https://leetcode.com/JT2M0L3Y/)
+[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=gray)](https://app.hackthebox.com/profile/801410)
+[![Flickr Badge](https://img.shields.io/badge/Flickr-informational?style=flat&logo=flickr&logoColor=FF0084&color=gray)](https://www.flickr.com/people/198498782@N02/)
+[![Steam Badge](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=232633&color=gray)](https://steamcommunity.com/id/Kaedowjan/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=flat&logo=youtube&logoColor=C4302b&color=gray)](https://www.youtube.com/channel/UCWYFmvu7mBQzwhG29mJWiKQ)
 
 ## 👋 Introduction
 
