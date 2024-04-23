@@ -191,9 +191,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</p>
+<p>"A mountain never yields to the wind no matter how strong it is."</p>
 
-<p>- Unknown</p>
+<p>- Zen Proverb</p>
 
 Check back daily for a new quote!
 
