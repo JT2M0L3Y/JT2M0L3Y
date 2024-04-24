@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</p>
+<p>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Albert Einstein</p>
 
 Check back daily for a new quote!
 
