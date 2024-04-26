@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The future is not a gift. It is an achievement."</p>
+<p>"Many roads lead to the path, but basically there are only two: reason and practice. "</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Bodhidharma</p>
 
 Check back daily for a new quote!
 
