@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Many roads lead to the path, but basically there are only two: reason and practice. "</p>
+<p>"You can do two things at once, but you can't focus effectively on two things at once."</p>
 
-<p>- Bodhidharma</p>
+<p>- Gary Keller</p>
 
 Check back daily for a new quote!
 
