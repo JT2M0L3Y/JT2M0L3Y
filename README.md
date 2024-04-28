@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You can do two things at once, but you can't focus effectively on two things at once."</p>
+<p>"Discipline yourself, and others won't need to."</p>
 
-<p>- Gary Keller</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
