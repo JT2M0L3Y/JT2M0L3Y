@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Discipline yourself, and others won't need to."</p>
+<p>"Most of the evil in this world is done by people with good intentions."</p>
 
-<p>- John Wooden</p>
+<p>- T.S. Eliot</p>
 
 Check back daily for a new quote!
 
