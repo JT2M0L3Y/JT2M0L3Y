@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Most of the evil in this world is done by people with good intentions."</p>
+<p>"Ponder and deliberate before you make a move."</p>
 
-<p>- T.S. Eliot</p>
+<p>- Sun Tzu</p>
 
 Check back daily for a new quote!
 
