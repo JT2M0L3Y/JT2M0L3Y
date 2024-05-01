@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Ponder and deliberate before you make a move."</p>
+<p>"Be the change that you want to see in the world."</p>
 
-<p>- Sun Tzu</p>
+<p>- Mahatma Gandhi</p>
 
 Check back daily for a new quote!
 
