@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be the change that you want to see in the world."</p>
+<p>"The cost of leadership is self-interest."</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Simon Sinek</p>
 
 Check back daily for a new quote!
 
