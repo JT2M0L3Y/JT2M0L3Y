@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The cost of leadership is self-interest."</p>
+<p>"Use your smile to change the world but don't let the world change your smile."</p>
 
-<p>- Simon Sinek</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
