@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Use your smile to change the world but don't let the world change your smile."</p>
+<p>"What is a friend? A single soul dwelling in two bodies."</p>
 
-<p>- Unknown</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
 
