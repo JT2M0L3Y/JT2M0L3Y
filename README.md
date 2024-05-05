@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"What is a friend? A single soul dwelling in two bodies."</p>
+<p>"When things go wrong, don't go with them."</p>
 
-<p>- Aristotle</p>
+<p>- Elvis Presley</p>
 
 Check back daily for a new quote!
 
