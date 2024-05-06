@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When things go wrong, don't go with them."</p>
+<p>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</p>
 
-<p>- Elvis Presley</p>
+<p>- Barack Obama</p>
 
 Check back daily for a new quote!
 
