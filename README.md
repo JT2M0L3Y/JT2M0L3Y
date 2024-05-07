@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</p>
+<p>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</p>
 
-<p>- Barack Obama</p>
+<p>- Simon Sinek</p>
 
 Check back daily for a new quote!
 
