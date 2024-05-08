@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</p>
+<p>"You have the potential for greatness."</p>
 
-<p>- Simon Sinek</p>
+<p>- Steve Harvey</p>
 
 Check back daily for a new quote!
 
