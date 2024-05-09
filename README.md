@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You have the potential for greatness."</p>
+<p>"It is hard to fail, but it is worse never to have tried to succeed."</p>
 
-<p>- Steve Harvey</p>
+<p>- Theodore Roosevelt</p>
 
 Check back daily for a new quote!
 
