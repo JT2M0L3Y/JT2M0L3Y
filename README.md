@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is hard to fail, but it is worse never to have tried to succeed."</p>
+<p>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Ming-Dao Deng</p>
 
 Check back daily for a new quote!
 
