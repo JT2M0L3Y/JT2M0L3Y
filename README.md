@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</p>
+<p>"Your very silence shows you agree."</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Euripides</p>
 
 Check back daily for a new quote!
 
