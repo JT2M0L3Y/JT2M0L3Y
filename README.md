@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your very silence shows you agree."</p>
+<p>"Change will not come if we wait for some other person, or if we wait for some other time."</p>
 
-<p>- Euripides</p>
+<p>- Barack Obama</p>
 
 Check back daily for a new quote!
 
