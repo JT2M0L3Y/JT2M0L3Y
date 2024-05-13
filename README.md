@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Change will not come if we wait for some other person, or if we wait for some other time."</p>
+<p>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</p>
 
-<p>- Barack Obama</p>
+<p>- Celestine Chua</p>
 
 Check back daily for a new quote!
 
