@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</p>
+<p>"The question isn't who is going to let me; it's who is going to stop me."</p>
 
-<p>- Celestine Chua</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
