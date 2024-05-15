@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The question isn't who is going to let me; it's who is going to stop me."</p>
+<p>"The friendship that can cease has never been real. "</p>
 
-<p>- Ayn Rand</p>
+<p>- St. Jerome</p>
 
 Check back daily for a new quote!
 
