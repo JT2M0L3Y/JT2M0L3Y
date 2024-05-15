@@ -22,8 +22,8 @@
 ## 👋 Introduction
 
 <p>Hello!</p>
-<p>I'm Jonathan, an aspiring software engineer and student of computer science.</p>
-<p>Most of my experience is in full-stack development, object-oriented programming, and DevOps.</p>
+<p>I'm Jonathan, an aspiring software engineer, novice photographer, and committed traveler.</p>
+<p>I've done a lot of work in full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
 
 <!-- Pinned Repositories -->
@@ -31,32 +31,32 @@
 
 <a href="https://github.com/kevinthedang/discord-ollama">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/twitter-clone">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=twitter-clone&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=twitter-clone&theme=gruvbox"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/news-aggregator">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=news-aggregator&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=news-aggregator&theme=gruvbox"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/MyPL">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=MyPL&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=MyPL&theme=gruvbox"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/multiplayer-yahtzee">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=gruvbox"/>
 </a>
 
 <a href="https://github.com/JT2M0L3Y/quantified-self">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=quantified-self&theme=yeblu"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=quantified-self&theme=gruvbox"/>
 </a>
 
 <!-- GitHub Stats -->
@@ -65,21 +65,21 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=yeblu"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
   />
 </a>
 
 <a href="https://git.io/streak-stats">
   <img
     height=200 align="center"
-    src="https://github-readme-streak-stats.herokuapp.com?user=JT2M0L3Y&theme=yeblu" alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=JT2M0L3Y&theme=gruvbox" alt="GitHub Streak"
   />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=yeblu"
+    src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=gruvbox"
   />
 </a>
 
@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The friendship that can cease has never been real. "</p>
+<p>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</p>
 
-<p>- St. Jerome</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
