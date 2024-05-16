@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</p>
+<p>"Fear is stupid. So are regrets."</p>
 
-<p>- Lao Tzu</p>
+<p>- Marilyn Monroe</p>
 
 Check back daily for a new quote!
 
