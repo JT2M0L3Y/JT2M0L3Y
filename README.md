@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Fear is stupid. So are regrets."</p>
+<p>"Love is the energy of life."</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Robert Browning</p>
 
 Check back daily for a new quote!
 
