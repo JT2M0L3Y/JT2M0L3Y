@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Love is the energy of life."</p>
+<p>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</p>
 
-<p>- Robert Browning</p>
+<p>- Amelia Earhart</p>
 
 Check back daily for a new quote!
 
