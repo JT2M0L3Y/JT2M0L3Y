@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</p>
+<p>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</p>
 
-<p>- Amelia Earhart</p>
+<p>- Dale Carnegie</p>
 
 Check back daily for a new quote!
 
