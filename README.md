@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</p>
+<p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
 
-<p>- Dale Carnegie</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
