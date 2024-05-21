@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
+<p>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</p>
 
-<p>- Ayn Rand</p>
+<p>- Deepak Chopra</p>
 
 Check back daily for a new quote!
 
