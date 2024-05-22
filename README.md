@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</p>
+<p>"Paths are made by walking."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Franz Kafka</p>
 
 Check back daily for a new quote!
 
