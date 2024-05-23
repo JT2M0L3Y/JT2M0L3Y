@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Paths are made by walking."</p>
+<p>"Whatever satisfies the soul is truth."</p>
 
-<p>- Franz Kafka</p>
+<p>- Walt Whitman</p>
 
 Check back daily for a new quote!
 
