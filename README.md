@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Whatever satisfies the soul is truth."</p>
+<p>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</p>
 
-<p>- Walt Whitman</p>
+<p>- Kamal Ravikant</p>
 
 Check back daily for a new quote!
 
