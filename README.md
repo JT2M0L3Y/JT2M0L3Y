@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</p>
+<p>"I have never in my life learned anything from any man who agreed with me."</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Dudley Field Malone</p>
 
 Check back daily for a new quote!
 
