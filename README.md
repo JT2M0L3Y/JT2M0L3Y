@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"I have never in my life learned anything from any man who agreed with me."</p>
+<p>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Thomas Edison</p>
 
 Check back daily for a new quote!
 
