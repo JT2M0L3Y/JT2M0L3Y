@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</p>
+<p>"Success is never final, failure is never fatal. It's courage that counts."</p>
 
-<p>- Thomas Edison</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
