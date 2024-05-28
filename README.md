@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is never final, failure is never fatal. It's courage that counts."</p>
+<p>"The past has no power over the present moment. "</p>
 
-<p>- John Wooden</p>
+<p>- Eckhart Tolle</p>
 
 Check back daily for a new quote!
 
