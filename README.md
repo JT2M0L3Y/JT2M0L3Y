@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The past has no power over the present moment. "</p>
+<p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Celestine Chua</p>
 
 Check back daily for a new quote!
 
