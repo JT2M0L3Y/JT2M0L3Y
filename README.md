@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
+<p>"If you truly love Nature, you will find beauty everywhere. "</p>
 
-<p>- Celestine Chua</p>
+<p>- Vincent van Gogh</p>
 
 Check back daily for a new quote!
 
