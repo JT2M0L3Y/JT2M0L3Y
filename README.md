@@ -193,9 +193,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you truly love Nature, you will find beauty everywhere. "</p>
+<p>"The wise warrior avoids the battle."</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Sun Tzu</p>
 
 Check back daily for a new quote!
 
