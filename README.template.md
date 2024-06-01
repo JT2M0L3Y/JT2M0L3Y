@@ -26,7 +26,7 @@
 <p>I've done a lot of work in full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
 
-## Active Repositories
+## ⚒️ Active Repositories
 
 <a href="https://github.com/kevinthedang/discord-ollama">
   <img align="center" style="margin:1rem 0.5rem"
@@ -37,8 +37,6 @@
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=gruvbox"/>
 </a>
-
-## Pinned Repositories
 
 <!-- Pinned Repositories -->
 ## 📍 Pinned Repositories
@@ -61,11 +59,6 @@
 <a href="https://github.com/JT2M0L3Y/multiplayer-yahtzee">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=gruvbox"/>
-</a>
-
-<a href="https://github.com/JT2M0L3Y/quantified-self">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=quantified-self&theme=gruvbox"/>
 </a>
 
 <!-- GitHub Stats -->
