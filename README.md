@@ -26,13 +26,22 @@
 <p>I've done a lot of work in full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
 
-<!-- Pinned Repositories -->
-## 📍 Pinned Repositories
+## Active Repositories
 
 <a href="https://github.com/kevinthedang/discord-ollama">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
 </a>
+
+<a href="https://github.com/kvinthedang/minecraft-ollama">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=gruvbox"/>
+</a>
+
+## Pinned Repositories
+
+<!-- Pinned Repositories -->
+## 📍 Pinned Repositories
 
 <a href="https://github.com/JT2M0L3Y/twitter-clone">
   <img align="center" style="margin:1rem 0.5rem"
@@ -193,9 +202,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The wise warrior avoids the battle."</p>
+<p>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</p>
 
-<p>- Sun Tzu</p>
+<p>- Les Brown</p>
 
 Check back daily for a new quote!
 
