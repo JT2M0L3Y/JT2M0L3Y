@@ -33,7 +33,7 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
 </a>
 
-<a href="https://github.com/kvinthedang/minecraft-ollama">
+<a href="https://github.com/kevinthedang/minecraft-ollama">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=gruvbox"/>
 </a>
