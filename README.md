@@ -33,7 +33,7 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
 </a>
 
-<a href="https://github.com/kvinthedang/minecraft-ollama">
+<a href="https://github.com/kevinthedang/minecraft-ollama">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=gruvbox"/>
 </a>
@@ -195,9 +195,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you want something new, you have to stop doing something old."</p>
+<p>"The greatest of empires, is the empire over one's self."</p>
 
-<p>- Peter Drucker</p>
+<p>- Publilius Syrus</p>
 
 Check back daily for a new quote!
 
