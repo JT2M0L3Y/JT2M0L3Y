@@ -195,9 +195,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The greatest of empires, is the empire over one's self."</p>
+<p>"The future belongs to those who believe in the beauty of their dreams."</p>
 
-<p>- Publilius Syrus</p>
+<p>- Eleanor Roosevelt</p>
 
 Check back daily for a new quote!
 
