@@ -195,9 +195,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The future belongs to those who believe in the beauty of their dreams."</p>
+<p>"Action is the foundational key to all success."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Pablo Picasso</p>
 
 Check back daily for a new quote!
 
