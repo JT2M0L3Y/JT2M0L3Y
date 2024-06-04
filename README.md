@@ -195,9 +195,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Action is the foundational key to all success."</p>
+<p>"To be of use to the world is the only way to be happy."</p>
 
-<p>- Pablo Picasso</p>
+<p>- Hans Christian Andersen</p>
 
 Check back daily for a new quote!
 
