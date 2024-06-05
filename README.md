@@ -195,9 +195,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"To be of use to the world is the only way to be happy."</p>
+<p>"Instead of worrying about what you cannot control, shift your energy to what you can create."</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Roy T. Bennett</p>
 
 Check back daily for a new quote!
 
