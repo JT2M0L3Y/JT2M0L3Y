@@ -195,9 +195,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Instead of worrying about what you cannot control, shift your energy to what you can create."</p>
+<p>"Keep your eyes on the stars, but remember to keep your feet on the ground."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Theodore Roosevelt</p>
 
 Check back daily for a new quote!
 
