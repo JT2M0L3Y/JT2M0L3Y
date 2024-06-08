@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The day is for honest men, the night for thieves."</p>
+<p>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</p>
 
-<p>- Euripides</p>
+<p>- Benjamin Franklin</p>
 
 Check back daily for a new quote!
 
