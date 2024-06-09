@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</p>
+<p>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Judy Garland</p>
 
 Check back daily for a new quote!
 
