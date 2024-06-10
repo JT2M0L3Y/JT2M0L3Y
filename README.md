@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</p>
+<p>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</p>
 
-<p>- Judy Garland</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
