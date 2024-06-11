@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</p>
+<p>"Everything is in your own heart."</p>
 
-<p>- Lao Tzu</p>
+<p>- Thich Nhat Hanh</p>
 
 Check back daily for a new quote!
 
