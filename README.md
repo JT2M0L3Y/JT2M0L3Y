@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Everything is in your own heart."</p>
+<p>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Alfred Adler</p>
 
 Check back daily for a new quote!
 
