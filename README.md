@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</p>
+<p>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</p>
 
-<p>- Alfred Adler</p>
+<p>- Criss Jami</p>
 
 Check back daily for a new quote!
 
