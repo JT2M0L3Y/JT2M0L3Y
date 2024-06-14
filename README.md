@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</p>
+<p>"You must learn to let go. Release the stress. You were never in control anyway."</p>
 
-<p>- Criss Jami</p>
+<p>- Steve Maraboli</p>
 
 Check back daily for a new quote!
 
