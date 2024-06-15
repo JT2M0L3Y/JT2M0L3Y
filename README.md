@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You must learn to let go. Release the stress. You were never in control anyway."</p>
+<p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
 
-<p>- Steve Maraboli</p>
+<p>- Shunryu Suzuki</p>
 
 Check back daily for a new quote!
 
