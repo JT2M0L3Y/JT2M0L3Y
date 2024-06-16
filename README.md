@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
+<p>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Thomas Jefferson</p>
 
 Check back daily for a new quote!
 
