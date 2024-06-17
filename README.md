@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</p>
+<p>"TEAMWORK: the fuel that allows common people attain uncommon results."</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Andrew Carnegie</p>
 
 Check back daily for a new quote!
 
