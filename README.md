@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"TEAMWORK: the fuel that allows common people attain uncommon results."</p>
+<p>"Love is not about possession. Love is about appreciation."</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Osho</p>
 
 Check back daily for a new quote!
 
