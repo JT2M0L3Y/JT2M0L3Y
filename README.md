@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Love is not about possession. Love is about appreciation."</p>
+<p>"Freeing oneself from words is liberation. "</p>
 
-<p>- Osho</p>
+<p>- Bodhidharma</p>
 
 Check back daily for a new quote!
 
