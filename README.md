@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Longevity is a fleeting moment that lasts forever."</p>
+<p>"There are no mistakes in life, only lessons."</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Robin Sharma</p>
 
 Check back daily for a new quote!
 
