@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There are no mistakes in life, only lessons."</p>
+<p>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</p>
 
-<p>- Robin Sharma</p>
+<p>- Elon Musk</p>
 
 Check back daily for a new quote!
 
