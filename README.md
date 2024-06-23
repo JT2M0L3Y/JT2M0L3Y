@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</p>
+<p>"No one is useless in this world who lightens the burdens of another."</p>
 
-<p>- Elon Musk</p>
+<p>- Charles Dickens</p>
 
 Check back daily for a new quote!
 
