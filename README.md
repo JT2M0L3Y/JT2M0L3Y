@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"No one is useless in this world who lightens the burdens of another."</p>
+<p>"True prayer has no set form."</p>
 
-<p>- Charles Dickens</p>
+<p>- Morihei Ueshiba</p>
 
 Check back daily for a new quote!
 
