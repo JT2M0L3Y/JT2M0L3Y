@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"True prayer has no set form."</p>
+<p>"You will succeed because most people are lazy."</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Shahir Zag</p>
 
 Check back daily for a new quote!
 
