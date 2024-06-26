@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You will succeed because most people are lazy."</p>
+<p>"Find the game where you can win, and then commit your life to playing it; and play to win."</p>
 
-<p>- Shahir Zag</p>
+<p>- Robert Kiyosaki</p>
 
 Check back daily for a new quote!
 
