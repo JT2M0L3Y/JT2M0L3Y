@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Find the game where you can win, and then commit your life to playing it; and play to win."</p>
+<p>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Norman Vincent Peale</p>
 
 Check back daily for a new quote!
 
