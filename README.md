@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</p>
+<p>"You can suffer the pain of change or suffer remaining the way you are."</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Joyce Meyer</p>
 
 Check back daily for a new quote!
 
