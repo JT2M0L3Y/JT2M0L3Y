@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You can suffer the pain of change or suffer remaining the way you are."</p>
+<p>"Change happens when the pain of holding on becomes greater than the fear of letting go."</p>
 
-<p>- Joyce Meyer</p>
+<p>- Spencer Johnson</p>
 
 Check back daily for a new quote!
 
