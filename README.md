@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Change happens when the pain of holding on becomes greater than the fear of letting go."</p>
+<p>"It's easier to lose than to win.  "</p>
 
-<p>- Spencer Johnson</p>
+<p>- Wayne Gretzky</p>
 
 Check back daily for a new quote!
 
