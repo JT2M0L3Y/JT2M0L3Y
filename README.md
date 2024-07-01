@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It's easier to lose than to win.  "</p>
+<p>"Happiness depends upon ourselves."</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
 
