@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Happiness depends upon ourselves."</p>
+<p>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</p>
 
-<p>- Aristotle</p>
+<p>- Alexander Graham Bell</p>
 
 Check back daily for a new quote!
 
