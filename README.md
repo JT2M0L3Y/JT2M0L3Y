@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</p>
+<p>"There are people who have money and people who are rich."</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Coco Chanel</p>
 
 Check back daily for a new quote!
 
