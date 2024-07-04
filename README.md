@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There are people who have money and people who are rich."</p>
+<p>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</p>
 
-<p>- Coco Chanel</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
