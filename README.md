@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</p>
+<p>"Better to die fighting for freedom than be a prisoner all the days of your life."</p>
 
-<p>- Brian Tracy</p>
+<p>- Bob Marley</p>
 
 Check back daily for a new quote!
 
