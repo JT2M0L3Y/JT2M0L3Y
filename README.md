@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Better to die fighting for freedom than be a prisoner all the days of your life."</p>
+<p>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</p>
 
-<p>- Bob Marley</p>
+<p>- Socrates</p>
 
 Check back daily for a new quote!
 
