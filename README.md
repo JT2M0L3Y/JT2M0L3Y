@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</p>
+<p>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</p>
 
-<p>- Socrates</p>
+<p>- Amelia Earhart</p>
 
 Check back daily for a new quote!
 
