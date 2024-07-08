@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</p>
+<p>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</p>
 
-<p>- Amelia Earhart</p>
+<p>- Earl Nightingale</p>
 
 Check back daily for a new quote!
 
