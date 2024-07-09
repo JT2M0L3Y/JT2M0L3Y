@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</p>
+<p>"From the errors of others, a wise man corrects his own."</p>
 
-<p>- Earl Nightingale</p>
+<p>- Publilius Syrus</p>
 
 Check back daily for a new quote!
 
