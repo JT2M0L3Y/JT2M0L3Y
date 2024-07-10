@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"From the errors of others, a wise man corrects his own."</p>
+<p>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</p>
 
-<p>- Publilius Syrus</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
