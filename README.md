@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</p>
+<p>"When people are free to do as they please, they usually imitate each other."</p>
 
-<p>- Brian Tracy</p>
+<p>- Eric Hoffer</p>
 
 Check back daily for a new quote!
 
