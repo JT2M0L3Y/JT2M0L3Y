@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When people are free to do as they please, they usually imitate each other."</p>
+<p>"What is planted in each person's soul will sprout.  "</p>
 
-<p>- Eric Hoffer</p>
+<p>- Rumi</p>
 
 Check back daily for a new quote!
 
