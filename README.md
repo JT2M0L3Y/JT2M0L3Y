@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"What is planted in each person's soul will sprout.  "</p>
+<p>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</p>
 
-<p>- Rumi</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
