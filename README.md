@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</p>
+<p>"Your greatest asset is your earning ability. Your greatest resource is your time."</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
