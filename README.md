@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your greatest asset is your earning ability. Your greatest resource is your time."</p>
+<p>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</p>
 
-<p>- Brian Tracy</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
 
