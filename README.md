@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</p>
+<p>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</p>
 
-<p>- Aristotle</p>
+<p>- Jiddu Krishnamurti</p>
 
 Check back daily for a new quote!
 
