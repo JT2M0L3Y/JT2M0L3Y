@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</p>
+<p>"In order to attain the impossible, one must attempt the absurd."</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Miguel de Cervantes</p>
 
 Check back daily for a new quote!
 
