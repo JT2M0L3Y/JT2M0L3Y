@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"In order to attain the impossible, one must attempt the absurd."</p>
+<p>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- John Locke</p>
 
 Check back daily for a new quote!
 
