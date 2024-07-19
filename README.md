@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</p>
+<p>"You use a glass mirror to see your face; you use works of art to see your soul."</p>
 
-<p>- John Locke</p>
+<p>- George Bernard Shaw</p>
 
 Check back daily for a new quote!
 
