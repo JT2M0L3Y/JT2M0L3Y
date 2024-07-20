@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You use a glass mirror to see your face; you use works of art to see your soul."</p>
+<p>"Don't think money does everything or you are going to end up doing everything for money."</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Voltaire</p>
 
 Check back daily for a new quote!
 
