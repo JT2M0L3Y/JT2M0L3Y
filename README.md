@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't think money does everything or you are going to end up doing everything for money."</p>
+<p>"Every saint has a past, and every sinner has a future."</p>
 
-<p>- Voltaire</p>
+<p>- Oscar Wilde</p>
 
 Check back daily for a new quote!
 
