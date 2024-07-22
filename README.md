@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Every saint has a past, and every sinner has a future."</p>
+<p>"Poverty and hardship are created by false thinking."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Bodhidharma</p>
 
 Check back daily for a new quote!
 
