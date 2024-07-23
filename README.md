@@ -186,9 +186,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Poverty and hardship are created by false thinking."</p>
+<p>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</p>
 
-<p>- Bodhidharma</p>
+<p>- Rumi</p>
 
 Check back daily for a new quote!
 
