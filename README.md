@@ -35,11 +35,6 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
 </a>
 
-<a href="https://github.com/kevinthedang/minecraft-ollama">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=gruvbox"/>
-</a>
-
 <!-- Pinned Repositories -->
 ## 📍 Pinned Repositories
 
@@ -186,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</p>
+<p>"You can calculate the worth of a man by the number of his enemies."</p>
 
-<p>- Rumi</p>
+<p>- Gustave Flaubert</p>
 
 Check back daily for a new quote!
 
