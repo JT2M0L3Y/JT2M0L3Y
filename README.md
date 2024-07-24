@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You can calculate the worth of a man by the number of his enemies."</p>
+<p>"Our greatest glory is not in never falling, but in rising every time we fall. "</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Confucius</p>
 
 Check back daily for a new quote!
 
