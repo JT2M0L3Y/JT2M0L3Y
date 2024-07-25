@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Our greatest glory is not in never falling, but in rising every time we fall. "</p>
+<p>"Every time we liberate a woman, we liberate a man. "</p>
 
-<p>- Confucius</p>
+<p>- Margaret Mead</p>
 
 Check back daily for a new quote!
 
