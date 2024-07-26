@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Every time we liberate a woman, we liberate a man. "</p>
+<p>"Throw me to the wolves and I will return leading the pack.  "</p>
 
-<p>- Margaret Mead</p>
+<p>- Seneca</p>
 
 Check back daily for a new quote!
 
