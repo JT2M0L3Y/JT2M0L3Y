@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Throw me to the wolves and I will return leading the pack.  "</p>
+<p>"Showing off is the fool's idea of glory. "</p>
 
-<p>- Seneca</p>
+<p>- Bruce Lee</p>
 
 Check back daily for a new quote!
 
