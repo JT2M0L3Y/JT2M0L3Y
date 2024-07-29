@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The key to success is to focus our conscious mind on things we desire not things we fear. "</p>
+<p>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</p>
 
-<p>- Brian Tracy</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
