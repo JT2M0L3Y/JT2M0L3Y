@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</p>
+<p>"To be of use to the world is the only way to be happy."</p>
 
-<p>- Lao Tzu</p>
+<p>- Hans Christian Andersen</p>
 
 Check back daily for a new quote!
 
