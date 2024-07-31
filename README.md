@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"To be of use to the world is the only way to be happy."</p>
+<p>"Genius is patience."</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Isaac Newton</p>
 
 Check back daily for a new quote!
 
