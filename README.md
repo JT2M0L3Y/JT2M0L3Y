@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The best answer to anger is silence."</p>
+<p>"We must embrace pain and burn it as fuel for our journey."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Kenji Miyazawa</p>
 
 Check back daily for a new quote!
 
