@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We must embrace pain and burn it as fuel for our journey."</p>
+<p>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Sun Tzu</p>
 
 Check back daily for a new quote!
 
