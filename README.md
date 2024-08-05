@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</p>
+<p>"The final mystery is oneself."</p>
 
-<p>- Sun Tzu</p>
+<p>- Oscar Wilde</p>
 
 Check back daily for a new quote!
 
