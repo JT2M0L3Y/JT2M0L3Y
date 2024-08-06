@@ -28,15 +28,20 @@
 <p>I've done a lot of work in full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
 
-## ⚒️ Active Repositories
+## ⚒️ Active Projects
 
 <a href="https://github.com/kevinthedang/discord-ollama">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
 </a>
 
-<!-- Pinned Repositories -->
-## 📍 Pinned Repositories
+<a href="https://github.com/JT2M0L3Y/jt2m0l3y.github.io">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=jt2m0l3y.github.io&theme=gruvbox"/>
+</a>
+
+<!-- Pinned Projects 
+## 📍 Pinned Projects
 
 <a href="https://github.com/JT2M0L3Y/twitter-clone">
   <img align="center" style="margin:1rem 0.5rem"
@@ -57,28 +62,22 @@
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=multiplayer-yahtzee&theme=gruvbox"/>
 </a>
+-->
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img
-    height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
-  />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img
-    height=200 align="center"
-    src="https://github-readme-streak-stats.herokuapp.com?user=JT2M0L3Y&theme=gruvbox" alt="GitHub Streak"
-  />
-</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height=200 align="center"
     src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=gruvbox"
+  />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img
+    height=200 align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
   />
 </a>
 
@@ -181,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</p>
+<p>"If you don't have time to do it right, when will you have time to do it over?"</p>
 
-<p>- James Allen</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
