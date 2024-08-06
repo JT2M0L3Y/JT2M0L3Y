@@ -181,9 +181,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The final mystery is oneself."</p>
+<p>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</p>
 
-<p>- Oscar Wilde</p>
+<p>- James Allen</p>
 
 Check back daily for a new quote!
 
