@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you don't have time to do it right, when will you have time to do it over?"</p>
+<p>"Desire for the fruits of work must never be your motive in working."</p>
 
-<p>- John Wooden</p>
+<p>- Bhagavad Gita</p>
 
 Check back daily for a new quote!
 
