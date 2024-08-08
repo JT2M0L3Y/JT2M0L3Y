@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Desire for the fruits of work must never be your motive in working."</p>
+<p>"Anything worth doing is worth doing slowly."</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Mae West</p>
 
 Check back daily for a new quote!
 
