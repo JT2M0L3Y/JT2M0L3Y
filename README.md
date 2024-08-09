@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Anything worth doing is worth doing slowly."</p>
+<p>"If I can laugh, I can live."</p>
 
-<p>- Mae West</p>
+<p>- Christopher Reeve</p>
 
 Check back daily for a new quote!
 
