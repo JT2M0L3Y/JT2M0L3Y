@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If I can laugh, I can live."</p>
+<p>"Blessed is he who expects nothing, for he shall never be disappointed."</p>
 
-<p>- Christopher Reeve</p>
+<p>- Alexander Pope</p>
 
 Check back daily for a new quote!
 
