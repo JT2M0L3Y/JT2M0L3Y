@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Blessed is he who expects nothing, for he shall never be disappointed."</p>
+<p>"Every one of us is the sum total of his own thoughts."</p>
 
-<p>- Alexander Pope</p>
+<p>- Earl Nightingale</p>
 
 Check back daily for a new quote!
 
