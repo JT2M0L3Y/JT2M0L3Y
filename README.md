@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Every one of us is the sum total of his own thoughts."</p>
+<p>"Listen to what you know instead of what you fear."</p>
 
-<p>- Earl Nightingale</p>
+<p>- Richard Bach</p>
 
 Check back daily for a new quote!
 
