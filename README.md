@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Listen to what you know instead of what you fear."</p>
+<p>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</p>
 
-<p>- Richard Bach</p>
+<p>- Charles Dickens</p>
 
 Check back daily for a new quote!
 
