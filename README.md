@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</p>
+<p>"Problems remain as problems because people are busy defending them rather than finding solutions."</p>
 
-<p>- Charles Dickens</p>
+<p>- Celestine Chua</p>
 
 Check back daily for a new quote!
 
