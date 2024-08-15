@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Problems remain as problems because people are busy defending them rather than finding solutions."</p>
+<p>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</p>
 
-<p>- Celestine Chua</p>
+<p>- Ralph Waldo Emerson</p>
 
 Check back daily for a new quote!
 
