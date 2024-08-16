@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</p>
+<p>"Man should fear never beginning to live."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Marcus Aurelius</p>
 
 Check back daily for a new quote!
 
