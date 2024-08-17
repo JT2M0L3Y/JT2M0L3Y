@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Man should fear never beginning to live."</p>
+<p>"Good entrepreneurs don't fail because they stay at it."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Naval Ravikant</p>
 
 Check back daily for a new quote!
 
