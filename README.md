@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Good entrepreneurs don't fail because they stay at it."</p>
+<p>"Teachers open the door. You enter by yourself. "</p>
 
-<p>- Naval Ravikant</p>
+<p>- Chinese Proverb</p>
 
 Check back daily for a new quote!
 
