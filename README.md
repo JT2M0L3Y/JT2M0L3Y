@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Teachers open the door. You enter by yourself. "</p>
+<p>"Money poisons you when you've got it, and starves you when you haven't."</p>
 
-<p>- Chinese Proverb</p>
+<p>- D. H. Lawrence</p>
 
 Check back daily for a new quote!
 
