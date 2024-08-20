@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Money poisons you when you've got it, and starves you when you haven't."</p>
+<p>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Naval Ravikant</p>
 
 Check back daily for a new quote!
 
