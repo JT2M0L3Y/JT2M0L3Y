@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</p>
+<p>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</p>
 
-<p>- Naval Ravikant</p>
+<p>- Alan Watts</p>
 
 Check back daily for a new quote!
 
