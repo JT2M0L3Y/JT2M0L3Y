@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</p>
+<p>"The less you talk about your shame, the more of it you have."</p>
 
-<p>- Alan Watts</p>
+<p>- Mark Manson</p>
 
 Check back daily for a new quote!
 
