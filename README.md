@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The less you talk about your shame, the more of it you have."</p>
+<p>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</p>
 
-<p>- Mark Manson</p>
+<p>- Jack Kerouac</p>
 
 Check back daily for a new quote!
 
