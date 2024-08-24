@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</p>
+<p>"Watch what you say, and whatever you say, practice it."</p>
 
-<p>- Jack Kerouac</p>
+<p>- Soyen Shaku</p>
 
 Check back daily for a new quote!
 
