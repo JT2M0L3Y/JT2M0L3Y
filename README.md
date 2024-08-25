@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Watch what you say, and whatever you say, practice it."</p>
+<p>"It is safer to search in the maze than to remain in a cheeseless situation."</p>
 
-<p>- Soyen Shaku</p>
+<p>- Spencer Johnson</p>
 
 Check back daily for a new quote!
 
