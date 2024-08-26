@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is safer to search in the maze than to remain in a cheeseless situation."</p>
+<p>"Each problem has a positive side."</p>
 
-<p>- Spencer Johnson</p>
+<p>- Og Mandino</p>
 
 Check back daily for a new quote!
 
