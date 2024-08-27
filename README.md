@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Each problem has a positive side."</p>
+<p>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</p>
 
-<p>- Og Mandino</p>
+<p>- Bette Midler</p>
 
 Check back daily for a new quote!
 
