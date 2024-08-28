@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</p>
+<p>"If I can stop one heart from breaking, I shall not live in vain."</p>
 
-<p>- Bette Midler</p>
+<p>- Emily Dickinson</p>
 
 Check back daily for a new quote!
 
