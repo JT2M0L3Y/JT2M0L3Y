@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If I can stop one heart from breaking, I shall not live in vain."</p>
+<p>"How many times do you have to get hit over the head until you figure out who's hitting you?"</p>
 
-<p>- Emily Dickinson</p>
+<p>- Harry S. Truman</p>
 
 Check back daily for a new quote!
 
