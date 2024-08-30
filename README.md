@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"How many times do you have to get hit over the head until you figure out who's hitting you?"</p>
+<p>"A lie can travel half way around the world while the truth is putting on its shoes."</p>
 
-<p>- Harry S. Truman</p>
+<p>- Mark Twain</p>
 
 Check back daily for a new quote!
 
