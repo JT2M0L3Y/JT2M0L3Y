@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A lie can travel half way around the world while the truth is putting on its shoes."</p>
+<p>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</p>
 
-<p>- Mark Twain</p>
+<p>- Plato</p>
 
 Check back daily for a new quote!
 
