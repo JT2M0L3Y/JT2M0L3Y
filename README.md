@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</p>
+<p>"Your greatest asset is your earning ability. Your greatest resource is your time."</p>
 
-<p>- Plato</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
