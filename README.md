@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your greatest asset is your earning ability. Your greatest resource is your time."</p>
+<p>"The best of us sometimes eat our words.  "</p>
 
-<p>- Brian Tracy</p>
+<p>- Albus Dumbledore</p>
 
 Check back daily for a new quote!
 
