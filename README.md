@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The best of us sometimes eat our words.  "</p>
+<p>"It is better to offer no excuse than a bad one. "</p>
 
-<p>- Albus Dumbledore</p>
+<p>- George Washington</p>
 
 Check back daily for a new quote!
 
