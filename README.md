@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is better to offer no excuse than a bad one. "</p>
+<p>"Happiness is the absence of the striving for happiness."</p>
 
-<p>- George Washington</p>
+<p>- Zhuangzi</p>
 
 Check back daily for a new quote!
 
