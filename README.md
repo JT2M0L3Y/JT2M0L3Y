@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Happiness is the absence of the striving for happiness."</p>
+<p>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</p>
 
-<p>- Zhuangzi</p>
+<p>- Alfred Adler</p>
 
 Check back daily for a new quote!
 
