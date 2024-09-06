@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</p>
+<p>"Poverty and hardship are created by false thinking."</p>
 
-<p>- Alfred Adler</p>
+<p>- Bodhidharma</p>
 
 Check back daily for a new quote!
 
