@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Poverty and hardship are created by false thinking."</p>
+<p>"A good teacher opens the door for you, but you must enter the room by yourself."</p>
 
-<p>- Bodhidharma</p>
+<p>- Zen Proverb</p>
 
 Check back daily for a new quote!
 
