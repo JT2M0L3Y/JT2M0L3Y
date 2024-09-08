@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A good teacher opens the door for you, but you must enter the room by yourself."</p>
+<p>"If fear is too strong, the genius is suppressed."</p>
 
-<p>- Zen Proverb</p>
+<p>- Robert Kiyosaki</p>
 
 Check back daily for a new quote!
 
