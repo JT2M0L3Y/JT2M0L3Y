@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If fear is too strong, the genius is suppressed."</p>
+<p>"He who knows how to wait need make no concessions."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Sigmund Freud</p>
 
 Check back daily for a new quote!
 
