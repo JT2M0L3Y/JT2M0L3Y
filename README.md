@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"He who knows how to wait need make no concessions."</p>
+<p>"For all evils there are two remedies - time and silence."</p>
 
-<p>- Sigmund Freud</p>
+<p>- Alexandre Dumas</p>
 
 Check back daily for a new quote!
 
