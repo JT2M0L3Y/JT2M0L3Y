@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"For all evils there are two remedies - time and silence."</p>
+<p>"When the time is gone, you can never get it back."</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Stephen King</p>
 
 Check back daily for a new quote!
 
