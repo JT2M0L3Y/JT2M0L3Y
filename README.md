@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When the time is gone, you can never get it back."</p>
+<p>"The very essence of instinct is that it's followed independently of reason."</p>
 
-<p>- Stephen King</p>
+<p>- Charles Darwin</p>
 
 Check back daily for a new quote!
 
