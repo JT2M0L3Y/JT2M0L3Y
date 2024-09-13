@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The very essence of instinct is that it's followed independently of reason."</p>
+<p>"When you are tempted to give up, your breakthrough is probably just around the corner."</p>
 
-<p>- Charles Darwin</p>
+<p>- Joyce Meyer</p>
 
 Check back daily for a new quote!
 
