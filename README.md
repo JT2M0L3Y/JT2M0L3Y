@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When you are tempted to give up, your breakthrough is probably just around the corner."</p>
+<p>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</p>
 
-<p>- Joyce Meyer</p>
+<p>- Harry S. Truman</p>
 
 Check back daily for a new quote!
 
