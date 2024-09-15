@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</p>
+<p>"You are the only problem you will ever have and you are the only solution."</p>
 
-<p>- Harry S. Truman</p>
+<p>- Bob Proctor</p>
 
 Check back daily for a new quote!
 
