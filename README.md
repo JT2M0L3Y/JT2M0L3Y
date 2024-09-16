@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You are the only problem you will ever have and you are the only solution."</p>
+<p>"Don't learn to do, but learn in doing."</p>
 
-<p>- Bob Proctor</p>
+<p>- Samuel Butler</p>
 
 Check back daily for a new quote!
 
