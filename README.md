@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't learn to do, but learn in doing."</p>
+<p>"Nothing is impossible. The word itself says 'I'm possible!'"</p>
 
-<p>- Samuel Butler</p>
+<p>- Audrey Hepburn</p>
 
 Check back daily for a new quote!
 
