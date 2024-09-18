@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Nothing is impossible. The word itself says 'I'm possible!'"</p>
+<p>"The future will be shaped by those willing to commit their minds and their bodies to the task."</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Robert F. Kennedy</p>
 
 Check back daily for a new quote!
 
