@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The future will be shaped by those willing to commit their minds and their bodies to the task."</p>
+<p>"What would you do if you weren't afraid?"</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Spencer Johnson</p>
 
 Check back daily for a new quote!
 
