@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"What would you do if you weren't afraid?"</p>
+<p>"Discipline yourself, and others won't need to."</p>
 
-<p>- Spencer Johnson</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
 
