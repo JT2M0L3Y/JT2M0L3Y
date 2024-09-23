@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You have the ability, now apply yourself."</p>
+<p>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</p>
 
-<p>- Benjamin Mays</p>
+<p>- Christopher Reeve</p>
 
 Check back daily for a new quote!
 
