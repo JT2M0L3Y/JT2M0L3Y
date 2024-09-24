@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</p>
+<p>"Observe things as they are and don't pay attention to other people."</p>
 
-<p>- Christopher Reeve</p>
+<p>- Huang Po</p>
 
 Check back daily for a new quote!
 
