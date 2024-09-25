@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Observe things as they are and don't pay attention to other people."</p>
+<p>"All human beings can alter their lives by altering their attitudes."</p>
 
-<p>- Huang Po</p>
+<p>- Andrew Carnegie</p>
 
 Check back daily for a new quote!
 
