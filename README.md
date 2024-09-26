@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"All human beings can alter their lives by altering their attitudes."</p>
+<p>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Amelia Earhart</p>
 
 Check back daily for a new quote!
 
