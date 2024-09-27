@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</p>
+<p>"If you do not change direction, you may end up where you are heading."</p>
 
-<p>- Amelia Earhart</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
