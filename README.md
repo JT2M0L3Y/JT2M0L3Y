@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you do not change direction, you may end up where you are heading."</p>
+<p>"The biggest adventure is what lies ahead."</p>
 
-<p>- Lao Tzu</p>
+<p>- J.R.R. Tolkien</p>
 
 Check back daily for a new quote!
 
