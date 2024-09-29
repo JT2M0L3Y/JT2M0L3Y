@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The biggest adventure is what lies ahead."</p>
+<p>"Behind every beautiful thing, there's some kind of pain."</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Bob Dylan</p>
 
 Check back daily for a new quote!
 
