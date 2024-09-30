@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Behind every beautiful thing, there's some kind of pain."</p>
+<p>"Inner peace is when you realize that, in the end, nothing matters."</p>
 
-<p>- Bob Dylan</p>
+<p>- Maxime Lagace</p>
 
 Check back daily for a new quote!
 
