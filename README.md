@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Inner peace is when you realize that, in the end, nothing matters."</p>
+<p>"Great things are not done by impulse, but by a series of small things brought together."</p>
 
-<p>- Maxime Lagace</p>
+<p>- Vincent van Gogh</p>
 
 Check back daily for a new quote!
 
