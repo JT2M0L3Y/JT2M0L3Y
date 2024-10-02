@@ -53,7 +53,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Assembly&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Kotlin,Assembly,CSS,HTML,Jupyter%20Notebook&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
   />
 </a>
 
@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Nothing is really work unless you would rather be doing something else. "</p>
+<p>"Wrong turns are as important as right turns. More important, sometimes."</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Richard Bach</p>
 
 Check back daily for a new quote!
 
