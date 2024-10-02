@@ -180,9 +180,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Great things are not done by impulse, but by a series of small things brought together."</p>
+<p>"You Create Your Own Present By What You Give Your Attention To Today."</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Spencer Johnson</p>
 
 Check back daily for a new quote!
 
