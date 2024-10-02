@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</p>
+<p>"Nothing is really work unless you would rather be doing something else. "</p>
 
-<p>- Steve Maraboli</p>
+<p>- James Matthew Barrie</p>
 
 Check back daily for a new quote!
 
