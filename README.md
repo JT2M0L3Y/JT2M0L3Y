@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wrong turns are as important as right turns. More important, sometimes."</p>
+<p>"If you want to see things just as they are, then you yourself must practice just as you are."</p>
 
-<p>- Richard Bach</p>
+<p>- Dogen</p>
 
 Check back daily for a new quote!
 
