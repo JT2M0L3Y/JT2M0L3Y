@@ -25,7 +25,7 @@
 
 <p>Hello!</p>
 <p>I'm Jonathan, an aspiring software engineer, novice photographer, and committed traveler.</p>
-<p>I've done a lot of work in full-stack development, object-oriented programming, and DevOps.</p>
+<p>I've done a fair bit with full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
 
 ## ⚒️ Active Projects
@@ -46,7 +46,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&hide=stars&show_icons=true&rank_icon=percentile&custom_title=JT2M0L3Y&number_format=short&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&rank_icon=percentile&number_format=short&hide=stars,contribs,prs&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox"
   />
 </a>
 
