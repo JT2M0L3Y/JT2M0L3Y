@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</p>
+<p>"Listen to what you know instead of what you fear."</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Richard Bach</p>
 
 Check back daily for a new quote!
 
