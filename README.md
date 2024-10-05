@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Listen to what you know instead of what you fear."</p>
+<p>"Wake up and smile! Wake up and be grateful!"</p>
 
-<p>- Richard Bach</p>
+<p>- Steve Harvey</p>
 
 Check back daily for a new quote!
 
