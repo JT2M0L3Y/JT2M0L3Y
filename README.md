@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wake up and smile! Wake up and be grateful!"</p>
+<p>"Trust thyself: every heart vibrates to that iron string."</p>
 
-<p>- Steve Harvey</p>
+<p>- Ralph Waldo Emerson</p>
 
 Check back daily for a new quote!
 
