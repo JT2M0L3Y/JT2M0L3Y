@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Trust thyself: every heart vibrates to that iron string."</p>
+<p>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
