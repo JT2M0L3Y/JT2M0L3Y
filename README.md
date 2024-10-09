@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Never say never, because limits, like fears, are often just an illusion."</p>
+<p>"If you change the way you look at things, the things you look at change. "</p>
 
-<p>- Michael Jordan</p>
+<p>- Wayne Dyer</p>
 
 Check back daily for a new quote!
 
