@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you change the way you look at things, the things you look at change. "</p>
+<p>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</p>
 
-<p>- Wayne Dyer</p>
+<p>- James Cameron</p>
 
 Check back daily for a new quote!
 
