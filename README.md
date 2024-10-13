@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wise men speak because they have something to say; Fools because they have to say something."</p>
+<p>"A gentleman is one who puts more into the world than he takes out."</p>
 
-<p>- Plato</p>
+<p>- George Bernard Shaw</p>
 
 Check back daily for a new quote!
 
