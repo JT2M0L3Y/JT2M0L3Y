@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Either get busy living or get busy dying."</p>
+<p>"Out of your vulnerabilities will come your strength."</p>
 
-<p>- Stephen King</p>
+<p>- Sigmund Freud</p>
 
 Check back daily for a new quote!
 
