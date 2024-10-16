@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Out of your vulnerabilities will come your strength."</p>
+<p>"Wherever you are is the entry point."</p>
 
-<p>- Sigmund Freud</p>
+<p>- Kabir</p>
 
 Check back daily for a new quote!
 
