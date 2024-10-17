@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wherever you are is the entry point."</p>
+<p>"Begin now to be what you will be hereafter."</p>
 
-<p>- Kabir</p>
+<p>- St. Jerome</p>
 
 Check back daily for a new quote!
 
