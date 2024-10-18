@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Begin now to be what you will be hereafter."</p>
+<p>"Life is about choice. You can choose to be a victim or anything else you like to be."</p>
 
-<p>- St. Jerome</p>
+<p>- Celestine Chua</p>
 
 Check back daily for a new quote!
 
