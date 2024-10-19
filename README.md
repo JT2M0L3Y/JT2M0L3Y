@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life is about choice. You can choose to be a victim or anything else you like to be."</p>
+<p>"The key to success is action."</p>
 
-<p>- Celestine Chua</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
