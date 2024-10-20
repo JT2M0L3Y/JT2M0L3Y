@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The key to success is action."</p>
+<p>"Walk towards the sunshine, and the shadows will fall behind you."</p>
 
-<p>- Brian Tracy</p>
+<p>- Mary Engelbreit</p>
 
 Check back daily for a new quote!
 
