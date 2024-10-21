@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Walk towards the sunshine, and the shadows will fall behind you."</p>
+<p>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Leonardo da Vinci</p>
 
 Check back daily for a new quote!
 
