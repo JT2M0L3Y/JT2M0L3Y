@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</p>
+<p>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Alfred Adler</p>
 
 Check back daily for a new quote!
 
