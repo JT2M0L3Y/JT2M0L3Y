@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</p>
+<p>"Loyalty and friendship are the most precious possessions a man can have."</p>
 
-<p>- Alfred Adler</p>
+<p>- Herbert Hoover</p>
 
 Check back daily for a new quote!
 
