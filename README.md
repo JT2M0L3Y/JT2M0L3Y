@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Loyalty and friendship are the most precious possessions a man can have."</p>
+<p>"It doesn't matter how slow you go, as long as you don't stop."</p>
 
-<p>- Herbert Hoover</p>
+<p>- Confucius</p>
 
 Check back daily for a new quote!
 
