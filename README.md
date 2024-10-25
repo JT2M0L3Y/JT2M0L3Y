@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It doesn't matter how slow you go, as long as you don't stop."</p>
+<p>"Mastering others is strength, mastering yourself is true power."</p>
 
-<p>- Confucius</p>
+<p>- Lao Tzu</p>
 
 Check back daily for a new quote!
 
