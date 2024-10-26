@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Mastering others is strength, mastering yourself is true power."</p>
+<p>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</p>
 
-<p>- Lao Tzu</p>
+<p>- Alan Watts</p>
 
 Check back daily for a new quote!
 
