@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
+<p>"To the world you may be one person; but to one person you may be the world."</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Dr. Seuss</p>
 
 Check back daily for a new quote!
 
