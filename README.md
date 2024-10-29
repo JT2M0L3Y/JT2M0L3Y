@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"To the world you may be one person; but to one person you may be the world."</p>
+<p>"Stop being tormented by everyone else's reaction to you."</p>
 
-<p>- Dr. Seuss</p>
+<p>- Joyce Meyer</p>
 
 Check back daily for a new quote!
 
