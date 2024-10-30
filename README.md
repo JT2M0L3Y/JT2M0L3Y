@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Stop being tormented by everyone else's reaction to you."</p>
+<p>"Changing minds is harder than finding people who already agree."</p>
 
-<p>- Joyce Meyer</p>
+<p>- Jack Butcher</p>
 
 Check back daily for a new quote!
 
