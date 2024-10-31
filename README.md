@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Changing minds is harder than finding people who already agree."</p>
+<p>"Every day may not be good, but there's something good in every day."</p>
 
-<p>- Jack Butcher</p>
+<p>- Unknown</p>
 
 Check back daily for a new quote!
 
