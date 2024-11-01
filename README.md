@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Every day may not be good, but there's something good in every day."</p>
+<p>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</p>
 
-<p>- Unknown</p>
+<p>- Tony Robbins</p>
 
 Check back daily for a new quote!
 
