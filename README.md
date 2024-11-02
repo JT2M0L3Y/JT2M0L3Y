@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</p>
+<p>"Difficulties strengthen the mind, as labor does the body.  "</p>
 
-<p>- Tony Robbins</p>
+<p>- Seneca</p>
 
 Check back daily for a new quote!
 
