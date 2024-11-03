@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Difficulties strengthen the mind, as labor does the body.  "</p>
+<p>"What the eye doesn't see and the mind doesn't know, doesn't exist."</p>
 
-<p>- Seneca</p>
+<p>- D. H. Lawrence</p>
 
 Check back daily for a new quote!
 
