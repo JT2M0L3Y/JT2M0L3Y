@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"What the eye doesn't see and the mind doesn't know, doesn't exist."</p>
+<p>"Success is liking yourself, liking what you do, and liking how you do it."</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Maya Angelou</p>
 
 Check back daily for a new quote!
 
