@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is liking yourself, liking what you do, and liking how you do it."</p>
+<p>"Lack of emotion causes lack of progress and lack of motivation."</p>
 
-<p>- Maya Angelou</p>
+<p>- Tony Robbins</p>
 
 Check back daily for a new quote!
 
