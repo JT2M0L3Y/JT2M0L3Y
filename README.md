@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Lack of emotion causes lack of progress and lack of motivation."</p>
+<p>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</p>
 
-<p>- Tony Robbins</p>
+<p>- Stephen King</p>
 
 Check back daily for a new quote!
 
