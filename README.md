@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</p>
+<p>"Obstacles are those frightful things you see when you take your eyes off your goals."</p>
 
-<p>- Stephen King</p>
+<p>- Sydney Smith</p>
 
 Check back daily for a new quote!
 
