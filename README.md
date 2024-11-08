@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Obstacles are those frightful things you see when you take your eyes off your goals."</p>
+<p>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</p>
 
-<p>- Sydney Smith</p>
+<p>- Kabir</p>
 
 Check back daily for a new quote!
 
