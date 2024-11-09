@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</p>
+<p>"Courage is the price that life exacts for granting peace."</p>
 
-<p>- Kabir</p>
+<p>- Amelia Earhart</p>
 
 Check back daily for a new quote!
 
