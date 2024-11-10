@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Courage is the price that life exacts for granting peace."</p>
+<p>"Keep your eyes on the stars, but remember to keep your feet on the ground."</p>
 
-<p>- Amelia Earhart</p>
+<p>- Theodore Roosevelt</p>
 
 Check back daily for a new quote!
 
