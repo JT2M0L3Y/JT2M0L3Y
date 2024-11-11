@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Keep your eyes on the stars, but remember to keep your feet on the ground."</p>
+<p>"Make no small plans for they have no power to stir the soul."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Niccolo Machiavelli</p>
 
 Check back daily for a new quote!
 
