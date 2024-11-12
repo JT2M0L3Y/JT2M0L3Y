@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Make no small plans for they have no power to stir the soul."</p>
+<p>"If I can pay the bills, I'm happy."</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Morgan Wootten</p>
 
 Check back daily for a new quote!
 
