@@ -157,9 +157,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If I can pay the bills, I'm happy."</p>
+<p>"A man who dares to waste one hour of time has not discovered the value of life."</p>
 
-<p>- Morgan Wootten</p>
+<p>- Charles Darwin</p>
 
 Check back daily for a new quote!
 
