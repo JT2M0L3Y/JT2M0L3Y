@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Judge a man by his questions rather than his answers."</p>
+<p>"A lot of people have gone further than they thought they could because someone else thought they could."</p>
 
-<p>- Voltaire</p>
+<p>- Zig Ziglar</p>
 
 Check back daily for a new quote!
 
