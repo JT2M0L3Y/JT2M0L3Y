@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A lot of people have gone further than they thought they could because someone else thought they could."</p>
+<p>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</p>
 
-<p>- Zig Ziglar</p>
+<p>- Bob Proctor</p>
 
 Check back daily for a new quote!
 
