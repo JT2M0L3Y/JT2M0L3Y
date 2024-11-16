@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</p>
+<p>"Alone we can do so little; together we can do so much."</p>
 
-<p>- Bob Proctor</p>
+<p>- Helen Keller</p>
 
 Check back daily for a new quote!
 
