@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Alone we can do so little; together we can do so much."</p>
+<p>"Winners are not people who never fail, but people who never quit."</p>
 
-<p>- Helen Keller</p>
+<p>- Arnold Schwarzenegger</p>
 
 Check back daily for a new quote!
 
