@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Winners are not people who never fail, but people who never quit."</p>
+<p>"It's your life-but only if you make it so."</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Eleanor Roosevelt</p>
 
 Check back daily for a new quote!
 
