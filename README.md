@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It's your life-but only if you make it so."</p>
+<p>"Admire as much as you can. Most people do not admire enough."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Vincent van Gogh</p>
 
 Check back daily for a new quote!
 
