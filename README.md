@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Admire as much as you can. Most people do not admire enough."</p>
+<p>"There are dark shadows on the earth, but its lights are stronger in the contrast."</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Charles Dickens</p>
 
 Check back daily for a new quote!
 
