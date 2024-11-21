@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There are dark shadows on the earth, but its lights are stronger in the contrast."</p>
+<p>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</p>
 
-<p>- Charles Dickens</p>
+<p>- T.S. Eliot</p>
 
 Check back daily for a new quote!
 
