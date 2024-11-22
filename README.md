@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</p>
+<p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
 
-<p>- T.S. Eliot</p>
+<p>- Zen Proverb</p>
 
 Check back daily for a new quote!
 
