@@ -53,7 +53,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Kotlin,Assembly,CSS,HTML,Jupyter%20Notebook&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Kotlin,Assembly,CSS,HTML,Jupyter%20Notebook,Dockerfile&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
   />
 </a>
 
@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
+<p>"The businessman's tool is value."</p>
 
-<p>- Zen Proverb</p>
+<p>- Ayn Rand</p>
 
 Check back daily for a new quote!
 
