@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The businessman's tool is value."</p>
+<p>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</p>
 
-<p>- Ayn Rand</p>
+<p>- Gilbert Chesterton</p>
 
 Check back daily for a new quote!
 
