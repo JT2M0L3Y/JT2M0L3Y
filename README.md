@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</p>
+<p>"Men are disturbed not by things, but by the view which they take of them."</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Epictetus</p>
 
 Check back daily for a new quote!
 
