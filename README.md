@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Men are disturbed not by things, but by the view which they take of them."</p>
+<p>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</p>
 
-<p>- Epictetus</p>
+<p>- Eleanor Roosevelt</p>
 
 Check back daily for a new quote!
 
