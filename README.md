@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</p>
+<p>"Whatever you believe with feeling becomes your reality. "</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Brian Tracy</p>
 
 Check back daily for a new quote!
 
