@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Whatever you believe with feeling becomes your reality. "</p>
+<p>"Throw me to the wolves and I will return leading the pack.  "</p>
 
-<p>- Brian Tracy</p>
+<p>- Seneca</p>
 
 Check back daily for a new quote!
 
