@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Throw me to the wolves and I will return leading the pack.  "</p>
+<p>"Winning isn't everything, but wanting to win is."</p>
 
-<p>- Seneca</p>
+<p>- Vince Lombardi</p>
 
 Check back daily for a new quote!
 
