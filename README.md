@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Winning isn't everything, but wanting to win is."</p>
+<p>"Life belongs to the living, and he who lives must be prepared for changes."</p>
 
-<p>- Vince Lombardi</p>
+<p>- Johann Wolfgang von Goethe</p>
 
 Check back daily for a new quote!
 
