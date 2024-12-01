@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life belongs to the living, and he who lives must be prepared for changes."</p>
+<p>"Your next step is simple. You are the first domino."</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Gary Keller</p>
 
 Check back daily for a new quote!
 
