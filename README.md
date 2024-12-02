@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Your next step is simple. You are the first domino."</p>
+<p>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</p>
 
-<p>- Gary Keller</p>
+<p>- George Bernard Shaw</p>
 
 Check back daily for a new quote!
 
