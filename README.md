@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</p>
+<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
 
