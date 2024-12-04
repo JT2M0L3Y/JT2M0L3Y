@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
+<p>"Conflict cannot survive without your participation. "</p>
 
-<p>- Aristotle</p>
+<p>- Wayne Dyer</p>
 
 Check back daily for a new quote!
 
