@@ -53,7 +53,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Kotlin,Assembly,CSS,HTML,Jupyter%20Notebook,Dockerfile&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,Dockerfile&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
   />
 </a>
 
@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Conflict cannot survive without your participation. "</p>
+<p>"To be great is to be misunderstood."</p>
 
-<p>- Wayne Dyer</p>
+<p>- Ralph Waldo Emerson</p>
 
 Check back daily for a new quote!
 
