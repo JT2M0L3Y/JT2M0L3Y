@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"To be great is to be misunderstood."</p>
+<p>"Happiness is only real, when shared."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Christopher McCandless</p>
 
 Check back daily for a new quote!
 
