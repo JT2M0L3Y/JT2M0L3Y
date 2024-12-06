@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Happiness is only real, when shared."</p>
+<p>"You change the world by being yourself."</p>
 
-<p>- Christopher McCandless</p>
+<p>- Yoko Ono</p>
 
 Check back daily for a new quote!
 
