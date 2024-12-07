@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You change the world by being yourself."</p>
+<p>"You'll never find rainbows if you're looking down.  "</p>
 
-<p>- Yoko Ono</p>
+<p>- Charlie Chaplin</p>
 
 Check back daily for a new quote!
 
