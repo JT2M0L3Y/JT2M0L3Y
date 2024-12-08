@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You'll never find rainbows if you're looking down.  "</p>
+<p>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Grace Coddington</p>
 
 Check back daily for a new quote!
 
