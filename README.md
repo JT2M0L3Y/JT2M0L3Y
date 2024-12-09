@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</p>
+<p>"A dream you dream alone is only a dream. A dream you dream together is reality."</p>
 
-<p>- Grace Coddington</p>
+<p>- Yoko Ono</p>
 
 Check back daily for a new quote!
 
