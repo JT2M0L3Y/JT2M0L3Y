@@ -159,9 +159,9 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</p>
+<p>"Life is a process. We are a process. The universe is a process."</p>
 
-<p>- Naval Ravikant</p>
+<p>- Anne Wilson Schaef</p>
 
 Check back daily for a new quote!
 
