@@ -2,7 +2,7 @@
   <img 
     width=100% 
     src=./assets/profile-img.gif 
-    alt="Jonathan's GitHub Banner"
+    alt="Profile Banner"
   />
 </a>
 
@@ -10,16 +10,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
 [![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/jonathansmoley/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram&logoColor=e4405f)](https://www.instagram.com/jonathansmoley/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=social&logo=facebook&logoColor=4267B2)](https://www.facebook.com/jonathansmoley.1/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=gray)](https://leetcode.com/JT2M0L3Y/)
-[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=gray)](https://app.hackthebox.com/profile/801410)
-
-[![Flickr Badge](https://img.shields.io/badge/Flickr-informational?style=flat&logo=flickr&logoColor=FF0084&color=gray)](https://www.flickr.com/people/198498782@N02/)
-[![Steam Badge](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=232633&color=gray)](https://steamcommunity.com/id/Kaedowjan/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=flat&logo=youtube&logoColor=C4302b&color=gray)](https://www.youtube.com/channel/UCWYFmvu7mBQzwhG29mJWiKQ)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=0072b1&color=grey)](https://www.linkedin.com/in/jonathansmoley/)
+[![Flickr Badge](https://img.shields.io/badge/Flickr-informational?style=flat&logo=flickr&logoColor=FF0084&color=grey)](https://www.flickr.com/people/198498782@N02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=grey)](https://leetcode.com/JT2M0L3Y/)
+[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=grey)](https://app.hackthebox.com/profile/801410)
 
 ## 👋 Introduction
 
@@ -58,113 +52,53 @@
 </a>
 
 <!-- Skills -->
-## ⛏️ Tools I've Worked With
-
-### Languages
+## ⚓ I Use
 <ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=60rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=45rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=45rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=60rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=45rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=45rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width=45rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" width=45rem />
-</ul> 
-
-### Frameworks, Libraries
-<ul>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=60rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=60rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50rem />
+</ul>
+
+## ⛏️ I've Worked With
+<ul>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width=45rem />
-</ul>
-
-### Database
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=60rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=50rem />    
 </ul>
 
-### Cloud, Hosting, Server
+## 🧪 I'm Learning
 <ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=45rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=60rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=45rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width=50rem />
 </ul>
 
-### CI/CD, SaaS, Testing
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=60rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width=50rem />   
-</ul>
-
-### IDEs, Code Editors
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width=50rem />
-</ul>
-
-### Version Control, Package Managers
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width=55rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width=50rem />
-</ul>
-
-### Operating Systems
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width=40rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=50rem />
-</ul>
-
-### Collaboration
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width=40rem />
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=40rem />
-</ul>
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life is a process. We are a process. The universe is a process."</p>
+<p>"True it is, we only hate those whom we do not know."</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Andrew Carnegie</p>
 
 Check back daily for a new quote!
-
-### ❗ Want to make your own GitHub profile page?
-
-Feel free to use mine as a template!
