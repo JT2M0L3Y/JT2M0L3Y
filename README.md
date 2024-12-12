@@ -98,8 +98,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It takes half your life before you discover life is a do-it-yourself project."</p>
+<p>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</p>
 
-<p>- Napoleon Hill</p>
+<p>- Peter Drucker</p>
 
 Check back daily for a new quote!
