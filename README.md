@@ -98,8 +98,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</p>
+<p>"If you are going to achieve excellence in big things, you develop the habit in little matters."</p>
 
-<p>- Peter Drucker</p>
+<p>- Colin Powell</p>
 
 Check back daily for a new quote!
