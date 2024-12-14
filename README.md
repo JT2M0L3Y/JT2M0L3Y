@@ -98,8 +98,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you are going to achieve excellence in big things, you develop the habit in little matters."</p>
+<p>"Educating the mind without educating the heart is no education at all."</p>
 
-<p>- Colin Powell</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
