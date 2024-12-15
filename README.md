@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"For your life to be great, your faith must be bigger than your fear."</p>
+<p>"One loses many laughs by not laughing at oneself."</p>
 
-<p>- Robin Sharma</p>
+<p>- Mary Engelbreit</p>
 
 Check back daily for a new quote!
