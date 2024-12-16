@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"One loses many laughs by not laughing at oneself."</p>
+<p>"Less is more."</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Robert Browning</p>
 
 Check back daily for a new quote!
