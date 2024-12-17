@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Less is more."</p>
+<p>"Judge your success by what you had to give up in order to get it."</p>
 
-<p>- Robert Browning</p>
+<p>- Dalai Lama</p>
 
 Check back daily for a new quote!
