@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Judge your success by what you had to give up in order to get it."</p>
+<p>"In nature there is no alienation. Everything belongs."</p>
 
-<p>- Dalai Lama</p>
+<p>- Ming-Dao Deng</p>
 
 Check back daily for a new quote!
