@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"In nature there is no alienation. Everything belongs."</p>
+<p>"Success is about doing the right thing, not about doing everything right."</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Gary Keller</p>
 
 Check back daily for a new quote!
