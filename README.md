@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Success is about doing the right thing, not about doing everything right."</p>
+<p>"There is nothing in the world so irresistibly contagious as laughter and good humor."</p>
 
-<p>- Gary Keller</p>
+<p>- Charles Dickens</p>
 
 Check back daily for a new quote!
