@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There is nothing in the world so irresistibly contagious as laughter and good humor."</p>
+<p>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</p>
 
-<p>- Charles Dickens</p>
+<p>- Jack Butcher</p>
 
 Check back daily for a new quote!
