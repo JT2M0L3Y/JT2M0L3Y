@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</p>
+<p>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</p>
 
-<p>- Jack Butcher</p>
+<p>- Maya Angelou</p>
 
 Check back daily for a new quote!
