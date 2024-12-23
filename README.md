@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</p>
+<p>"Life is much more successfully looked at from a single window."</p>
 
-<p>- Maya Angelou</p>
+<p>- F. Scott Fitzgerald</p>
 
 Check back daily for a new quote!
