@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Life is much more successfully looked at from a single window."</p>
+<p>"You will face many defeats in life, but never let yourself be defeated."</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Maya Angelou</p>
 
 Check back daily for a new quote!
