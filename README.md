@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"You will face many defeats in life, but never let yourself be defeated."</p>
+<p>"This is the most simple and basic component of life: our struggles determine our successes."</p>
 
-<p>- Maya Angelou</p>
+<p>- Mark Manson</p>
 
 Check back daily for a new quote!
