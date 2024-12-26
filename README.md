@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</p>
+<p>"Make each day a new horizon."</p>
 
-<p>- Gabor Mate</p>
+<p>- Christopher McCandless</p>
 
 Check back daily for a new quote!
