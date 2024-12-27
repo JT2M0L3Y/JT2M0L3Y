@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Make each day a new horizon."</p>
+<p>"Goodness is the only investment that never fails."</p>
 
-<p>- Christopher McCandless</p>
+<p>- Henry David Thoreau</p>
 
 Check back daily for a new quote!
