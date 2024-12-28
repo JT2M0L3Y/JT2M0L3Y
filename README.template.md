@@ -1,7 +1,7 @@
 <a href="https://www.github.com/JT2M0L3Y">
   <img 
     width=100% 
-    src=./assets/profile-img.gif 
+    src=./assets/github-header-image.png
     alt="Profile Banner"
   />
 </a>
@@ -16,7 +16,6 @@
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=grey)](https://app.hackthebox.com/profile/801410)
 
 ## 👋 Introduction
-
 <p>Hello!</p>
 <p>I'm Jonathan, an aspiring software engineer, novice photographer, and committed traveler.</p>
 <p>I've done a fair bit with full-stack development, object-oriented programming, and DevOps.</p>
@@ -91,7 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=45rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width=50rem />
 </ul>
-
 
 ## 📯 How about a cheeky quote?
 
