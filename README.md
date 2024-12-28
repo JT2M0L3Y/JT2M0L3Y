@@ -95,8 +95,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Goodness is the only investment that never fails."</p>
+<p>"Courage is the price that life exacts for granting peace."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Amelia Earhart</p>
 
 Check back daily for a new quote!
