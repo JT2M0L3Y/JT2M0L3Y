@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The decisions of our past are the architects of our present."</p>
+<p>"There are no uninteresting things, only uninterested people."</p>
 
-<p>- Dan Brown</p>
+<p>- Gilbert Chesterton</p>
 
 Check back daily for a new quote!
