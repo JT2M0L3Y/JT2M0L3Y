@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"There are no uninteresting things, only uninterested people."</p>
+<p>"Know the rules well, so you can break them effectively."</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Dalai Lama</p>
 
 Check back daily for a new quote!
