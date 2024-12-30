@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Know the rules well, so you can break them effectively."</p>
+<p>"It's not how much money you make, it's how much money you keep."</p>
 
-<p>- Dalai Lama</p>
+<p>- Robert Kiyosaki</p>
 
 Check back daily for a new quote!
