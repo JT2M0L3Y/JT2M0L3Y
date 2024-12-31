@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"It's not how much money you make, it's how much money you keep."</p>
+<p>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Zig Ziglar</p>
 
 Check back daily for a new quote!
