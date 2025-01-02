@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Failure is just information and an opportunity to change your course."</p>
+<p>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Andrew Carnegie</p>
 
 Check back daily for a new quote!
