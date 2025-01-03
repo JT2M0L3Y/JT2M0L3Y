@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</p>
+<p>"The few who do are the envy of the many who only watch."</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Jim Rohn</p>
 
 Check back daily for a new quote!
