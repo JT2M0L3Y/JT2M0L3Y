@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The few who do are the envy of the many who only watch."</p>
+<p>"Being wrong brings the opportunity for growth."</p>
 
-<p>- Jim Rohn</p>
+<p>- Mark Manson</p>
 
 Check back daily for a new quote!
