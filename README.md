@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Being wrong brings the opportunity for growth."</p>
+<p>"Happiness is not a goal...it's a by-product of a life well lived."</p>
 
-<p>- Mark Manson</p>
+<p>- Eleanor Roosevelt</p>
 
 Check back daily for a new quote!
