@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Happiness is not a goal...it's a by-product of a life well lived."</p>
+<p>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- James Cameron</p>
 
 Check back daily for a new quote!
