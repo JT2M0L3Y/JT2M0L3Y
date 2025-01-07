@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</p>
+<p>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</p>
 
-<p>- James Cameron</p>
+<p>- Joan Rivers</p>
 
 Check back daily for a new quote!
