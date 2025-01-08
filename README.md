@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</p>
+<p>"He who violates another's honor loses his own."</p>
 
-<p>- Joan Rivers</p>
+<p>- Publilius Syrus</p>
 
 Check back daily for a new quote!
