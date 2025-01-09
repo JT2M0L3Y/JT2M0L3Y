@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"He who violates another's honor loses his own."</p>
+<p>"Time stays long enough for anyone who will use it."</p>
 
-<p>- Publilius Syrus</p>
+<p>- Leonardo da Vinci</p>
 
 Check back daily for a new quote!
