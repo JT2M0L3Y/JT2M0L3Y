@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Time stays long enough for anyone who will use it."</p>
+<p>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Jack Kerouac</p>
 
 Check back daily for a new quote!
