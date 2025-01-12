@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</p>
+<p>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</p>
 
-<p>- Richard Bach</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
