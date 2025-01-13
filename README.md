@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</p>
+<p>"He suffers more than necessary, who suffers before it is necessary.  "</p>
 
-<p>- Aristotle</p>
+<p>- Seneca</p>
 
 Check back daily for a new quote!
