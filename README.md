@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"He suffers more than necessary, who suffers before it is necessary.  "</p>
+<p>"Be true to yourself, help others, make each day your masterpiece"</p>
 
-<p>- Seneca</p>
+<p>- John Wooden</p>
 
 Check back daily for a new quote!
