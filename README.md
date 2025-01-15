@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Be true to yourself, help others, make each day your masterpiece"</p>
+<p>"The best revenge is to be unlike him who performed the injury."</p>
 
-<p>- John Wooden</p>
+<p>- Marcus Aurelius</p>
 
 Check back daily for a new quote!
