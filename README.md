@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"The best revenge is to be unlike him who performed the injury."</p>
+<p>"Wit is educated insolence."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Aristotle</p>
 
 Check back daily for a new quote!
