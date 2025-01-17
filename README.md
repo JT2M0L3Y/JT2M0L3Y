@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Wit is educated insolence."</p>
+<p>"Tomorrow is only found in the calendar of fools."</p>
 
-<p>- Aristotle</p>
+<p>- Og Mandino</p>
 
 Check back daily for a new quote!
