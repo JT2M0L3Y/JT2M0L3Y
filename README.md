@@ -93,7 +93,7 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Tomorrow is only found in the calendar of fools."</p>
+<p>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</p>
 
 <p>- Og Mandino</p>
 
