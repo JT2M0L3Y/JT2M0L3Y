@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</p>
+<p>"Don't blame others. it won't make you a better person."</p>
 
-<p>- Og Mandino</p>
+<p>- Lolly Daskal</p>
 
 Check back daily for a new quote!
