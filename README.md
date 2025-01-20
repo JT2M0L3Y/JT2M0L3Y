@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Don't blame others. it won't make you a better person."</p>
+<p>"Fear of death is fear of the Unknown."</p>
 
-<p>- Lolly Daskal</p>
+<p>- Adi Da Samraj</p>
 
 Check back daily for a new quote!
