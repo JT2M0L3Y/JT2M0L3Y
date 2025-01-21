@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"Fear of death is fear of the Unknown."</p>
+<p>"If you don't like something change it; if you can't change it, change the way you think about it."</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Mary Engelbreit</p>
 
 Check back daily for a new quote!
