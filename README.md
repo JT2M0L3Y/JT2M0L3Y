@@ -93,8 +93,8 @@
 
 ## 📯 How about a cheeky quote?
 
-<p>"If you don't like something change it; if you can't change it, change the way you think about it."</p>
+<p>"All has not been said and never will be."</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Samuel Beckett</p>
 
 Check back daily for a new quote!
