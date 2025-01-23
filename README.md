@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In the end, it's not the years in your life that count. It's the life in your years."</p>
+<p>"Great things are not done by impulse, but by a series of small things brought together."</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Vincent van Gogh</p>
