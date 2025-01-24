@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Great things are not done by impulse, but by a series of small things brought together."</p>
+<p>"If you don't know, the thing to do is not to get scared, but to learn."</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Ayn Rand</p>
