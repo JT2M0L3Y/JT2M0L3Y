@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you don't know, the thing to do is not to get scared, but to learn."</p>
+<p>"If you want something new, you have to stop doing something old."</p>
 
-<p>- Ayn Rand</p>
+<p>- Peter Drucker</p>
