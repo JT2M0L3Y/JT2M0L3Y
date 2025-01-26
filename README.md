@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you want something new, you have to stop doing something old."</p>
+<p>"Hope is a waking dream."</p>
 
-<p>- Peter Drucker</p>
+<p>- Aristotle</p>
