@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Hope is a waking dream."</p>
+<p>"He who cannot be a good follower cannot be a good leader."</p>
 
 <p>- Aristotle</p>
