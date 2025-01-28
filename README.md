@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"He who cannot be a good follower cannot be a good leader."</p>
+<p>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</p>
 
-<p>- Aristotle</p>
+<p>- Steve Jobs</p>
