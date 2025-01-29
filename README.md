@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</p>
+<p>"Be regular and orderly in your life, so that you may be violent and original in your work."</p>
 
-<p>- Steve Jobs</p>
+<p>- Gustave Flaubert</p>
