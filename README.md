@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be regular and orderly in your life, so that you may be violent and original in your work."</p>
+<p>"We must not sit down and wait for miracles. Up and be going!"</p>
 
-<p>- Gustave Flaubert</p>
+<p>- John Eliot</p>
