@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We must not sit down and wait for miracles. Up and be going!"</p>
+<p>"Perfection is not attainable, but if we chase perfection we can catch excellence."</p>
 
-<p>- John Eliot</p>
+<p>- Vince Lombardi</p>
