@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Perfection is not attainable, but if we chase perfection we can catch excellence."</p>
+<p>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</p>
 
-<p>- Vince Lombardi</p>
+<p>- Robin Sharma</p>
