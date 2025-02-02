@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</p>
+<p>"Life is the art of drawing sufficient conclusions from insufficient premises."</p>
 
-<p>- Robin Sharma</p>
+<p>- Samuel Butler</p>
