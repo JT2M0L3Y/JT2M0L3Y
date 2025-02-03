@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is the art of drawing sufficient conclusions from insufficient premises."</p>
+<p>"To lead an orchestra, you must turn your back on the crowd."</p>
 
-<p>- Samuel Butler</p>
+<p>- Aristotle</p>
