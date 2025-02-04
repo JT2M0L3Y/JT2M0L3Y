@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To lead an orchestra, you must turn your back on the crowd."</p>
+<p>"Every day do something that will inch you closer to a better tomorrow."</p>
 
-<p>- Aristotle</p>
+<p>- Unknown</p>
