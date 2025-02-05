@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Every day do something that will inch you closer to a better tomorrow."</p>
+<p>"If you see someone without a smile give them one of yours."</p>
 
 <p>- Unknown</p>
