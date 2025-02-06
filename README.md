@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you see someone without a smile give them one of yours."</p>
+<p>"Nothing ever goes away until it has taught us what we need to know."</p>
 
-<p>- Unknown</p>
+<p>- Pema Chodron</p>
