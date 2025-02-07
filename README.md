@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing ever goes away until it has taught us what we need to know."</p>
+<p>"If you can't feed a hundred people, then feed just one."</p>
 
-<p>- Pema Chodron</p>
+<p>- Mother Teresa</p>
