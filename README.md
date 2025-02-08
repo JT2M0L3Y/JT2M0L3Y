@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you can't feed a hundred people, then feed just one."</p>
+<p>"When you move beyond your fear, you feel free."</p>
 
-<p>- Mother Teresa</p>
+<p>- Spencer Johnson</p>
