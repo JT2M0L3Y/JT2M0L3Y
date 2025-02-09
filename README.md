@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you move beyond your fear, you feel free."</p>
+<p>"You are not only responsible for what you say, but also for what you do not say. "</p>
 
-<p>- Spencer Johnson</p>
+<p>- Martin Luther</p>
