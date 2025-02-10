@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You are not only responsible for what you say, but also for what you do not say. "</p>
+<p>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</p>
 
-<p>- Martin Luther</p>
+<p>- Kenneth Branagh</p>
