@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</p>
+<p>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Herbert Hoover</p>
