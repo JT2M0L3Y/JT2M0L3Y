@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People are doing the best that they can from their own level of consciousness."</p>
+<p>"We have more possibilities available in each moment than we realize."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Thich Nhat Hanh</p>
