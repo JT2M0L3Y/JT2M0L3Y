@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We have more possibilities available in each moment than we realize."</p>
+<p>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Benjamin Mays</p>
