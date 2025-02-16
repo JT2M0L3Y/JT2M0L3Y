@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</p>
+<p>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</p>
 
-<p>- Benjamin Mays</p>
+<p>- Roy T. Bennett</p>
