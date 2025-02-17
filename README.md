@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</p>
+<p>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Sun Tzu</p>
