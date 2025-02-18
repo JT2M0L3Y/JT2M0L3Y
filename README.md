@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</p>
+<p>"Your mind is infinite, it's your doubts that are limiting."</p>
 
-<p>- Sun Tzu</p>
+<p>- Robert Kiyosaki</p>
