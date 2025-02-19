@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your mind is infinite, it's your doubts that are limiting."</p>
+<p>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Tony Robbins</p>
