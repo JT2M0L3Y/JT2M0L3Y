@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</p>
+<p>"As a matter of fact is an expression that precedes many an expression that isn't."</p>
 
-<p>- Tony Robbins</p>
+<p>- Laurence J. Peter</p>
