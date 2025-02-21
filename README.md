@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"As a matter of fact is an expression that precedes many an expression that isn't."</p>
+<p>"There is no path to Love. Love is the path."</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Dan Millman</p>
