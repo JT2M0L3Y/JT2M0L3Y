@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is no path to Love. Love is the path."</p>
+<p>"Do good, live in the most positive and joyful way possible every day."</p>
 
-<p>- Dan Millman</p>
+<p>- Roy T. Bennett</p>
