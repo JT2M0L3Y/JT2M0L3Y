@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do good, live in the most positive and joyful way possible every day."</p>
+<p>"The more you praise and celebrate your life, the more there is in life to celebrate. "</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Oprah Winfrey</p>
