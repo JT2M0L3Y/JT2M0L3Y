@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The more you praise and celebrate your life, the more there is in life to celebrate. "</p>
+<p>"Life is a question and how we live it is our answer."</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Gary Keller</p>
