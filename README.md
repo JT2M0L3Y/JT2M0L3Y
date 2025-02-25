@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is a question and how we live it is our answer."</p>
+<p>"Acknowledging the good that you already have in your life is the foundation for all abundance."</p>
 
-<p>- Gary Keller</p>
+<p>- Eckhart Tolle</p>
