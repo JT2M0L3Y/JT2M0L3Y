@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Acknowledging the good that you already have in your life is the foundation for all abundance."</p>
+<p>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Joan Rivers</p>
