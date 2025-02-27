@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</p>
+<p>"Let us always meet each other with smile, for the smile is the beginning of love."</p>
 
-<p>- Joan Rivers</p>
+<p>- Mother Teresa</p>
