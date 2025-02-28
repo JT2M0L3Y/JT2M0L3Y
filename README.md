@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Let us always meet each other with smile, for the smile is the beginning of love."</p>
+<p>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</p>
 
-<p>- Mother Teresa</p>
+<p>- Oprah Winfrey</p>
