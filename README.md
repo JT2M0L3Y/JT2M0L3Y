@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</p>
+<p>"To do two things at once is to do neither."</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Publilius Syrus</p>
