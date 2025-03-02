@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To do two things at once is to do neither."</p>
+<p>"If we did all the things we are capable of, we would literally astound ourselves."</p>
 
-<p>- Publilius Syrus</p>
+<p>- Thomas Edison</p>
