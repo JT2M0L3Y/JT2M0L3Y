@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If we did all the things we are capable of, we would literally astound ourselves."</p>
+<p>"Help others achieve their dreams and you will achieve yours."</p>
 
-<p>- Thomas Edison</p>
+<p>- Les Brown</p>
