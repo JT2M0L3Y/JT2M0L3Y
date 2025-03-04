@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Help others achieve their dreams and you will achieve yours."</p>
+<p>"The more you trust yourself, the less you compare yourself to others."</p>
 
-<p>- Les Brown</p>
+<p>- Roy T. Bennett</p>
