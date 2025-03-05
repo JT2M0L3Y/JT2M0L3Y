@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The more you trust yourself, the less you compare yourself to others."</p>
+<p>"The decisions of our past are the architects of our present."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dan Brown</p>
