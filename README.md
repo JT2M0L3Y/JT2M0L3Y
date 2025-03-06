@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The decisions of our past are the architects of our present."</p>
+<p>"We must cultivate our garden. "</p>
 
-<p>- Dan Brown</p>
+<p>- Voltaire</p>
