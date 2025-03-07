@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We must cultivate our garden. "</p>
+<p>"Nature loves to hide."</p>
 
-<p>- Voltaire</p>
+<p>- Heraclitus</p>
