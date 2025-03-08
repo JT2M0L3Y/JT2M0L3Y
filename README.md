@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nature loves to hide."</p>
+<p>"You can never cross the ocean unless you have the courage to lose sight of the shore."</p>
 
-<p>- Heraclitus</p>
+<p>- Christopher Columbus</p>
