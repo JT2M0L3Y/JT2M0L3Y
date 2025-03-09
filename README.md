@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You can never cross the ocean unless you have the courage to lose sight of the shore."</p>
+<p>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</p>
 
-<p>- Christopher Columbus</p>
+<p>- Og Mandino</p>
