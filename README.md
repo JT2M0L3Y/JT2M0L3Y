@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</p>
+<p>"Man suffers only because he takes seriously what the gods made for fun."</p>
 
-<p>- Og Mandino</p>
+<p>- Alan Watts</p>
