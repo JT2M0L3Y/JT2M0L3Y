@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Man suffers only because he takes seriously what the gods made for fun."</p>
+<p>"Successful people are not without problems. They're simply people who've learned to solve their problems."</p>
 
-<p>- Alan Watts</p>
+<p>- Earl Nightingale</p>
