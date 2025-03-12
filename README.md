@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Successful people are not without problems. They're simply people who've learned to solve their problems."</p>
+<p>"Never lose hope. Storms make people stronger and never last forever."</p>
 
-<p>- Earl Nightingale</p>
+<p>- Roy T. Bennett</p>
