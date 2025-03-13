@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never lose hope. Storms make people stronger and never last forever."</p>
+<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Aristotle</p>
