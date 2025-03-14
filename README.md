@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
+<p>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</p>
 
-<p>- Aristotle</p>
+<p>- Albus Dumbledore</p>
