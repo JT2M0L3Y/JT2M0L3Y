@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</p>
+<p>"Your imagination is your preview of life's coming attractions."</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Albert Einstein</p>
