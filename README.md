@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your imagination is your preview of life's coming attractions."</p>
+<p>"Thinking is difficult, that's why most people judge."</p>
 
-<p>- Albert Einstein</p>
+<p>- Carl Jung</p>
