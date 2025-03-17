@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Thinking is difficult, that's why most people judge."</p>
+<p>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</p>
 
-<p>- Carl Jung</p>
+<p>- James Allen</p>
