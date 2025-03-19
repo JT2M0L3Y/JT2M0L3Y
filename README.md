@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</p>
+<p>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</p>
 
-<p>- Yanni</p>
+<p>- Toni Morrison</p>
