@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</p>
+<p>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</p>
 
-<p>- Toni Morrison</p>
+<p>- Morihei Ueshiba</p>
