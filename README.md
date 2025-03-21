@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</p>
+<p>"It is our choices that show what we truly are, far more than our abilities."</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Albus Dumbledore</p>
