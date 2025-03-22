@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is our choices that show what we truly are, far more than our abilities."</p>
+<p>"Freedom from desire leads to inner peace."</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Lao Tzu</p>
