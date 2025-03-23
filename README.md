@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Freedom from desire leads to inner peace."</p>
+<p>"By seeking and blundering we learn."</p>
 
-<p>- Lao Tzu</p>
+<p>- Johann Wolfgang von Goethe</p>
