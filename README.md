@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"By seeking and blundering we learn."</p>
+<p>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Zen Proverb</p>
