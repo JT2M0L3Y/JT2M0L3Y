@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</p>
+<p>"Words, once they are printed, have a life of their own."</p>
 
-<p>- Zen Proverb</p>
+<p>- Carol Burnett</p>
