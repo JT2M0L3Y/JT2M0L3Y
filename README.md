@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Words, once they are printed, have a life of their own."</p>
+<p>"For every minute you are angry you lose sixty seconds of happiness."</p>
 
-<p>- Carol Burnett</p>
+<p>- Ralph Waldo Emerson</p>
