@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Real learning comes about when the competitive spirit has ceased."</p>
+<p>"Wheels of justice grind slow but grind fine."</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Sun Tzu</p>
