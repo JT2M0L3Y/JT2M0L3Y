@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Wheels of justice grind slow but grind fine."</p>
+<p>"People who avoid failure also avoid success."</p>
 
-<p>- Sun Tzu</p>
+<p>- Robert Kiyosaki</p>
