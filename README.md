@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People who avoid failure also avoid success."</p>
+<p>"Here and now...breathe and relax...in battle and in life."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Dan Millman</p>
