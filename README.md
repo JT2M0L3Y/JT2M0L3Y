@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Here and now...breathe and relax...in battle and in life."</p>
+<p>"Nothing has more strength than dire necessity."</p>
 
-<p>- Dan Millman</p>
+<p>- Euripides</p>
