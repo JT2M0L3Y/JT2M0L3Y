@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing has more strength than dire necessity."</p>
+<p>"As mortals, we're ruled by conditions, not by ourselves."</p>
 
-<p>- Euripides</p>
+<p>- Bodhidharma</p>
