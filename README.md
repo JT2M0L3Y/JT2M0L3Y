@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"As mortals, we're ruled by conditions, not by ourselves."</p>
+<p>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</p>
 
-<p>- Bodhidharma</p>
+<p>- Dalai Lama</p>
