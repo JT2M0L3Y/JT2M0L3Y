@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</p>
+<p>"People are not disturbed by things, but by the views they take of them."</p>
 
-<p>- Dalai Lama</p>
+<p>- Epictetus</p>
