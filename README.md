@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People are not disturbed by things, but by the views they take of them."</p>
+<p>"The two most powerful warriors are patience and time."</p>
 
-<p>- Epictetus</p>
+<p>- Leo Tolstoy</p>
