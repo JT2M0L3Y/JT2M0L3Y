@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The two most powerful warriors are patience and time."</p>
+<p>"Watch what you say, and whatever you say, practice it."</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Soyen Shaku</p>
