@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Watch what you say, and whatever you say, practice it."</p>
+<p>"Don't shortchange yourself when it comes to investing in your own better future."</p>
 
-<p>- Soyen Shaku</p>
+<p>- Jim Rohn</p>
