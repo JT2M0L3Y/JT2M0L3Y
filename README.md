@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't shortchange yourself when it comes to investing in your own better future."</p>
+<p>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</p>
 
-<p>- Jim Rohn</p>
+<p>- Eric Hoffer</p>
