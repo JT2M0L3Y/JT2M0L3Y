@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</p>
+<p>"You're on earth. There's no cure for that."</p>
 
-<p>- Eric Hoffer</p>
+<p>- Samuel Beckett</p>
