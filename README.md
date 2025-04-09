@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You're on earth. There's no cure for that."</p>
+<p>"Whatever your heart clings to and confides in, that is really your God."</p>
 
-<p>- Samuel Beckett</p>
+<p>- Martin Luther</p>
