@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Whatever your heart clings to and confides in, that is really your God."</p>
+<p>"The greatest value of a picture is when it forces us to notice what we never expected to see."</p>
 
-<p>- Martin Luther</p>
+<p>- John Tukey</p>
