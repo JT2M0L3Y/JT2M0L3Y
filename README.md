@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The greatest value of a picture is when it forces us to notice what we never expected to see."</p>
+<p>"People tend to complicate their own lives, as if living weren't already complicated enough."</p>
 
-<p>- John Tukey</p>
+<p>- Carlos Ruiz Zafon</p>
