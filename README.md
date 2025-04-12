@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People tend to complicate their own lives, as if living weren't already complicated enough."</p>
+<p>"The enemy is a very good teacher."</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Dalai Lama</p>
