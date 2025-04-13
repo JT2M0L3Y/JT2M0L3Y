@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The enemy is a very good teacher."</p>
+<p>"Logic is like the sword - those who appeal to it shall perish by it."</p>
 
-<p>- Dalai Lama</p>
+<p>- Samuel Butler</p>
