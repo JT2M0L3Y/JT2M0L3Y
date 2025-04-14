@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Logic is like the sword - those who appeal to it shall perish by it."</p>
+<p>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</p>
 
-<p>- Samuel Butler</p>
+<p>- Steve Jobs</p>
