@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</p>
+<p>"To live is to be willing to die over and over again."</p>
 
-<p>- Steve Jobs</p>
+<p>- Pema Chodron</p>
