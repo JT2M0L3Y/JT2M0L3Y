@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To live is to be willing to die over and over again."</p>
+<p>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</p>
 
-<p>- Pema Chodron</p>
+<p>- Paulo Coelho</p>
