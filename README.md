@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</p>
+<p>"It isn't that they can't see the solution. It is that they can't see the problem."</p>
 
-<p>- Paulo Coelho</p>
+<p>- Gilbert Chesterton</p>
