@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It isn't that they can't see the solution. It is that they can't see the problem."</p>
+<p>"People spend too much time doing and not enough time thinking about what they should be doing."</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Naval Ravikant</p>
