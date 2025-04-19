@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People spend too much time doing and not enough time thinking about what they should be doing."</p>
+<p>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</p>
 
-<p>- Naval Ravikant</p>
+<p>- Nelson Mandela</p>
