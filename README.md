@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</p>
+<p>"No one ever said life was fair. Just Eventful."</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Carol Burnett</p>
