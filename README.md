@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No one ever said life was fair. Just Eventful."</p>
+<p>"But better die than live mechanically a life that is a repetition of repetitions."</p>
 
-<p>- Carol Burnett</p>
+<p>- D. H. Lawrence</p>
