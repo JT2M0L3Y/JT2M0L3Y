@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"But better die than live mechanically a life that is a repetition of repetitions."</p>
+<p>"Creative people are often found either disagreeable or intimidating by mediocrities."</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Criss Jami</p>
