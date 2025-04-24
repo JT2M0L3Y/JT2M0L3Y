@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Creative people are often found either disagreeable or intimidating by mediocrities."</p>
+<p>"Never fear quarrels, but seek hazardous adventures."</p>
 
-<p>- Criss Jami</p>
+<p>- Alexandre Dumas</p>
