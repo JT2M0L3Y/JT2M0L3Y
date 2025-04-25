@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never fear quarrels, but seek hazardous adventures."</p>
+<p>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Charles Dickens</p>
