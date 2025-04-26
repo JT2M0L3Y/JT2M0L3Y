@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</p>
+<p>"Be kind whenever possible. It is always possible."</p>
 
-<p>- Charles Dickens</p>
+<p>- Dalai Lama</p>
