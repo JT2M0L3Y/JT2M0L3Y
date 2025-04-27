@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be kind whenever possible. It is always possible."</p>
+<p>"There is a wisdom of the head, and there is a wisdom of the heart."</p>
 
-<p>- Dalai Lama</p>
+<p>- Charles Dickens</p>
