@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is a wisdom of the head, and there is a wisdom of the heart."</p>
+<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
 
-<p>- Charles Dickens</p>
+<p>- Aristotle</p>
