@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
+<p>"Do not look for approval except for the consciousness of doing your best."</p>
 
-<p>- Aristotle</p>
+<p>- Andrew Carnegie</p>
