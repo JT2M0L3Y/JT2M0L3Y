@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Always do your best. What you plant now, you will harvest later."</p>
+<p>"All life is a manifestation of the spirit, the manifestation of love."</p>
 
-<p>- Og Mandino</p>
+<p>- Morihei Ueshiba</p>
