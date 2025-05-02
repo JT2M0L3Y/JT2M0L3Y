@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All life is a manifestation of the spirit, the manifestation of love."</p>
+<p>"I like the dreams of the future better than the history of the past."</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Thomas Jefferson</p>
