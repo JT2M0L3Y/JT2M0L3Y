@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I like the dreams of the future better than the history of the past."</p>
+<p>"Forget safety. Live where you fear to live."</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Rumi</p>
