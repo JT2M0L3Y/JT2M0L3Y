@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Forget safety. Live where you fear to live."</p>
+<p>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</p>
 
-<p>- Rumi</p>
+<p>- Gilbert Chesterton</p>
