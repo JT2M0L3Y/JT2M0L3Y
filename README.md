@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</p>
+<p>"To live is the rarest thing in the world. Most people exist, that is all. "</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Oscar Wilde</p>
