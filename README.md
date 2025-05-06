@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To live is the rarest thing in the world. Most people exist, that is all. "</p>
+<p>"Our greatest glory is not in never falling but in rising every time we fall."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Confucius</p>
