@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Our greatest glory is not in never falling but in rising every time we fall."</p>
+<p>"By seeking and blundering we learn."</p>
 
-<p>- Confucius</p>
+<p>- Johann Wolfgang von Goethe</p>
