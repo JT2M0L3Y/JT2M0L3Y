@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"By seeking and blundering we learn."</p>
+<p>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Henry Ford</p>
