@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</p>
+<p>"Wealth is the product of man's capacity to think."</p>
 
-<p>- Henry Ford</p>
+<p>- Ayn Rand</p>
