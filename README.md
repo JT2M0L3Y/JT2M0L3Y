@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Wealth is the product of man's capacity to think."</p>
+<p>"In order to attain the impossible, one must attempt the absurd."</p>
 
-<p>- Ayn Rand</p>
+<p>- Miguel de Cervantes</p>
