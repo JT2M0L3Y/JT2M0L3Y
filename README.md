@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In order to attain the impossible, one must attempt the absurd."</p>
+<p>"I don't walk away from things that I think are unfinished."</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Arnold Schwarzenegger</p>
