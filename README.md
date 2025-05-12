@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I don't walk away from things that I think are unfinished."</p>
+<p>"Character is the result of two things: mental attitude and the way we spend our time."</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Elbert Hubbard</p>
