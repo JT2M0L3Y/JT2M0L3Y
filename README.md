@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Character is the result of two things: mental attitude and the way we spend our time."</p>
+<p>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Eleanor Roosevelt</p>
