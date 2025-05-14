@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</p>
+<p>"Show me a hero, and I'll write you a tragedy."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- F. Scott Fitzgerald</p>
