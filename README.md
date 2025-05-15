@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Show me a hero, and I'll write you a tragedy."</p>
+<p>"A poet should be so crafty with words that he is envied even for his pains."</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Criss Jami</p>
