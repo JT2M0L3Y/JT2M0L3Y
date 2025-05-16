@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A poet should be so crafty with words that he is envied even for his pains."</p>
+<p>"When you lose your desire for things that do not matter, you will be free."</p>
 
-<p>- Criss Jami</p>
+<p>- Morihei Ueshiba</p>
