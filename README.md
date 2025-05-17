@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you lose your desire for things that do not matter, you will be free."</p>
+<p>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Hans Christian Andersen</p>
