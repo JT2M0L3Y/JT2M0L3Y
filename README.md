@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</p>
+<p>"Tall oaks grow from little acorns."</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Andrew Carnegie</p>
