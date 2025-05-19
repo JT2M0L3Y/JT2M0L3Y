@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Tall oaks grow from little acorns."</p>
+<p>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Morihei Ueshiba</p>
