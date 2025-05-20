@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</p>
+<p>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Dalai Lama</p>
