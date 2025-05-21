@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</p>
+<p>"To a mind that is still, the entire universe surrenders."</p>
 
-<p>- Dalai Lama</p>
+<p>- Zhuangzi</p>
