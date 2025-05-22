@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To a mind that is still, the entire universe surrenders."</p>
+<p>"Words, once they are printed, have a life of their own."</p>
 
-<p>- Zhuangzi</p>
+<p>- Carol Burnett</p>
