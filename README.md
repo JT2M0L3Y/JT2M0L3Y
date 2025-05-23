@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Words, once they are printed, have a life of their own."</p>
+<p>"You don't know who is important to you until you actually lose them."</p>
 
-<p>- Carol Burnett</p>
+<p>- Mahatma Gandhi</p>
