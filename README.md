@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You don't know who is important to you until you actually lose them."</p>
+<p>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Maxime Lagace</p>
