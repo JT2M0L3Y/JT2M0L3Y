@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</p>
+<p>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</p>
 
-<p>- Maxime Lagace</p>
+<p>- Heraclitus</p>
