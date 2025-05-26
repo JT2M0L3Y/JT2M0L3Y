@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</p>
+<p>"Do not stop thinking of life as an adventure."</p>
 
-<p>- Heraclitus</p>
+<p>- Eleanor Roosevelt</p>
