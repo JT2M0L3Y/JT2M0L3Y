@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do not stop thinking of life as an adventure."</p>
+<p>"Little minds have little worries, big minds have no time for worries."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Ralph Waldo Emerson</p>
