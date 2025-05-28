@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Little minds have little worries, big minds have no time for worries."</p>
+<p>"Identify your problems, but give your power and energy to solutions."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Tony Robbins</p>
