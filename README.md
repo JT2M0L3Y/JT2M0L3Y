@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Identify your problems, but give your power and energy to solutions."</p>
+<p>"True life is lived when tiny changes occur."</p>
 
-<p>- Tony Robbins</p>
+<p>- Leo Tolstoy</p>
