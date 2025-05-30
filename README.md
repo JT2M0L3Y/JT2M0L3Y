@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"True life is lived when tiny changes occur."</p>
+<p>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Marcus Aurelius</p>
