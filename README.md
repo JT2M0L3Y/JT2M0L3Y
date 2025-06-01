@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you do not tell the truth about yourself you cannot tell it about other people."</p>
+<p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
 
-<p>- Virginia Woolf</p>
+<p>- Celestine Chua</p>
