@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
+<p>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</p>
 
-<p>- Celestine Chua</p>
+<p>- Steve Maraboli</p>
