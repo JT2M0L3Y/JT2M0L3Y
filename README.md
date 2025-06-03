@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</p>
+<p>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</p>
 
-<p>- Steve Maraboli</p>
+<p>- Zig Ziglar</p>
