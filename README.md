@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</p>
+<p>"The weak can never forgive. Forgiveness is the attribute of the strong."</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Mahatma Gandhi</p>
