@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The weak can never forgive. Forgiveness is the attribute of the strong."</p>
+<p>"Creative endeavors are by their nature uncertain."</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Robert Greene</p>
