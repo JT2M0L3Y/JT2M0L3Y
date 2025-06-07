@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Creative endeavors are by their nature uncertain."</p>
+<p>"There is no path to Love. Love is the path."</p>
 
-<p>- Robert Greene</p>
+<p>- Dan Millman</p>
