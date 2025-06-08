@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is no path to Love. Love is the path."</p>
+<p>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</p>
 
-<p>- Dan Millman</p>
+<p>- Rumi</p>
