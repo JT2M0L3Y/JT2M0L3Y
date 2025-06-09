@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</p>
+<p>"Thinking is the hardest work there is. That is why so few people engage in it."</p>
 
-<p>- Rumi</p>
+<p>- Robert Kiyosaki</p>
