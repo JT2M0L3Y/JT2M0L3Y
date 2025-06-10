@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Thinking is the hardest work there is. That is why so few people engage in it."</p>
+<p>"It's what you do in the present that will redeem the past and thereby change the future."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Paulo Coelho</p>
