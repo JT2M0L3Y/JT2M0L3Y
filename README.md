@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's what you do in the present that will redeem the past and thereby change the future."</p>
+<p>"There is nothing in the world so irresistibly contagious as laughter and good humor."</p>
 
-<p>- Paulo Coelho</p>
+<p>- Charles Dickens</p>
