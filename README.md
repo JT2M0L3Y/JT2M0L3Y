@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is nothing in the world so irresistibly contagious as laughter and good humor."</p>
+<p>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</p>
 
-<p>- Charles Dickens</p>
+<p>- Anne Frank</p>
