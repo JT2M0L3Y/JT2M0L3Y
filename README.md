@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</p>
+<p>"Inner peace is when you realize that, in the end, nothing matters."</p>
 
-<p>- Anne Frank</p>
+<p>- Maxime Lagace</p>
