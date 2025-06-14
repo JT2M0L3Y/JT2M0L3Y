@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Inner peace is when you realize that, in the end, nothing matters."</p>
+<p>"Even the smallest person can change the course of the future."</p>
 
-<p>- Maxime Lagace</p>
+<p>- J.R.R. Tolkien</p>
