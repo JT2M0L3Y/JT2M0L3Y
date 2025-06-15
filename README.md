@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Even the smallest person can change the course of the future."</p>
+<p>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Oscar Wilde</p>
