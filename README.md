@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</p>
+<p>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</p>
 
-<p>- Oscar Wilde</p>
+<p>- W.P. Kinsella</p>
