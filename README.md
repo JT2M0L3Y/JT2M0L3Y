@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</p>
+<p>"Man invented language to satisfy his deep need to complain."</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Lily Tomlin</p>
