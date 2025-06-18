@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Man invented language to satisfy his deep need to complain."</p>
+<p>"Life should be touched, not strangled.  "</p>
 
-<p>- Lily Tomlin</p>
+<p>- Ray Bradbury</p>
