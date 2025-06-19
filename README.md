@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life should be touched, not strangled.  "</p>
+<p>"Where there is anger, there is always pain underneath."</p>
 
-<p>- Ray Bradbury</p>
+<p>- Eckhart Tolle</p>
