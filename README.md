@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Where there is anger, there is always pain underneath."</p>
+<p>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Theodore Roosevelt</p>
