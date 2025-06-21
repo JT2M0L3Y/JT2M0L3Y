@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</p>
+<p>"We think too much and feel too little."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Charlie Chaplin</p>
