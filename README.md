@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We think too much and feel too little."</p>
+<p>"Growing up is losing some illusions, in order to acquire others."</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Virginia Woolf</p>
