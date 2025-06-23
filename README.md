@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Growing up is losing some illusions, in order to acquire others."</p>
+<p>"A lie can travel half way around the world while the truth is putting on its shoes."</p>
 
-<p>- Virginia Woolf</p>
+<p>- Mark Twain</p>
