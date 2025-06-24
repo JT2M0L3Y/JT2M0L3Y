@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A lie can travel half way around the world while the truth is putting on its shoes."</p>
+<p>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</p>
 
-<p>- Mark Twain</p>
+<p>- Orison Swett Marden</p>
