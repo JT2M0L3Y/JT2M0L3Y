@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</p>
+<p>"Your past does not equal your future."</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Tony Robbins</p>
