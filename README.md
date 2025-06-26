@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your past does not equal your future."</p>
+<p>"There is no excuse for not trying."</p>
 
-<p>- Tony Robbins</p>
+<p>- Barack Obama</p>
