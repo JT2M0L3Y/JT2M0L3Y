@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is no excuse for not trying."</p>
+<p>"Live simply, expect little, give much."</p>
 
-<p>- Barack Obama</p>
+<p>- Norman Vincent Peale</p>
