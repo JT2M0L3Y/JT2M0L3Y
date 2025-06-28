@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Live simply, expect little, give much."</p>
+<p>"Everything flows, nothing stands still."</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Heraclitus</p>
