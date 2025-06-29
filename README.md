@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Everything flows, nothing stands still."</p>
+<p>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</p>
 
-<p>- Heraclitus</p>
+<p>- Sathya Sai Baba</p>
