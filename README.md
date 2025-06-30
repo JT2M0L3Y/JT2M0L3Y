@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</p>
+<p>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Zig Ziglar</p>
