@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</p>
+<p>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</p>
 
-<p>- Zig Ziglar</p>
+<p>- Aristotle</p>
