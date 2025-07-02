@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</p>
+<p>"Life is a traveling to the edge of knowledge, then a leap taken."</p>
 
-<p>- Aristotle</p>
+<p>- D. H. Lawrence</p>
