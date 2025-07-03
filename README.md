@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is a traveling to the edge of knowledge, then a leap taken."</p>
+<p>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Paramahansa Yogananda</p>
