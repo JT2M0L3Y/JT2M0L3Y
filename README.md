@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</p>
+<p>"While we may not be able to control all that happens to us, we can control what happens inside us."</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Benjamin Franklin</p>
