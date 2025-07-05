@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"While we may not be able to control all that happens to us, we can control what happens inside us."</p>
+<p>"I'm an optimist by choice not by stupidity."</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Yanni</p>
