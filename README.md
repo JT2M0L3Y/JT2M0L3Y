@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I'm an optimist by choice not by stupidity."</p>
+<p>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</p>
 
-<p>- Yanni</p>
+<p>- Amelia Earhart</p>
