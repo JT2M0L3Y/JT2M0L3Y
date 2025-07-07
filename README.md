@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</p>
+<p>"Life is really simple, but men insist on making it complicated. "</p>
 
-<p>- Amelia Earhart</p>
+<p>- Confucius</p>
