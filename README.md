@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is really simple, but men insist on making it complicated. "</p>
+<p>"You have the ability, now apply yourself."</p>
 
-<p>- Confucius</p>
+<p>- Benjamin Mays</p>
