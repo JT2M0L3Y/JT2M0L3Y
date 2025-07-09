@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You have the ability, now apply yourself."</p>
+<p>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</p>
 
-<p>- Benjamin Mays</p>
+<p>- Eckhart Tolle</p>
