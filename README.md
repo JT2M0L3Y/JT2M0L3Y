@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</p>
+<p>"The significance of life is living."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Jiddu Krishnamurti</p>
