@@ -7,34 +7,19 @@
 </a>
 
 <!-- Clickable Badges -->
-[![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
 [![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=grey)](https://leetcode.com/JT2M0L3Y/)
-[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=grey)](https://app.hackthebox.com/profile/801410)
-
 ## 👋 Introduction
-<p>Hello!</p>
-<p>I'm Jonathan, a freelance software engineer, novice photographer, and committed adventurer.</p>
-<p>I've done a fair bit with full-stack development, object-oriented programming, and DevOps.</p>
-<p>I've also come into contact with cybersecurity, cloud computing, and machine learning.</p>
-<p>Currently, I deal in scripting, automation, and migration for administering to remote relational databases.</p>
+<p>I daylight as a Database Administrator and code things outside of work.</p>
+<p>I've done a fair bit of web development, scripting, and DevOps.</p>
+<p>But, I've also flirted with cybersecurity, cloud computing, and machine learning.</p>
+<p>I enjoy soccer, hiking, snowboarding, photography, and PC/board/card games.</p>
 
 ## ⚒️ Active Projects
-
-<a href="https://github.com/JT2M0L3Y/unnamedOS">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=unnamedOS&theme=gruvbox"/>
-</a>
 
 <a href="https://github.com/kevinthedang/discord-ollama">
   <img align="center" style="margin:1rem 0.5rem"
     src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
-</a>
-
-<a href="https://github.com/wakfi/roboboi">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=wakfi&repo=roboboi&theme=gruvbox"/>
 </a>
 
 <!-- Skills -->
@@ -80,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do not be so open-minded that your brains fall out."</p>
+<p>"Human beings can alter their lives by altering their attitudes of mind."</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- William James</p>
