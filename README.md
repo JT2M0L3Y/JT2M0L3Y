@@ -80,6 +80,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The significance of life is living."</p>
+<p>"Do not be so open-minded that your brains fall out."</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Gilbert Chesterton</p>
