@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Human beings can alter their lives by altering their attitudes of mind."</p>
+<p>"Don't give up on your dreams, or your dreams will give up on you."</p>
 
-<p>- William James</p>
+<p>- John Wooden</p>
