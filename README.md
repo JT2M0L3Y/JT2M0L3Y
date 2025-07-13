@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't give up on your dreams, or your dreams will give up on you."</p>
+<p>"You are not only responsible for what you say, but also for what you do not say. "</p>
 
-<p>- John Wooden</p>
+<p>- Martin Luther</p>
