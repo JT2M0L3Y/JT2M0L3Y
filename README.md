@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You are not only responsible for what you say, but also for what you do not say. "</p>
+<p>"The guest will judge better of a feast than the cook."</p>
 
-<p>- Martin Luther</p>
+<p>- Aristotle</p>
