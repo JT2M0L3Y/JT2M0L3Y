@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The guest will judge better of a feast than the cook."</p>
+<p>"Just get out and do it. You will be very, very glad that you did."</p>
 
-<p>- Aristotle</p>
+<p>- Christopher McCandless</p>
