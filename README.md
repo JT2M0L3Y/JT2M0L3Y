@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Just get out and do it. You will be very, very glad that you did."</p>
+<p>"Never trust he who trusts everyone."</p>
 
-<p>- Christopher McCandless</p>
+<p>- Carlos Ruiz Zafon</p>
