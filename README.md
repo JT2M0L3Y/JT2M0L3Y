@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</p>
+<p>"Failure is an option here. If things are not failing, you are not innovating enough."</p>
 
-<p>- Brian Tracy</p>
+<p>- Elon Musk</p>
