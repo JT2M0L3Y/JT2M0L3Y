@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Failure is an option here. If things are not failing, you are not innovating enough."</p>
+<p>"Don't think money does everything or you are going to end up doing everything for money."</p>
 
-<p>- Elon Musk</p>
+<p>- Voltaire</p>
