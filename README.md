@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't think money does everything or you are going to end up doing everything for money."</p>
+<p>"Never say never, because limits, like fears, are often just an illusion."</p>
 
-<p>- Voltaire</p>
+<p>- Michael Jordan</p>
