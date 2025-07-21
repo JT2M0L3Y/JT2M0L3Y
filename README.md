@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never say never, because limits, like fears, are often just an illusion."</p>
+<p>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</p>
 
-<p>- Michael Jordan</p>
+<p>- Brian Tracy</p>
