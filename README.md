@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</p>
+<p>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</p>
 
-<p>- Brian Tracy</p>
+<p>- Yanni</p>
