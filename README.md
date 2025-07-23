@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</p>
+<p>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</p>
 
-<p>- Yanni</p>
+<p>- Roy T. Bennett</p>
