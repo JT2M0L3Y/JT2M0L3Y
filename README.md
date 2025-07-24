@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</p>
+<p>"Don't cry because it's over. Smile because it happened."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dr. Seuss</p>
