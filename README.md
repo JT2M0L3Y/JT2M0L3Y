@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't cry because it's over. Smile because it happened."</p>
+<p>"Troubles are often the tools by which God fashions us for better things."</p>
 
-<p>- Dr. Seuss</p>
+<p>- Henry Ward Beecher</p>
