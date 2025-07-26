@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Troubles are often the tools by which God fashions us for better things."</p>
+<p>"Death smiles at us all. All we can do is smile back."</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Marcus Aurelius</p>
