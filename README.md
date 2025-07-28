@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Courage is not having the strength to go on; it is going on when you don't have the strength."</p>
+<p>"It is not titles that honour men, but men that honour titles."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Niccolo Machiavelli</p>
