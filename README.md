@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is not titles that honour men, but men that honour titles."</p>
+<p>"Against the assault of laughter nothing can stand."</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Mark Twain</p>
