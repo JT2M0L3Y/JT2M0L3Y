@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Against the assault of laughter nothing can stand."</p>
+<p>"Ponder and deliberate before you make a move."</p>
 
-<p>- Mark Twain</p>
+<p>- Sun Tzu</p>
