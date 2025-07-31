@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Ponder and deliberate before you make a move."</p>
+<p>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</p>
 
-<p>- Sun Tzu</p>
+<p>- Steve Maraboli</p>
