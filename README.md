@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</p>
+<p>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</p>
 
-<p>- Steve Maraboli</p>
+<p>- Winston Churchill</p>
