@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</p>
+<p>"Unhappiness enters through a door that has been left open."</p>
 
-<p>- Winston Churchill</p>
+<p>- Zen Proverb</p>
