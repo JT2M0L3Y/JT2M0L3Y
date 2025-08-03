@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Unhappiness enters through a door that has been left open."</p>
+<p>"Don't be pushed by your problems; be led by your dreams."</p>
 
-<p>- Zen Proverb</p>
+<p>- Unknown</p>
