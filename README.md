@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't be pushed by your problems; be led by your dreams."</p>
+<p>"Goals are the fuel in the furnace of achievement."</p>
 
-<p>- Unknown</p>
+<p>- Brian Tracy</p>
