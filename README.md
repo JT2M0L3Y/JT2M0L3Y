@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Goals are the fuel in the furnace of achievement."</p>
+<p>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</p>
 
-<p>- Brian Tracy</p>
+<p>- Gary Keller</p>
