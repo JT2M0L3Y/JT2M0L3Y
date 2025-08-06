@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</p>
+<p>"If ever you feel like an animal among men, be a lion."</p>
 
-<p>- Gary Keller</p>
+<p>- Criss Jami</p>
