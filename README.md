@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If ever you feel like an animal among men, be a lion."</p>
+<p>"No matter how tall the mountain is, it cannot block the sun."</p>
 
-<p>- Criss Jami</p>
+<p>- Chinese Proverb</p>
