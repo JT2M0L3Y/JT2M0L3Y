@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No matter how tall the mountain is, it cannot block the sun."</p>
+<p>"You are what you believe in. You become that which you believe you can become."</p>
 
-<p>- Chinese Proverb</p>
+<p>- Bhagavad Gita</p>
