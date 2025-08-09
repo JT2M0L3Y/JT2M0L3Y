@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You are what you believe in. You become that which you believe you can become."</p>
+<p>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Anne Wilson Schaef</p>
