@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</p>
+<p>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Naval Ravikant</p>
