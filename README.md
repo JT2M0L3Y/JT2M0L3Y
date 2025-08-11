@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</p>
+<p>"People who have goals succeed because they know where they're going. It's that simple."</p>
 
-<p>- Naval Ravikant</p>
+<p>- Earl Nightingale</p>
