@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People who have goals succeed because they know where they're going. It's that simple."</p>
+<p>"A little progress each day adds up to big results."</p>
 
-<p>- Earl Nightingale</p>
+<p>- Unknown</p>
