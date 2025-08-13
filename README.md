@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A little progress each day adds up to big results."</p>
+<p>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</p>
 
-<p>- Unknown</p>
+<p>- George Bernard Shaw</p>
