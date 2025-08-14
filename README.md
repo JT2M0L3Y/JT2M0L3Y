@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</p>
+<p>"Everything you've ever wanted is on the other side of fear."</p>
 
-<p>- George Bernard Shaw</p>
+<p>- George Addair</p>
