@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Everything you've ever wanted is on the other side of fear."</p>
+<p>"The time is always right to do what is right."</p>
 
-<p>- George Addair</p>
+<p>- Martin Luther King, Jr.</p>
