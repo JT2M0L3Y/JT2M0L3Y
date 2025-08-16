@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The time is always right to do what is right."</p>
+<p>"People are not disturbed by things, but by the views they take of them."</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Epictetus</p>
