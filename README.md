@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People are not disturbed by things, but by the views they take of them."</p>
+<p>"A leader leads by example, not by force."</p>
 
-<p>- Epictetus</p>
+<p>- Sun Tzu</p>
