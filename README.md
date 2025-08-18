@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A leader leads by example, not by force."</p>
+<p>"No man is free who is not master of himself."</p>
 
-<p>- Sun Tzu</p>
+<p>- Epictetus</p>
