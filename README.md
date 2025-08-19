@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No man is free who is not master of himself."</p>
+<p>"Never put off to tomorrow what you can do to-day."</p>
 
-<p>- Epictetus</p>
+<p>- Thomas Jefferson</p>
