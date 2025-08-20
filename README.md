@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never put off to tomorrow what you can do to-day."</p>
+<p>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Grace Coddington</p>
