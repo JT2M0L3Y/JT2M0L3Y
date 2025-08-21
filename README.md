@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</p>
+<p>"All men are equal before fish."</p>
 
-<p>- Grace Coddington</p>
+<p>- Herbert Hoover</p>
