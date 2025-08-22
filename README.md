@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All men are equal before fish."</p>
+<p>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</p>
 
-<p>- Herbert Hoover</p>
+<p>- Steve Jobs</p>
