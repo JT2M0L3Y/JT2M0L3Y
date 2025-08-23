@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</p>
+<p>"Greatness comes from living with purpose and passion."</p>
 
-<p>- Steve Jobs</p>
+<p>- Ralph Marston</p>
