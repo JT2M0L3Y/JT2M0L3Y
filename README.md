@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Greatness comes from living with purpose and passion."</p>
+<p>"Work harder on yourself than you do on your job."</p>
 
-<p>- Ralph Marston</p>
+<p>- Jim Rohn</p>
