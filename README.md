@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Work harder on yourself than you do on your job."</p>
+<p>"Don't be afraid to see what you see."</p>
 
-<p>- Jim Rohn</p>
+<p>- Ronald Reagan</p>
