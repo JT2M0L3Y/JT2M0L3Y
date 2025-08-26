@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't be afraid to see what you see."</p>
+<p>"If I have seen further than others, it is by standing upon the shoulders of giants."</p>
 
-<p>- Ronald Reagan</p>
+<p>- Isaac Newton</p>
