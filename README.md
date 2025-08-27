@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If I have seen further than others, it is by standing upon the shoulders of giants."</p>
+<p>"Waste not fresh tears over old griefs."</p>
 
-<p>- Isaac Newton</p>
+<p>- Euripides</p>
