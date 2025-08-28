@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Waste not fresh tears over old griefs."</p>
+<p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
 
-<p>- Euripides</p>
+<p>- Huang Po</p>
