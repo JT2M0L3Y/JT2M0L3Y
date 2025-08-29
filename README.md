@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
+<p>"Growth is in a series of mistakes. That's the only way you learn."</p>
 
-<p>- Huang Po</p>
+<p>- Steve Harvey</p>
