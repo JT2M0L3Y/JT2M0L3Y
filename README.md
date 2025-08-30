@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Growth is in a series of mistakes. That's the only way you learn."</p>
+<p>"The least deviation from truth will be multiplied later."</p>
 
-<p>- Steve Harvey</p>
+<p>- Aristotle</p>
