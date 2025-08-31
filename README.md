@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The least deviation from truth will be multiplied later."</p>
+<p>"For things to change, you have to change."</p>
 
-<p>- Aristotle</p>
+<p>- Jim Rohn</p>
