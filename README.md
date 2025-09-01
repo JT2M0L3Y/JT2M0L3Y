@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"For things to change, you have to change."</p>
+<p>"Courage is found in unlikely places."</p>
 
-<p>- Jim Rohn</p>
+<p>- J.R.R. Tolkien</p>
