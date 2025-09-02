@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Courage is found in unlikely places."</p>
+<p>"Don't settle, and don't struggle."</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Naval Ravikant</p>
