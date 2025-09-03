@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't settle, and don't struggle."</p>
+<p>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</p>
 
-<p>- Naval Ravikant</p>
+<p>- Shunryu Suzuki</p>
