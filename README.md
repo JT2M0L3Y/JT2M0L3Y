@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</p>
+<p>"Each path to knowledge involves different rules and these rules are not interchangeable."</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Barack Obama</p>
