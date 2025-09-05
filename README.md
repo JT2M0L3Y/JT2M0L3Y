@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Each path to knowledge involves different rules and these rules are not interchangeable."</p>
+<p>"Believe you can and you will be halfway there."</p>
 
-<p>- Barack Obama</p>
+<p>- Lolly Daskal</p>
