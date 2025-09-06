@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Believe you can and you will be halfway there."</p>
+<p>"Everyone sees what you appear to be, few experience what you really are."</p>
 
-<p>- Lolly Daskal</p>
+<p>- Niccolo Machiavelli</p>
