@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Everyone sees what you appear to be, few experience what you really are."</p>
+<p>"You talk when you cease to be at peace with your thoughts."</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Kahlil Gibran</p>
