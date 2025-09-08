@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You talk when you cease to be at peace with your thoughts."</p>
+<p>"Work out your own salvation. Do not depend on others."</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Buddha</p>
