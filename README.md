@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Work out your own salvation. Do not depend on others."</p>
+<p>"Nothing ever goes away until it has taught us what we need to know."</p>
 
-<p>- Buddha</p>
+<p>- Pema Chodron</p>
