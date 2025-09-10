@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing ever goes away until it has taught us what we need to know."</p>
+<p>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</p>
 
-<p>- Pema Chodron</p>
+<p>- Marcus Aurelius</p>
