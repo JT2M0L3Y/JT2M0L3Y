@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</p>
+<p>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Nelson Mandela</p>
