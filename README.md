@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</p>
+<p>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</p>
 
-<p>- Nelson Mandela</p>
+<p>- Criss Jami</p>
