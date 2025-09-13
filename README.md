@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</p>
+<p>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</p>
 
-<p>- Criss Jami</p>
+<p>- George Bernard Shaw</p>
