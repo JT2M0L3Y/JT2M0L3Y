@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</p>
+<p>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Seneca</p>
