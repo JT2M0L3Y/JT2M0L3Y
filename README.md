@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</p>
+<p>"It is not enough to win a war; it is more important to organize the peace."</p>
 
-<p>- Seneca</p>
+<p>- Aristotle</p>
