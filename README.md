@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is not enough to win a war; it is more important to organize the peace."</p>
+<p>"A day without laughter is a day wasted."</p>
 
-<p>- Aristotle</p>
+<p>- Charlie Chaplin</p>
