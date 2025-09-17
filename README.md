@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A day without laughter is a day wasted."</p>
+<p>"If no one ever broke the rules, then we'd never advance."</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Simon Sinek</p>
