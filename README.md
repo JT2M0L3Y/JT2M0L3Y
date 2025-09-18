@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If no one ever broke the rules, then we'd never advance."</p>
+<p>"Confidence is contagious. So is lack of confidence."</p>
 
-<p>- Simon Sinek</p>
+<p>- Vince Lombardi</p>
