@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Confidence is contagious. So is lack of confidence."</p>
+<p>"He will win who knows when to fight and when not to fight."</p>
 
-<p>- Vince Lombardi</p>
+<p>- Sun Tzu</p>
