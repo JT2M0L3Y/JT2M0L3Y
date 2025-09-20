@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"He will win who knows when to fight and when not to fight."</p>
+<p>"Talk to someone about themselves and they'll listen for hours."</p>
 
-<p>- Sun Tzu</p>
+<p>- Dale Carnegie</p>
