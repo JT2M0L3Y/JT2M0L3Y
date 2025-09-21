@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Talk to someone about themselves and they'll listen for hours."</p>
+<p>"Little by little, one travels far."</p>
 
-<p>- Dale Carnegie</p>
+<p>- J.R.R. Tolkien</p>
