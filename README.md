@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Little by little, one travels far."</p>
+<p>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Earl Nightingale</p>
