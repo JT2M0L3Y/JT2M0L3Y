@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</p>
+<p>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</p>
 
-<p>- Earl Nightingale</p>
+<p>- John Eliot</p>
