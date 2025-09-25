@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If light is in your heart, you will find your way home.  "</p>
+<p>"We never know the love of a parent till we become parents ourselves."</p>
 
-<p>- Rumi</p>
+<p>- Henry Ward Beecher</p>
