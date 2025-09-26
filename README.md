@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We never know the love of a parent till we become parents ourselves."</p>
+<p>"The wise learn many things from their enemies."</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Aristophanes</p>
