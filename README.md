@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The wise learn many things from their enemies."</p>
+<p>"Pursue what catches your heart, not what catches your eyes."</p>
 
-<p>- Aristophanes</p>
+<p>- Roy T. Bennett</p>
