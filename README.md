@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Pursue what catches your heart, not what catches your eyes."</p>
+<p>"The dream is free, but the hustle is sold separately."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Steve Harvey</p>
