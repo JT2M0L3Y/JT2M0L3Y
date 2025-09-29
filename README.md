@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The dream is free, but the hustle is sold separately."</p>
+<p>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</p>
 
-<p>- Steve Harvey</p>
+<p>- Jon Kabat-Zinn</p>
