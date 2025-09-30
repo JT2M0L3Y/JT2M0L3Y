@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</p>
+<p>"The key to success is to focus our conscious mind on things we desire not things we fear. "</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Brian Tracy</p>
