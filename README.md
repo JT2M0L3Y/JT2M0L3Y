@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The key to success is to focus our conscious mind on things we desire not things we fear. "</p>
+<p>"Enthusiasm is a vital element toward the individual success of every man or woman."</p>
 
-<p>- Brian Tracy</p>
+<p>- Conrad Hilton</p>
