@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Enthusiasm is a vital element toward the individual success of every man or woman."</p>
+<p>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</p>
 
-<p>- Conrad Hilton</p>
+<p>- Paramahansa Yogananda</p>
