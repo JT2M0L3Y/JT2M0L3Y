@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</p>
+<p>"Receive without complaint, Work with fate."</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Ming-Dao Deng</p>
