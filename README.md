@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Receive without complaint, Work with fate."</p>
+<p>"It is better to offer no excuse than a bad one. "</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- George Washington</p>
