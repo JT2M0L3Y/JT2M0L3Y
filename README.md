@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is better to offer no excuse than a bad one. "</p>
+<p>"Life is a question and how we live it is our answer."</p>
 
-<p>- George Washington</p>
+<p>- Gary Keller</p>
