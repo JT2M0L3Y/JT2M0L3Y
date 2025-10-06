@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is a question and how we live it is our answer."</p>
+<p>"It takes half your life before you discover life is a do-it-yourself project."</p>
 
-<p>- Gary Keller</p>
+<p>- Napoleon Hill</p>
