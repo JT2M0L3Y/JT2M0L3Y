@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It takes half your life before you discover life is a do-it-yourself project."</p>
+<p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
 
-<p>- Napoleon Hill</p>
+<p>- Beverly Sills</p>
