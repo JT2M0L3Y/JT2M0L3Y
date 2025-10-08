@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
+<p>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</p>
 
-<p>- Beverly Sills</p>
+<p>- Steve Harvey</p>
