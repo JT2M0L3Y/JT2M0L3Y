@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</p>
+<p>"Never allow a person to tell you no who doesn't have the power to say yes."</p>
 
-<p>- Steve Harvey</p>
+<p>- Eleanor Roosevelt</p>
