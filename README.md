@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never allow a person to tell you no who doesn't have the power to say yes."</p>
+<p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Huang Po</p>
