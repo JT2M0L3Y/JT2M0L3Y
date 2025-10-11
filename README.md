@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
+<p>"Time doesn't heal emotional pain, you need to learn how to let go."</p>
 
-<p>- Huang Po</p>
+<p>- Roy T. Bennett</p>
