@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Time doesn't heal emotional pain, you need to learn how to let go."</p>
+<p>"Where there is no struggle, there is no strength. "</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Oprah Winfrey</p>
