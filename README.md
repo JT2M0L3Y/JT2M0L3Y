@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Where there is no struggle, there is no strength. "</p>
+<p>"Never allow a person to tell you no who doesn't have the power to say yes."</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Eleanor Roosevelt</p>
