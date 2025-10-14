@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never allow a person to tell you no who doesn't have the power to say yes."</p>
+<p>"Shoot for the moon, because even if you miss, you'll land among the stars."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Les Brown</p>
