@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Shoot for the moon, because even if you miss, you'll land among the stars."</p>
+<p>"The worst part of success is trying to find someone who is happy for you."</p>
 
-<p>- Les Brown</p>
+<p>- Bette Midler</p>
