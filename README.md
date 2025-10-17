@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When the time is gone, you can never get it back."</p>
+<p>"Problems remain as problems because people are busy defending them rather than finding solutions."</p>
 
-<p>- Stephen King</p>
+<p>- Celestine Chua</p>
