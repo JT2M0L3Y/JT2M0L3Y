@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Problems remain as problems because people are busy defending them rather than finding solutions."</p>
+<p>"The greatest test of courage on earth is to bear defeat without losing heart."</p>
 
-<p>- Celestine Chua</p>
+<p>- Robert Greene</p>
