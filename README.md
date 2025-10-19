@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The greatest test of courage on earth is to bear defeat without losing heart."</p>
+<p>"We must not sit down and wait for miracles. Up and be going!"</p>
 
-<p>- Robert Greene</p>
+<p>- John Eliot</p>
