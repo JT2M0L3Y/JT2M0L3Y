@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"New beginnings are disguised as painful endings."</p>
+<p>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</p>
 
-<p>- Lao Tzu</p>
+<p>- Deepak Chopra</p>
