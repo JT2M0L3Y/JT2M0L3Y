@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</p>
+<p>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Hans Christian Andersen</p>
