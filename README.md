@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Duty makes us do things well, but love makes us do them beautifully.  "</p>
+<p>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</p>
 
-<p>- Zig Ziglar</p>
+<p>- Tony Robbins</p>
