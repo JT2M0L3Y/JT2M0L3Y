@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</p>
+<p>"Self-control is strength."</p>
 
-<p>- Tony Robbins</p>
+<p>- James Allen</p>
