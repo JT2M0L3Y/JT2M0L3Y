@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Self-control is strength."</p>
+<p>"Stop acting so small. You are the universe in ecstatic motion."</p>
 
-<p>- James Allen</p>
+<p>- Rumi</p>
