@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Stop acting so small. You are the universe in ecstatic motion."</p>
+<p>"To bear trials with a calm mind robs misfortune of its strength and burden."</p>
 
-<p>- Rumi</p>
+<p>- Seneca</p>
