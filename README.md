@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</p>
+<p>"The more I want to get something done, the less I call it work."</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Richard Bach</p>
