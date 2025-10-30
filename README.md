@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The more I want to get something done, the less I call it work."</p>
+<p>"It is in your moments of decision that your destiny is shaped."</p>
 
-<p>- Richard Bach</p>
+<p>- Tony Robbins</p>
