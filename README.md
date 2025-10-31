@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is in your moments of decision that your destiny is shaped."</p>
+<p>"The mind is the limit."</p>
 
-<p>- Tony Robbins</p>
+<p>- Arnold Schwarzenegger</p>
