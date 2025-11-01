@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The mind is the limit."</p>
+<p>"Life can only be understood backwards; but it must be lived forwards."</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Soren Kierkegaard</p>
