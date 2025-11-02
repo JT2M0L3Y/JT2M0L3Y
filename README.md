@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life can only be understood backwards; but it must be lived forwards."</p>
+<p>"Someday death will take us to another star."</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Vincent van Gogh</p>
