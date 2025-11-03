@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Someday death will take us to another star."</p>
+<p>"We must not sit down and wait for miracles. Up and be going!"</p>
 
-<p>- Vincent van Gogh</p>
+<p>- John Eliot</p>
