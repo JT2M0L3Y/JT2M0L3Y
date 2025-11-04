@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We must not sit down and wait for miracles. Up and be going!"</p>
+<p>"Success is getting what you want... Happiness is wanting what you get."</p>
 
-<p>- John Eliot</p>
+<p>- Dale Carnegie</p>
