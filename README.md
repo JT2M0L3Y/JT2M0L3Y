@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Success is getting what you want... Happiness is wanting what you get."</p>
+<p>"You can suffer the pain of change or suffer remaining the way you are."</p>
 
-<p>- Dale Carnegie</p>
+<p>- Joyce Meyer</p>
