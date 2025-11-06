@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You can suffer the pain of change or suffer remaining the way you are."</p>
+<p>"Whenever you do a thing, act as if all the world were watching."</p>
 
-<p>- Joyce Meyer</p>
+<p>- Thomas Jefferson</p>
