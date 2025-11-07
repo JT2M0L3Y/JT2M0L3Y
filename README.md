@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Whenever you do a thing, act as if all the world were watching."</p>
+<p>"If you don't like something change it; if you can't change it, change the way you think about it."</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Mary Engelbreit</p>
