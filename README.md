@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you don't like something change it; if you can't change it, change the way you think about it."</p>
+<p>"The reward of suffering is experience."</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Harry S. Truman</p>
