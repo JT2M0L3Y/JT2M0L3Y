@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The reward of suffering is experience."</p>
+<p>"The eye with which I see God is the same eye with which God sees me."</p>
 
-<p>- Harry S. Truman</p>
+<p>- Meister Eckhart</p>
