@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The eye with which I see God is the same eye with which God sees me."</p>
+<p>"The truth is rarely pure and never simple. "</p>
 
-<p>- Meister Eckhart</p>
+<p>- Oscar Wilde</p>
