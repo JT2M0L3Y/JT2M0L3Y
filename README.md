@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The truth is rarely pure and never simple. "</p>
+<p>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Denis Waitley</p>
