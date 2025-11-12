@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</p>
+<p>"Never lose hope. Storms make people stronger and never last forever."</p>
 
-<p>- Denis Waitley</p>
+<p>- Roy T. Bennett</p>
