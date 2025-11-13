@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never lose hope. Storms make people stronger and never last forever."</p>
+<p>"Misfortune shows those who are not really friends."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Aristotle</p>
