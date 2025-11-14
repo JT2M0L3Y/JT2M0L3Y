@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Misfortune shows those who are not really friends."</p>
+<p>"Live the moment for the moment."</p>
 
-<p>- Aristotle</p>
+<p>- Michael Jordan</p>
