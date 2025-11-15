@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Live the moment for the moment."</p>
+<p>"It is safer to search in the maze than to remain in a cheeseless situation."</p>
 
-<p>- Michael Jordan</p>
+<p>- Spencer Johnson</p>
