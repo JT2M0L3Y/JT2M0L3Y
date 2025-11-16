@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is safer to search in the maze than to remain in a cheeseless situation."</p>
+<p>"Life isn't about finding yourself. Life is about creating yourself."</p>
 
-<p>- Spencer Johnson</p>
+<p>- George Bernard Shaw</p>
