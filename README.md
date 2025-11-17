@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life isn't about finding yourself. Life is about creating yourself."</p>
+<p>"See what you're doing wrong, laugh at it, change and do better."</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Spencer Johnson</p>
