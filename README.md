@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"See what you're doing wrong, laugh at it, change and do better."</p>
+<p>"Intelligence is the ability to adapt to change."</p>
 
-<p>- Spencer Johnson</p>
+<p>- Stephen Hawking</p>
