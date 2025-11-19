@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Intelligence is the ability to adapt to change."</p>
+<p>"No duty is more urgent than that of returning thanks."</p>
 
-<p>- Stephen Hawking</p>
+<p>- James Allen</p>
