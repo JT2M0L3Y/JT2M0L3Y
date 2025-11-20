@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No duty is more urgent than that of returning thanks."</p>
+<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
 
-<p>- James Allen</p>
+<p>- Aristotle</p>
