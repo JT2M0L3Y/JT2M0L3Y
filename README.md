@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Where your talents and the needs of the world cross, there lies your vocation."</p>
+<p>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</p>
 
-<p>- Aristotle</p>
+<p>- Henry Ward Beecher</p>
