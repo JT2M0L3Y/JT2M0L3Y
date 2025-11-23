@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The road to success is always under construction.."</p>
+<p>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</p>
 
-<p>- Lily Tomlin</p>
+<p>- Conrad Hilton</p>
