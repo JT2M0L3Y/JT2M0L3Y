@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</p>
+<p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
 
-<p>- Conrad Hilton</p>
+<p>- Beverly Sills</p>
