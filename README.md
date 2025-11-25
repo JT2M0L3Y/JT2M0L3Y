@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
+<p>"In order to carry a positive action, we must develop here a positive vision."</p>
 
-<p>- Beverly Sills</p>
+<p>- Dalai Lama</p>
