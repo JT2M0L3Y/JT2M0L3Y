@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In order to carry a positive action, we must develop here a positive vision."</p>
+<p>"Not why the addiction but why the pain."</p>
 
-<p>- Dalai Lama</p>
+<p>- Gabor Mate</p>
