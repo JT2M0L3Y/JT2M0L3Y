@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Not why the addiction but why the pain."</p>
+<p>"When it hurts - observe. Life is trying to teach you something."</p>
 
-<p>- Gabor Mate</p>
+<p>- Anita Krizzan</p>
