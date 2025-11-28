@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When it hurts - observe. Life is trying to teach you something."</p>
+<p>"The truth is simple. If it was complicated, everyone would understand it."</p>
 
-<p>- Anita Krizzan</p>
+<p>- Walt Whitman</p>
