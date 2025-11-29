@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The truth is simple. If it was complicated, everyone would understand it."</p>
+<p>"What you get by achieving your goals is not as important as what you become by achieving your goals."</p>
 
-<p>- Walt Whitman</p>
+<p>- Henry David Thoreau</p>
