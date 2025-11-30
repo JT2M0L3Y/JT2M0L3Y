@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"What you get by achieving your goals is not as important as what you become by achieving your goals."</p>
+<p>"The more acquaintances you have, the less you know them."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Chinese Proverb</p>
