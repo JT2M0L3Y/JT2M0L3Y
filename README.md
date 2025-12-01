@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The more acquaintances you have, the less you know them."</p>
+<p>"From the errors of others, a wise man corrects his own."</p>
 
-<p>- Chinese Proverb</p>
+<p>- Publilius Syrus</p>
