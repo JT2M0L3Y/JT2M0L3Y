@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"From the errors of others, a wise man corrects his own."</p>
+<p>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</p>
 
-<p>- Publilius Syrus</p>
+<p>- Steve Jobs</p>
