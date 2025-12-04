@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To live is to be willing to die over and over again."</p>
+<p>"The power of human thought grows exponentially with the number of minds that share that thought."</p>
 
-<p>- Pema Chodron</p>
+<p>- Dan Brown</p>
