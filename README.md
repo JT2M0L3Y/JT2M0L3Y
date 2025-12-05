@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The power of human thought grows exponentially with the number of minds that share that thought."</p>
+<p>"It is up to each of us to sing as we feel moved by the overall song of life."</p>
 
-<p>- Dan Brown</p>
+<p>- Ming-Dao Deng</p>
