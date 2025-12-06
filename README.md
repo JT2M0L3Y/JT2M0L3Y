@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is up to each of us to sing as we feel moved by the overall song of life."</p>
+<p>"The only man who never makes mistakes is the man who never does anything."</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Theodore Roosevelt</p>
