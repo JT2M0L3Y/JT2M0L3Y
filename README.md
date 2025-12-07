@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The only man who never makes mistakes is the man who never does anything."</p>
+<p>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- James Allen</p>
