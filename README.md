@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</p>
+<p>"It is only depth of character that determines the profundity with which we face life."</p>
 
-<p>- James Allen</p>
+<p>- Ming-Dao Deng</p>
