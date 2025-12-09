@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is only depth of character that determines the profundity with which we face life."</p>
+<p>"Discipline is the bridge between goals and accomplishment."</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Jim Rohn</p>
