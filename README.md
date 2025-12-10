@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Discipline is the bridge between goals and accomplishment."</p>
+<p>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</p>
 
-<p>- Jim Rohn</p>
+<p>- Sathya Sai Baba</p>
