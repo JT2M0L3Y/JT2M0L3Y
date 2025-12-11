@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</p>
+<p>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Oprah Winfrey</p>
