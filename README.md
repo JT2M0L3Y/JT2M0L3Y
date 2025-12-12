@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</p>
+<p>"Life is either a daring adventure, or it is nothing."</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Helen Keller</p>
