@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is either a daring adventure, or it is nothing."</p>
+<p>"There is no path to Love. Love is the path."</p>
 
-<p>- Helen Keller</p>
+<p>- Dan Millman</p>
