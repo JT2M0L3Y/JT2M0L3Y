@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is no path to Love. Love is the path."</p>
+<p>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</p>
 
-<p>- Dan Millman</p>
+<p>- Steve Maraboli</p>
