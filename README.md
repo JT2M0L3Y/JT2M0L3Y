@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</p>
+<p>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</p>
 
-<p>- Steve Maraboli</p>
+<p>- Earl Nightingale</p>
