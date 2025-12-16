@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</p>
+<p>"Identification with our mind causes thought to become compulsive."</p>
 
-<p>- Earl Nightingale</p>
+<p>- Eckhart Tolle</p>
