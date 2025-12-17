@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Identification with our mind causes thought to become compulsive."</p>
+<p>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Sonia Ricotti</p>
