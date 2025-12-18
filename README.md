@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</p>
+<p>"A mountain never yields to the wind no matter how strong it is."</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Zen Proverb</p>
