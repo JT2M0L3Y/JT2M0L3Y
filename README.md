@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you genuinely want something, don't wait for it - teach yourself."</p>
+<p>"Character is the result of two things: mental attitude and the way we spend our time."</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Elbert Hubbard</p>
