@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Character is the result of two things: mental attitude and the way we spend our time."</p>
+<p>"Keep others in suspense, cultivate an air of unpredictability."</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Robert Greene</p>
