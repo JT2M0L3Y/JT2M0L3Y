@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Keep others in suspense, cultivate an air of unpredictability."</p>
+<p>"Awakening is possible only for those who seek it and want it."</p>
 
-<p>- Robert Greene</p>
+<p>- G.I. Gurdjieff</p>
