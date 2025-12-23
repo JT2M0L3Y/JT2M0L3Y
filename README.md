@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Awakening is possible only for those who seek it and want it."</p>
+<p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- George Eliot</p>
