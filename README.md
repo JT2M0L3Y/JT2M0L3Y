@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
+<p>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</p>
 
-<p>- George Eliot</p>
+<p>- Richard Bach</p>
