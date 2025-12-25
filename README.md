@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</p>
+<p>"How you think when you lose determines how long it will be until you win."</p>
 
-<p>- Richard Bach</p>
+<p>- Gilbert Chesterton</p>
