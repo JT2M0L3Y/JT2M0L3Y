@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"How you think when you lose determines how long it will be until you win."</p>
+<p>"Focus is a matter of deciding what things you're not going to do."</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- John Carmack</p>
