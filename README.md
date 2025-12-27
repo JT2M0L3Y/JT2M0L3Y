@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Focus is a matter of deciding what things you're not going to do."</p>
+<p>"Unless you change how you are, you will always have what you got."</p>
 
-<p>- John Carmack</p>
+<p>- Jim Rohn</p>
