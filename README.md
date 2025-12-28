@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Unless you change how you are, you will always have what you got."</p>
+<p>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</p>
 
-<p>- Jim Rohn</p>
+<p>- Charles Dickens</p>
