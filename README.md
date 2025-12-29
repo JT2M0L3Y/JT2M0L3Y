@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</p>
+<p>"It's necessary to get the losers out of your life if you want to live your dream."</p>
 
-<p>- Charles Dickens</p>
+<p>- Les Brown</p>
