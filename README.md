@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's necessary to get the losers out of your life if you want to live your dream."</p>
+<p>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</p>
 
-<p>- Les Brown</p>
+<p>- Bhagavad Gita</p>
