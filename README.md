@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</p>
+<p>"I am not what happened to me, I am what I choose to become."</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Carl Jung</p>
