@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I am not what happened to me, I am what I choose to become."</p>
+<p>"Peace of mind is that mental condition in which you have accepted the worst."</p>
 
-<p>- Carl Jung</p>
+<p>- Lin Yutang</p>
