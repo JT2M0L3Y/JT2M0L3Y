@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</p>
+<p>"Deeds will not be less valiant because they are upraised."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- J.R.R. Tolkien</p>
