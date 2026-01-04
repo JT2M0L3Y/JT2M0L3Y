@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Deeds will not be less valiant because they are upraised."</p>
+<p>"Art is the signature of civilizations. "</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Beverly Sills</p>
