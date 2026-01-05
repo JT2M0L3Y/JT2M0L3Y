@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Art is the signature of civilizations. "</p>
+<p>"Do anything, but let it produce joy."</p>
 
-<p>- Beverly Sills</p>
+<p>- Walt Whitman</p>
