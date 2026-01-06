@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do anything, but let it produce joy."</p>
+<p>"The heart that gives, gathers."</p>
 
-<p>- Walt Whitman</p>
+<p>- Lao Tzu</p>
