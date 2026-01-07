@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The heart that gives, gathers."</p>
+<p>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</p>
 
-<p>- Lao Tzu</p>
+<p>- Richard Bach</p>
