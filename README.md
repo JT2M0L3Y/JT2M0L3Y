@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</p>
+<p>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</p>
 
-<p>- Richard Bach</p>
+<p>- Andrew Carnegie</p>
