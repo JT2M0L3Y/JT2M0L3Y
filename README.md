@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</p>
+<p>"Life is the art of drawing sufficient conclusions from insufficient premises."</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Samuel Butler</p>
