@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is the art of drawing sufficient conclusions from insufficient premises."</p>
+<p>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</p>
 
-<p>- Samuel Butler</p>
+<p>- Steve Maraboli</p>
