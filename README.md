@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</p>
+<p>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</p>
 
-<p>- Steve Maraboli</p>
+<p>- Amelia Earhart</p>
