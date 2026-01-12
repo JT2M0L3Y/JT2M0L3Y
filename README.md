@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</p>
+<p>"Generosity is giving more than you can, and pride is taking less than you need."</p>
 
-<p>- Amelia Earhart</p>
+<p>- Kahlil Gibran</p>
