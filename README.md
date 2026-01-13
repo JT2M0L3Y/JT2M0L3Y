@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Generosity is giving more than you can, and pride is taking less than you need."</p>
+<p>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Kamal Ravikant</p>
