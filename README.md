@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</p>
+<p>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Dan Brown</p>
