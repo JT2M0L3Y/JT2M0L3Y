@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</p>
+<p>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</p>
 
-<p>- Dan Brown</p>
+<p>- Brian Tracy</p>
