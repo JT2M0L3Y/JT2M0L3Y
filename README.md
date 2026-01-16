@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</p>
+<p>"At first dreams seem impossible, then improbable, then inevitable."</p>
 
-<p>- Brian Tracy</p>
+<p>- Christopher Reeve</p>
