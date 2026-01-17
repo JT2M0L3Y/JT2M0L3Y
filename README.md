@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"At first dreams seem impossible, then improbable, then inevitable."</p>
+<p>"Life can only be understood backwards; but it must be lived forwards."</p>
 
-<p>- Christopher Reeve</p>
+<p>- Soren Kierkegaard</p>
