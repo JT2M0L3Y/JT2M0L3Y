@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life can only be understood backwards; but it must be lived forwards."</p>
+<p>"Everything has beauty but not everyone sees it."</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Confucius</p>
