@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Everything has beauty but not everyone sees it."</p>
+<p>"Imagination means nothing without doing.  "</p>
 
-<p>- Confucius</p>
+<p>- Charlie Chaplin</p>
