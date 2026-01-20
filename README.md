@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Imagination means nothing without doing.  "</p>
+<p>"The less you respond to negative people, the more positive your life will become."</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Paulo Coelho</p>
