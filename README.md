@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The less you respond to negative people, the more positive your life will become."</p>
+<p>"Changing minds is harder than finding people who already agree."</p>
 
-<p>- Paulo Coelho</p>
+<p>- Jack Butcher</p>
