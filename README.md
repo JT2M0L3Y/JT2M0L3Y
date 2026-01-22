@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Changing minds is harder than finding people who already agree."</p>
+<p>"All things come into being by conflict of opposites."</p>
 
-<p>- Jack Butcher</p>
+<p>- Heraclitus</p>
