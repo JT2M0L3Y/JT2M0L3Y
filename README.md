@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All things come into being by conflict of opposites."</p>
+<p>"All we have to decide is what to do with the time that is given to us."</p>
 
-<p>- Heraclitus</p>
+<p>- J.R.R. Tolkien</p>
