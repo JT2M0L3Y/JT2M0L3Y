@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All we have to decide is what to do with the time that is given to us."</p>
+<p>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Nicolas Chamfort</p>
