@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</p>
+<p>"If you can't argue both sides, you can't argue."</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Jack Butcher</p>
