@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you can't argue both sides, you can't argue."</p>
+<p>"Life's too mysterious to take too serious."</p>
 
-<p>- Jack Butcher</p>
+<p>- Mary Engelbreit</p>
