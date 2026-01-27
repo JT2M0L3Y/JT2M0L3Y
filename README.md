@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life's too mysterious to take too serious."</p>
+<p>"Allow motion to equal emotion."</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Elbert Hubbard</p>
