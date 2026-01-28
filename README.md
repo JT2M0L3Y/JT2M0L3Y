@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Allow motion to equal emotion."</p>
+<p>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Norman Vincent Peale</p>
