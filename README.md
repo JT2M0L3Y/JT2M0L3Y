@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</p>
+<p>"Be willing to be a beginner every single morning."</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Meister Eckhart</p>
