@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be willing to be a beginner every single morning."</p>
+<p>"It is easy to discover what another has discovered before."</p>
 
-<p>- Meister Eckhart</p>
+<p>- Christopher Columbus</p>
