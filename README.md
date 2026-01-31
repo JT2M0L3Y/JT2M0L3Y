@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is easy to discover what another has discovered before."</p>
+<p>"Never trust he who trusts everyone."</p>
 
-<p>- Christopher Columbus</p>
+<p>- Carlos Ruiz Zafon</p>
