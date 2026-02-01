@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never trust he who trusts everyone."</p>
+<p>"Who looks outside, dreams; who looks inside, awakes."</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Lolly Daskal</p>
