@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Who looks outside, dreams; who looks inside, awakes."</p>
+<p>"Belief creates the actual fact."</p>
 
-<p>- Lolly Daskal</p>
+<p>- William James</p>
