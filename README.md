@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Belief creates the actual fact."</p>
+<p>"Every experience is a lesson. Every loss is a gain."</p>
 
-<p>- William James</p>
+<p>- Sathya Sai Baba</p>
