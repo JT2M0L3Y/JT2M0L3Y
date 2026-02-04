@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Every experience is a lesson. Every loss is a gain."</p>
+<p>"The best revenge is to be unlike him who performed the injury."</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Marcus Aurelius</p>
