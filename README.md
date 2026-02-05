@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The best revenge is to be unlike him who performed the injury."</p>
+<p>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Brian Tracy</p>
