@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People who avoid failure also avoid success."</p>
+<p>"The thing about smart people is that they seem like crazy people to dumb people."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Stephen Hawking</p>
