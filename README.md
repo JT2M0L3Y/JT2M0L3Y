@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The thing about smart people is that they seem like crazy people to dumb people."</p>
+<p>"He will win who knows when to fight and when not to fight."</p>
 
-<p>- Stephen Hawking</p>
+<p>- Sun Tzu</p>
