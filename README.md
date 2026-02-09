@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"He will win who knows when to fight and when not to fight."</p>
+<p>"It's not how much money you make, it's how much money you keep."</p>
 
-<p>- Sun Tzu</p>
+<p>- Robert Kiyosaki</p>
