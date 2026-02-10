@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's not how much money you make, it's how much money you keep."</p>
+<p>"To some degree, you control your life by controlling your time."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Conrad Hilton</p>
