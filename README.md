@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To some degree, you control your life by controlling your time."</p>
+<p>"A journey of a thousand miles begins with a single step."</p>
 
-<p>- Conrad Hilton</p>
+<p>- Lao Tzu</p>
