@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A journey of a thousand miles begins with a single step."</p>
+<p>"People inspire you, or they drain you. Pick them wisely."</p>
 
-<p>- Lao Tzu</p>
+<p>- Les Brown</p>
