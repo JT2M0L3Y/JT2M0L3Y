@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People inspire you, or they drain you. Pick them wisely."</p>
+<p>"For every minute you are angry you lose sixty seconds of happiness."</p>
 
-<p>- Les Brown</p>
+<p>- Ralph Waldo Emerson</p>
