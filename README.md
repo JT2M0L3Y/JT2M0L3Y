@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"For every minute you are angry you lose sixty seconds of happiness."</p>
+<p>"While we may not be able to control all that happens to us, we can control what happens inside us."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Benjamin Franklin</p>
