@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"While we may not be able to control all that happens to us, we can control what happens inside us."</p>
+<p>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Alan Watts</p>
