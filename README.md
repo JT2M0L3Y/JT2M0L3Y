@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</p>
+<p>"Man invented language to satisfy his deep need to complain."</p>
 
-<p>- Alan Watts</p>
+<p>- Lily Tomlin</p>
