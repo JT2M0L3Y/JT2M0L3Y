@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Man invented language to satisfy his deep need to complain."</p>
+<p>"So long as we are being remembered, we remain alive."</p>
 
-<p>- Lily Tomlin</p>
+<p>- Carlos Ruiz Zafon</p>
