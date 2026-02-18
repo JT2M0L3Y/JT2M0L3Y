@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"So long as we are being remembered, we remain alive."</p>
+<p>"The quicker you let go of old cheese, the sooner you find new cheese."</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Spencer Johnson</p>
