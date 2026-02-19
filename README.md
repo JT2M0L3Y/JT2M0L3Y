@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The quicker you let go of old cheese, the sooner you find new cheese."</p>
+<p>"There's more to life than being a passenger."</p>
 
-<p>- Spencer Johnson</p>
+<p>- Amelia Earhart</p>
