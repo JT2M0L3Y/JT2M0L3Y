@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There's more to life than being a passenger."</p>
+<p>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</p>
 
-<p>- Amelia Earhart</p>
+<p>- Seneca</p>
