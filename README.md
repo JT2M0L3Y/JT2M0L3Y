@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</p>
+<p>"Life without love is like a tree without blossoms or fruit."</p>
 
-<p>- Seneca</p>
+<p>- Kahlil Gibran</p>
