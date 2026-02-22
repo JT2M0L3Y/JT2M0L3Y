@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life without love is like a tree without blossoms or fruit."</p>
+<p>"When you love someone, you love the person as they are, and not as you'd like them to be."</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Leo Tolstoy</p>
