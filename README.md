@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you love someone, you love the person as they are, and not as you'd like them to be."</p>
+<p>"Never spend your money before you have earned it."</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Thomas Jefferson</p>
