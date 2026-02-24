@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never spend your money before you have earned it."</p>
+<p>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Harry S. Truman</p>
