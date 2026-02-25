@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</p>
+<p>"Paths are made by walking."</p>
 
-<p>- Harry S. Truman</p>
+<p>- Franz Kafka</p>
