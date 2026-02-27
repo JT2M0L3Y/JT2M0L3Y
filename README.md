@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No amount of regretting can change the past, and no amount of worrying can change the future."</p>
+<p>"Whenever you find yourself on the side of the majority, it is time to reform."</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mark Twain</p>
