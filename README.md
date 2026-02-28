@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Whenever you find yourself on the side of the majority, it is time to reform."</p>
+<p>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</p>
 
-<p>- Mark Twain</p>
+<p>- Mother Teresa</p>
