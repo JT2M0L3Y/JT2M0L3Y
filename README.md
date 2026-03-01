@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</p>
+<p>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</p>
 
-<p>- Mother Teresa</p>
+<p>- Naval Ravikant</p>
