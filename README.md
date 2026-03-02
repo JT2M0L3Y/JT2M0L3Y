@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</p>
+<p>"Being entirely honest with oneself is a good exercise."</p>
 
-<p>- Naval Ravikant</p>
+<p>- Sigmund Freud</p>
