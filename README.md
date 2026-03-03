@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Being entirely honest with oneself is a good exercise."</p>
+<p>"Trust is built and maintained by many small actions over time."</p>
 
-<p>- Sigmund Freud</p>
+<p>- Lolly Daskal</p>
