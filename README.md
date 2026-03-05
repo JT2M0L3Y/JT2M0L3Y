@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</p>
+<p>"A moving door hinge never corrodes. Flowing water never grows stagnant."</p>
 
-<p>- Walt Disney</p>
+<p>- Ming-Dao Deng</p>
