@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A moving door hinge never corrodes. Flowing water never grows stagnant."</p>
+<p>"Blessed is he who expects nothing, for he shall never be disappointed."</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Alexander Pope</p>
