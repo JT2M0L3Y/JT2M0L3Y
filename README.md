@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Blessed is he who expects nothing, for he shall never be disappointed."</p>
+<p>"The best dreams happen when you're awake."</p>
 
-<p>- Alexander Pope</p>
+<p>- Cherie Gilderbloom</p>
