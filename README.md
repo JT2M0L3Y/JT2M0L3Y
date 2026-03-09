@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Some people don't like change, but you need to embrace change if the alternative is disaster."</p>
+<p>"A clever person turns great troubles into little ones, and little ones into none at all. "</p>
 
-<p>- Elon Musk</p>
+<p>- Chinese Proverb</p>
