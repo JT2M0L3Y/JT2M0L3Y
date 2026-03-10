@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A clever person turns great troubles into little ones, and little ones into none at all. "</p>
+<p>"My instinct is always to seek out challenges as opposed to avoiding them."</p>
 
-<p>- Chinese Proverb</p>
+<p>- Josh Waitzkin</p>
