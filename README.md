@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"My instinct is always to seek out challenges as opposed to avoiding them."</p>
+<p>"A clear conscience never fears midnight knocking."</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Chinese Proverb</p>
