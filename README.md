@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A clear conscience never fears midnight knocking."</p>
+<p>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</p>
 
 <p>- Chinese Proverb</p>
