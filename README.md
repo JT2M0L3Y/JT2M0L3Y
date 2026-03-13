@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</p>
+<p>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</p>
 
-<p>- Chinese Proverb</p>
+<p>- Eckhart Tolle</p>
