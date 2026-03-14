@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</p>
+<p>"Life is trying things to see if they work."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Ray Bradbury</p>
