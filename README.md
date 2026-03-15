@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is trying things to see if they work."</p>
+<p>"No man is happy who does not think himself so."</p>
 
-<p>- Ray Bradbury</p>
+<p>- Norman Vincent Peale</p>
