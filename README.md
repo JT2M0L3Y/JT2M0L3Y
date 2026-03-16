@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No man is happy who does not think himself so."</p>
+<p>"Chase your passion, not your pension. "</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Denis Waitley</p>
