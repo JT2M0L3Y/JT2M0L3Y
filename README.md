@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Chase your passion, not your pension. "</p>
+<p>"Blessed is he who expects nothing, for he shall be disappointed."</p>
 
-<p>- Denis Waitley</p>
+<p>- Jonathan Swift</p>
