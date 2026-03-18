@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Blessed is he who expects nothing, for he shall be disappointed."</p>
+<p>"If we all did the things we are capable of doing, we would literally astound ourselves."</p>
 
-<p>- Jonathan Swift</p>
+<p>- Thomas Edison</p>
