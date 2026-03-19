@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If we all did the things we are capable of doing, we would literally astound ourselves."</p>
+<p>"Mistakes are always forgivable, if one has the courage to admit them. "</p>
 
-<p>- Thomas Edison</p>
+<p>- Bruce Lee</p>
