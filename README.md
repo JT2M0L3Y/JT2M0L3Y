@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Mistakes are always forgivable, if one has the courage to admit them. "</p>
+<p>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</p>
 
 <p>- Bruce Lee</p>
