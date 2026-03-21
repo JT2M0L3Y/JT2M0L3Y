@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</p>
+<p>"Growing up is losing some illusions, in order to acquire others."</p>
 
-<p>- Bruce Lee</p>
+<p>- Virginia Woolf</p>
