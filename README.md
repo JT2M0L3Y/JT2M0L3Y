@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's very strange that the people you love are often the people you're most cruel to."</p>
+<p>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Zen Proverb</p>
