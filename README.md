@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</p>
+<p>"Enthusiasm is a vital element toward the individual success of every man or woman."</p>
 
-<p>- Zen Proverb</p>
+<p>- Conrad Hilton</p>
