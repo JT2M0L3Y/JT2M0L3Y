@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Enthusiasm is a vital element toward the individual success of every man or woman."</p>
+<p>"Avoiding danger is no safer in the long run than exposure."</p>
 
-<p>- Conrad Hilton</p>
+<p>- Helen Keller</p>
