@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Avoiding danger is no safer in the long run than exposure."</p>
+<p>"Don't let the fear of losing be greater than the excitement of winning."</p>
 
-<p>- Helen Keller</p>
+<p>- Robert Kiyosaki</p>
