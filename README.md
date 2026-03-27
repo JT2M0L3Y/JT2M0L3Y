@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Don't let the fear of losing be greater than the excitement of winning."</p>
+<p>"It is better to be looked over than overlooked."</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Mae West</p>
