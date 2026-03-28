@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is better to be looked over than overlooked."</p>
+<p>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</p>
 
-<p>- Mae West</p>
+<p>- Theodore Roosevelt</p>
