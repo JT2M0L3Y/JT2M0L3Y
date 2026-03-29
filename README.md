@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</p>
+<p>"Receive without pride, let go without attachment."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Marcus Aurelius</p>
