@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Receive without pride, let go without attachment."</p>
+<p>"Belief creates the actual fact."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- William James</p>
