@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Belief creates the actual fact."</p>
+<p>"You will face many defeats in life, but never let yourself be defeated."</p>
 
-<p>- William James</p>
+<p>- Maya Angelou</p>
