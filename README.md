@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You will face many defeats in life, but never let yourself be defeated."</p>
+<p>"Only when I fall do I get up again."</p>
 
-<p>- Maya Angelou</p>
+<p>- Vincent van Gogh</p>
