@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Only when I fall do I get up again."</p>
+<p>"Perpetual optimism is a force multiplier."</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Colin Powell</p>
