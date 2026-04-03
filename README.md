@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Perpetual optimism is a force multiplier."</p>
+<p>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</p>
 
-<p>- Colin Powell</p>
+<p>- Alan Watts</p>
