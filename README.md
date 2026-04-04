@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</p>
+<p>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</p>
 
-<p>- Alan Watts</p>
+<p>- Sun Tzu</p>
