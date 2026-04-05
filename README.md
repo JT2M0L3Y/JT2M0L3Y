@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</p>
+<p>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</p>
 
-<p>- Sun Tzu</p>
+<p>- Dogen</p>
