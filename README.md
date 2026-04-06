@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</p>
+<p>"I think self-awareness is probably the most important thing towards being a champion. "</p>
 
-<p>- Dogen</p>
+<p>- Billie Jean King</p>
