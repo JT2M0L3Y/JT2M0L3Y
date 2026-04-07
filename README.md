@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I think self-awareness is probably the most important thing towards being a champion. "</p>
+<p>"You may be disappointed if you fail, but you are doomed if you don't try."</p>
 
-<p>- Billie Jean King</p>
+<p>- Beverly Sills</p>
