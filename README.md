@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You may be disappointed if you fail, but you are doomed if you don't try."</p>
+<p>"The grass is greener where you water it."</p>
 
-<p>- Beverly Sills</p>
+<p>- Neil Barringham</p>
