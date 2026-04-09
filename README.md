@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The grass is greener where you water it."</p>
+<p>"To be great is to be misunderstood."</p>
 
-<p>- Neil Barringham</p>
+<p>- Ralph Waldo Emerson</p>
