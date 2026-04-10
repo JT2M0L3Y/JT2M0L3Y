@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To be great is to be misunderstood."</p>
+<p>"Never waste a minute of your precious life thinking about people you don't like."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Celestine Chua</p>
