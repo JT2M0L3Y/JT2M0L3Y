@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never waste a minute of your precious life thinking about people you don't like."</p>
+<p>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</p>
 
-<p>- Celestine Chua</p>
+<p>- Denis Waitley</p>
