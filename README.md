@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</p>
+<p>"Freedom itself demands discomfort."</p>
 
-<p>- Denis Waitley</p>
+<p>- Mark Manson</p>
