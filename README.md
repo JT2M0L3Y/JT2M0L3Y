@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Freedom itself demands discomfort."</p>
+<p>"You never know when a moment and a few sincere words can have an impact on a life.  "</p>
 
-<p>- Mark Manson</p>
+<p>- Zig Ziglar</p>
