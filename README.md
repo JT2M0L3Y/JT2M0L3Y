@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You never know when a moment and a few sincere words can have an impact on a life.  "</p>
+<p>"The more one judges, the less one loves."</p>
 
-<p>- Zig Ziglar</p>
+<p>- Honore de Balzac</p>
