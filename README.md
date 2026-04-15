@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The more one judges, the less one loves."</p>
+<p>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</p>
 
-<p>- Honore de Balzac</p>
+<p>- Sathya Sai Baba</p>
