@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</p>
+<p>"Happiness cannot be traveled to, owned, earned, worn or consumed."</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Denis Waitley</p>
