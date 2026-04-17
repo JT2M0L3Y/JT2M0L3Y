@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Happiness cannot be traveled to, owned, earned, worn or consumed."</p>
+<p>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</p>
 
-<p>- Denis Waitley</p>
+<p>- Thich Nhat Hanh</p>
