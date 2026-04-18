@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</p>
+<p>"I never dwell on what happened. You can't change it. Move forward."</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Joan Rivers</p>
