@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I never dwell on what happened. You can't change it. Move forward."</p>
+<p>"Do not regret the past. Look to the future."</p>
 
-<p>- Joan Rivers</p>
+<p>- Soyen Shaku</p>
