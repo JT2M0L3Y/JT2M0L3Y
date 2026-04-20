@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do not regret the past. Look to the future."</p>
+<p>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</p>
 
-<p>- Soyen Shaku</p>
+<p>- Jack Kerouac</p>
