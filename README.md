@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</p>
+<p>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</p>
 
-<p>- Jack Kerouac</p>
+<p>- Herbert Hoover</p>
