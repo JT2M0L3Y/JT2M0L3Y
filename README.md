@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</p>
+<p>"Never confuse a single defeat with a final defeat."</p>
 
-<p>- Herbert Hoover</p>
+<p>- F. Scott Fitzgerald</p>
