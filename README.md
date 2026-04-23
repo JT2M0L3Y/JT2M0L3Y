@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never confuse a single defeat with a final defeat."</p>
+<p>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Lao Tzu</p>
