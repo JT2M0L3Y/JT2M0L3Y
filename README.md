@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</p>
+<p>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</p>
 
-<p>- Lao Tzu</p>
+<p>- Simon Sinek</p>
