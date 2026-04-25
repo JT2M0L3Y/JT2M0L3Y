@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</p>
+<p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
 
-<p>- Simon Sinek</p>
+<p>- George Eliot</p>
