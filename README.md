@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
+<p>"Nothing has more strength than dire necessity."</p>
 
-<p>- George Eliot</p>
+<p>- Euripides</p>
