@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing has more strength than dire necessity."</p>
+<p>"Inspire yourself to be great. Being good isn't good enough."</p>
 
-<p>- Euripides</p>
+<p>- Gurbaksh Chahal</p>
