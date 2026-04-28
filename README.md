@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Inspire yourself to be great. Being good isn't good enough."</p>
+<p>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Samuel Beckett</p>
