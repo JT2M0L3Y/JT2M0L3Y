@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</p>
+<p>"Every one of us is the sum total of his own thoughts."</p>
 
-<p>- Samuel Beckett</p>
+<p>- Earl Nightingale</p>
