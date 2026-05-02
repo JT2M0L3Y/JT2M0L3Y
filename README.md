@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You don't need a weatherman to know which way the wind blows."</p>
+<p>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</p>
 
-<p>- Bob Dylan</p>
+<p>- Brian Tracy</p>
