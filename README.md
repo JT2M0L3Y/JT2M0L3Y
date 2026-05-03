@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</p>
+<p>"We must not sit down and wait for miracles. Up and be going!"</p>
 
-<p>- Brian Tracy</p>
+<p>- John Eliot</p>
