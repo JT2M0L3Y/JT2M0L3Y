@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We must not sit down and wait for miracles. Up and be going!"</p>
+<p>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</p>
 
-<p>- John Eliot</p>
+<p>- Paulo Coelho</p>
