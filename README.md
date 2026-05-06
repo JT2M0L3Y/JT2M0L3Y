@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</p>
+<p>"Today is the oldest you've ever been, and the youngest you'll ever be again."</p>
 
-<p>- Paulo Coelho</p>
+<p>- Eleanor Roosevelt</p>
