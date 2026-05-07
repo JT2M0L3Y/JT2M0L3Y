@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Today is the oldest you've ever been, and the youngest you'll ever be again."</p>
+<p>"I do not seek. I find."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Pablo Picasso</p>
