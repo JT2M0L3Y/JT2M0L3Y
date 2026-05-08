@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I do not seek. I find."</p>
+<p>"Greatness comes from living with purpose and passion."</p>
 
-<p>- Pablo Picasso</p>
+<p>- Ralph Marston</p>
