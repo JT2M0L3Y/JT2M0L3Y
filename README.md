@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Greatness comes from living with purpose and passion."</p>
+<p>"Laziness may appear attractive, but work gives satisfaction."</p>
 
-<p>- Ralph Marston</p>
+<p>- Anne Frank</p>
