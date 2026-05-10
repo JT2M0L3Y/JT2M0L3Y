@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Laziness may appear attractive, but work gives satisfaction."</p>
+<p>"Lack of emotion causes lack of progress and lack of motivation."</p>
 
-<p>- Anne Frank</p>
+<p>- Tony Robbins</p>
