@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Lack of emotion causes lack of progress and lack of motivation."</p>
+<p>"Always do what is right. It will gratify half of mankind and astound the other."</p>
 
-<p>- Tony Robbins</p>
+<p>- Mark Twain</p>
