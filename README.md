@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Always do what is right. It will gratify half of mankind and astound the other."</p>
+<p>"The world is a puzzle; no need to make sense out of it."</p>
 
-<p>- Mark Twain</p>
+<p>- Socrates</p>
