@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The world is a puzzle; no need to make sense out of it."</p>
+<p>"The person who never made a mistake never tried anything new."</p>
 
-<p>- Socrates</p>
+<p>- Albert Einstein</p>
