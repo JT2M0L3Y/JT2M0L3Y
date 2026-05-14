@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The person who never made a mistake never tried anything new."</p>
+<p>"He who cheats the earth will be cheated by the earth."</p>
 
-<p>- Albert Einstein</p>
+<p>- Chinese Proverb</p>
