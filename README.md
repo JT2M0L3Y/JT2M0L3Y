@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"He who cheats the earth will be cheated by the earth."</p>
+<p>"Not all those who wander are lost."</p>
 
-<p>- Chinese Proverb</p>
+<p>- J.R.R. Tolkien</p>
