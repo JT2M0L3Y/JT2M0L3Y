@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Not all those who wander are lost."</p>
+<p>"The attempt to escape from pain, is what creates more pain."</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Gabor Mate</p>
