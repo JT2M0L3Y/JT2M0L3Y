@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The attempt to escape from pain, is what creates more pain."</p>
+<p>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</p>
 
-<p>- Gabor Mate</p>
+<p>- Bob Marley</p>
