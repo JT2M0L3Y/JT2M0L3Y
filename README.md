@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</p>
+<p>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</p>
 
-<p>- Bob Marley</p>
+<p>- Stephen King</p>
