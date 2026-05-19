@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</p>
+<p>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</p>
 
-<p>- Stephen King</p>
+<p>- Charles Dickens</p>
