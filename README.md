@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</p>
+<p>"It's not how much we give but how much love we put into giving."</p>
 
-<p>- Charles Dickens</p>
+<p>- Mother Teresa</p>
