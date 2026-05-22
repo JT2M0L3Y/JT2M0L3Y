@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's not how much we give but how much love we put into giving."</p>
+<p>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</p>
 
-<p>- Mother Teresa</p>
+<p>- Deepak Chopra</p>
