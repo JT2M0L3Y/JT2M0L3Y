@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</p>
+<p>"Disobedience is the true foundation of liberty. The obedient must be slaves."</p>
 
-<p>- Deepak Chopra</p>
+<p>- Henry David Thoreau</p>
