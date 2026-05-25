@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Disobedience is the true foundation of liberty. The obedient must be slaves."</p>
+<p>"Definiteness of purpose is the starting point of all achievement."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- W. Clement Stone</p>
