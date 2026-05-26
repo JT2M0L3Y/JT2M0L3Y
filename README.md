@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Definiteness of purpose is the starting point of all achievement."</p>
+<p>"Our attitude toward life determines life's attitude towards us."</p>
 
-<p>- W. Clement Stone</p>
+<p>- Earl Nightingale</p>
