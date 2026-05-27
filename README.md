@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Our attitude toward life determines life's attitude towards us."</p>
+<p>"All I can do is be me, whoever that is."</p>
 
-<p>- Earl Nightingale</p>
+<p>- Bob Dylan</p>
