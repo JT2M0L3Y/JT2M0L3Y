@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All I can do is be me, whoever that is."</p>
+<p>"Circumstances rule men; men do not rule circumstances."</p>
 
-<p>- Bob Dylan</p>
+<p>- Herodotus</p>
