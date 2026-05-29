@@ -65,6 +65,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Circumstances rule men; men do not rule circumstances."</p>
+<p>"Throw me to the wolves and I will return leading the pack."</p>
 
-<p>- Herodotus</p>
+<p>- Seneca</p>
