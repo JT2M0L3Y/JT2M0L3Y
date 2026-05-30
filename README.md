@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Selfishness and greed, individual or national, cause most of our troubles."</p>
+<p>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</p>
 
-<p>- Harry S. Truman</p>
+<p>- Theodore Roosevelt</p>
