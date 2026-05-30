@@ -15,13 +15,6 @@
 <p>But, I've also flirted with cybersecurity, cloud computing, and machine learning.</p>
 <p>I enjoy soccer, hiking, snowboarding, photography, and PC/board/card games.</p>
 
-## ⚒️ Active Projects
-
-<a href="https://github.com/kevinthedang/discord-ollama">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
-</a>
-
 <!-- Skills -->
 ## ⚓ I Use
 <ul>
