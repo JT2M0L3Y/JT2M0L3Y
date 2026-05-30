@@ -12,13 +12,13 @@ jobs:
     steps:
       # checkout updated repo
       - name: Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # configure node in runner
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
 
       # Continuous Integration
       - name: Integrate
@@ -34,7 +34,7 @@ jobs:
 
       # Deploy
       - name: Push
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
