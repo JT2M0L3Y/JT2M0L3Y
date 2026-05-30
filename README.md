@@ -15,13 +15,6 @@
 <p>But, I've also flirted with cybersecurity, cloud computing, and machine learning.</p>
 <p>I enjoy soccer, hiking, snowboarding, photography, and PC/board/card games.</p>
 
-## ⚒️ Active Projects
-
-<a href="https://github.com/kevinthedang/discord-ollama">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
-</a>
-
 <!-- Skills -->
 ## ⚓ I Use
 <ul>
@@ -65,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Throw me to the wolves and I will return leading the pack."</p>
+<p>"Selfishness and greed, individual or national, cause most of our troubles."</p>
 
-<p>- Seneca</p>
+<p>- Harry S. Truman</p>
