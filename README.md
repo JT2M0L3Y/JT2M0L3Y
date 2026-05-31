@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</p>
+<p>"It is better to fail in originality than to succeed in imitation."</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Herman Melville</p>
