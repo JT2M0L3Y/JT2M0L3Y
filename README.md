@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is better to fail in originality than to succeed in imitation."</p>
+<p>"The future is not a gift. It is an achievement."</p>
 
-<p>- Herman Melville</p>
+<p>- Robert F. Kennedy</p>
