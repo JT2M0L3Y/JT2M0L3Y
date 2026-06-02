@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The future is not a gift. It is an achievement."</p>
+<p>"Only when the tide goes out do you discover who's been swimming naked."</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Warren Buffett</p>
