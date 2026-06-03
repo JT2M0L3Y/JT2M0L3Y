@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Only when the tide goes out do you discover who's been swimming naked."</p>
+<p>"Fill your mind with various competing thoughts and decide which make sense."</p>
 
 <p>- Warren Buffett</p>
