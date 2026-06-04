@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Fill your mind with various competing thoughts and decide which make sense."</p>
+<p>"The meaning of life is that it stops."</p>
 
-<p>- Warren Buffett</p>
+<p>- Franz Kafka</p>
