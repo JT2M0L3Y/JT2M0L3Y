@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The meaning of life is that it stops."</p>
+<p>"Attitude is a little thing that makes a big difference."</p>
 
-<p>- Franz Kafka</p>
+<p>- Winston Churchill</p>
