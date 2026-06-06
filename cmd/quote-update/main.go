@@ -12,7 +12,7 @@ import (
 const (
 	templatePath = "README.template.md"
 	outputPath   = "README.md"
-	quoteURL     = "https://api.quotable.io/random"
+	quoteURL     = "http://api.quotable.io/random"
 )
 
 var fallbackQuote = quoteResponse{
@@ -56,23 +56,24 @@ func run() error {
 
 func fetchQuote() (*quoteResponse, error) {
 	client := &http.Client{Timeout: 15 * time.Second}
+	
 	resp, err := client.Get(quoteURL)
 	if err != nil {
-		return nil, fmt.Errorf("http get: %w", err)
+		return nil, fmt.Errorf("GET %s: %w", quoteURL, err)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("unexpected status %d", resp.StatusCode)
+		return nil, fmt.Errorf("GET %s returned %d", quoteURL, resp.StatusCode)
 	}
 
 	var quote quoteResponse
 	if err := json.NewDecoder(resp.Body).Decode(&quote); err != nil {
-		return nil, fmt.Errorf("decode response: %w", err)
+		return nil, fmt.Errorf("decode %s: %w", quoteURL, err)
 	}
 
 	if quote.Content == "" || quote.Author == "" {
-		return nil, fmt.Errorf("invalid response payload")
+		return nil, fmt.Errorf("invalid response payload from %s", quoteURL)
 	}
 
 	return &quote, nil
