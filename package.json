@@ -1,8 +1,0 @@
-{
-  "name": "jt2m0l3y",
-  "version": "2.0.0",
-  "type": "module",
-  "scripts": {
-    "update": "node update.js"
-  }
-}
