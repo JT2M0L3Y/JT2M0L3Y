@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Attitude is a little thing that makes a big difference."</p>
+<p>"Make the best use of what is in your power and take the rest as it happens."</p>
 
-<p>- Winston Churchill</p>
+<p>- Epictetus</p>
