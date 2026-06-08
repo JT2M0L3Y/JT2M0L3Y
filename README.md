@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</p>
+<p>"Science gives us knowledge, but only philosophy can give us wisdom."</p>
 
-<p>- Anne Frank</p>
+<p>- Will Durant</p>
