@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Science gives us knowledge, but only philosophy can give us wisdom."</p>
+<p>"Do what you can. Want what you have. Be who you are."</p>
 
-<p>- Will Durant</p>
+<p>- Forrest Church</p>
