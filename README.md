@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do what you can. Want what you have. Be who you are."</p>
+<p>"It isn't where you come from, it's where you're going that counts."</p>
 
-<p>- Forrest Church</p>
+<p>- Ella Fitzgerald</p>
