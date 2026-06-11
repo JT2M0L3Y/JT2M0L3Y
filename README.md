@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It isn't where you come from, it's where you're going that counts."</p>
+<p>"Ask yourself the secret of your success. Listen to your answer and practice it."</p>
 
-<p>- Ella Fitzgerald</p>
+<p>- Richard Bach</p>
