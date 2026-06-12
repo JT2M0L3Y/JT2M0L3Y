@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Ask yourself the secret of your success. Listen to your answer and practice it."</p>
+<p>"The man of knowledge must be able not only to love his enemies but also to hate his friends."</p>
 
-<p>- Richard Bach</p>
+<p>- Friedrich Nietzsche</p>
