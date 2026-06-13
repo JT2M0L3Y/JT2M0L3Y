@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The man of knowledge must be able not only to love his enemies but also to hate his friends."</p>
+<p>"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather."</p>
 
-<p>- Friedrich Nietzsche</p>
+<p>- John Ruskin</p>
