@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather."</p>
+<p>"Do one thing every day that scares you."</p>
 
-<p>- John Ruskin</p>
+<p>- Eleanor Roosevelt</p>
