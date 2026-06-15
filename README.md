@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do one thing every day that scares you."</p>
+<p>"Small opportunities are often the beginning of great enterprises."</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Demosthenes</p>
