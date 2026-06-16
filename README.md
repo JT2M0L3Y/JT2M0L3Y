@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Small opportunities are often the beginning of great enterprises."</p>
+<p>"Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."</p>
 
-<p>- Demosthenes</p>
+<p>- Ralph Waldo Emerson</p>
