@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."</p>
+<p>"Be yourself; everyone else is already taken."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Oscar Wilde</p>
