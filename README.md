@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be yourself; everyone else is already taken."</p>
+<p>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Laozi</p>
