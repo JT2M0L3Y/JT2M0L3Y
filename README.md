@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</p>
+<p>"If you spend too much time thinking about a thing, you'll never get it done."</p>
 
-<p>- Laozi</p>
+<p>- Bruce Lee</p>
