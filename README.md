@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you spend too much time thinking about a thing, you'll never get it done."</p>
+<p>"No valid plans for the future can be made by those who have no capacity for living now."</p>
 
-<p>- Bruce Lee</p>
+<p>- Alan Watts</p>
