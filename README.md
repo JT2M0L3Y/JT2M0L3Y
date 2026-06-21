@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No valid plans for the future can be made by those who have no capacity for living now."</p>
+<p>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</p>
 
-<p>- Alan Watts</p>
+<p>- A. Powell Davies</p>
