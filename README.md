@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</p>
+<p>"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."</p>
 
-<p>- A. Powell Davies</p>
+<p>- Confucius</p>
