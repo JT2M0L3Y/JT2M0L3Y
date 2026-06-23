@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."</p>
+<p>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</p>
 
-<p>- Confucius</p>
+<p>- Thomas Carlyle</p>
