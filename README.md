@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</p>
+<p>"By believing passionately in something that does not yet exist, we create it."</p>
 
-<p>- Thomas Carlyle</p>
+<p>- Nikos Kazantzakis</p>
