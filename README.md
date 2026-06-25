@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"By believing passionately in something that does not yet exist, we create it."</p>
+<p>"The great myth of our times is that technology is communication."</p>
 
-<p>- Nikos Kazantzakis</p>
+<p>- Libby Larsen</p>
