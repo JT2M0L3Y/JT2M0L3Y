@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The great myth of our times is that technology is communication."</p>
+<p>"In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas."</p>
 
-<p>- Libby Larsen</p>
+<p>- The Buddha</p>
