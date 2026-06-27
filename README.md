@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas."</p>
+<p>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</p>
 
-<p>- The Buddha</p>
+<p>- Helen Keller</p>
