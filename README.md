@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</p>
+<p>"Think like a man of action; act like a man of thought."</p>
 
-<p>- Helen Keller</p>
+<p>- Henri Bergson</p>
