@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Think like a man of action; act like a man of thought."</p>
+<p>"He who angers you conquers you."</p>
 
-<p>- Henri Bergson</p>
+<p>- Elizabeth Kenny</p>
