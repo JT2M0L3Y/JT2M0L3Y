@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"He who angers you conquers you."</p>
+<p>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</p>
 
-<p>- Elizabeth Kenny</p>
+<p>- Daisaku Ikeda</p>
