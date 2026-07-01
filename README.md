@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</p>
+<p>"Peace cannot be kept by force. It can only be achieved by understanding."</p>
 
-<p>- Daisaku Ikeda</p>
+<p>- Albert Einstein</p>
