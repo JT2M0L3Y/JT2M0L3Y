@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward."</p>
+<p>"Science is organized knowledge. Wisdom is organized life."</p>
 
-<p>- Thomas Edison</p>
+<p>- Immanuel Kant</p>
