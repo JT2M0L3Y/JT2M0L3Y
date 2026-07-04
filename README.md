@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Science is organized knowledge. Wisdom is organized life."</p>
+<p>"We have two ears and one mouth so that we can listen twice as much as we speak."</p>
 
-<p>- Immanuel Kant</p>
+<p>- Epictetus</p>
