@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"We have two ears and one mouth so that we can listen twice as much as we speak."</p>
+<p>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</p>
 
-<p>- Epictetus</p>
+<p>- Naguib Mahfouz</p>
