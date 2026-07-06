@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</p>
+<p>"Things turn out best for those who make the best of the way things turn out."</p>
 
-<p>- Naguib Mahfouz</p>
+<p>- Jack Buck</p>
