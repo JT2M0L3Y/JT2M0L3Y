@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Things turn out best for those who make the best of the way things turn out."</p>
+<p>"My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging."</p>
 
-<p>- Jack Buck</p>
+<p>- Hank Aaron</p>
