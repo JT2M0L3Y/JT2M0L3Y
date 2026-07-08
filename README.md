@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging."</p>
+<p>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</p>
 
-<p>- Hank Aaron</p>
+<p>- Epictetus</p>
