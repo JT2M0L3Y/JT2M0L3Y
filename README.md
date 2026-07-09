@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</p>
+<p>"Courage is going from failure to failure without losing enthusiasm."</p>
 
-<p>- Epictetus</p>
+<p>- Winston Churchill</p>
