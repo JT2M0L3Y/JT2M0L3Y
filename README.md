@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Courage is going from failure to failure without losing enthusiasm."</p>
+<p>"When deeds and words are in accord, the whole world is transformed."</p>
 
-<p>- Winston Churchill</p>
+<p>- Zhuang Zhou</p>
