@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When deeds and words are in accord, the whole world is transformed."</p>
+<p>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</p>
 
-<p>- Zhuang Zhou</p>
+<p>- Eckhart Tolle</p>
