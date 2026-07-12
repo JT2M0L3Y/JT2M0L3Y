@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</p>
+<p>"Things that were hard to bear are sweet to remember."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Seneca the Younger</p>
