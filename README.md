@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Things that were hard to bear are sweet to remember."</p>
+<p>"Mistakes are the usual bridge between inexperience and wisdom."</p>
 
-<p>- Seneca the Younger</p>
+<p>- Phyllis Grissim-Theroux</p>
