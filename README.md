@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Mistakes are the usual bridge between inexperience and wisdom."</p>
+<p>"There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them."</p>
 
-<p>- Phyllis Grissim-Theroux</p>
+<p>- Denis Waitley</p>
