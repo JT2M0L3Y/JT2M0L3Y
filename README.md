@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</p>
+<p>"Never reach out your hand unless you're willing to extend an arm."</p>
 
-<p>- Anatole France</p>
+<p>- Pope Paul VI</p>
