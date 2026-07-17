@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never reach out your hand unless you're willing to extend an arm."</p>
+<p>"Freedom is the right to live as we wish."</p>
 
-<p>- Pope Paul VI</p>
+<p>- Epictetus</p>
