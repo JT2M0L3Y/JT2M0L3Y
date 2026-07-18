@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Freedom is the right to live as we wish."</p>
+<p>"We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."</p>
 
-<p>- Epictetus</p>
+<p>- Arthur Ashe</p>
