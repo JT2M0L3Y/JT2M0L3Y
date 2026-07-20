@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</p>
+<p>"The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world."</p>
 
-<p>- Og Mandino</p>
+<p>- Dalai Lama</p>
