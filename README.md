@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world."</p>
+<p>"When something is important enough, you do it even if the odds are not in your favor."</p>
 
-<p>- Dalai Lama</p>
+<p>- Elon Musk</p>
