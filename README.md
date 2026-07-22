@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When something is important enough, you do it even if the odds are not in your favor."</p>
+<p>"Can you imagine what I would do if I could do all I can?"</p>
 
-<p>- Elon Musk</p>
+<p>- Sun Tzu</p>
