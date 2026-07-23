@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Can you imagine what I would do if I could do all I can?"</p>
+<p>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</p>
 
-<p>- Sun Tzu</p>
+<p>- Blaise Pascal</p>
