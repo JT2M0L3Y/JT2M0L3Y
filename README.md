@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</p>
+<p>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</p>
 
-<p>- Blaise Pascal</p>
+<p>- Anne Brontë</p>
