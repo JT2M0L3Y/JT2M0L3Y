@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</p>
+<p>"If we look at the world with a love of life, the world will reveal its beauty to us."</p>
 
-<p>- Anne Brontë</p>
+<p>- Daisaku Ikeda</p>
