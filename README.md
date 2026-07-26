@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If we look at the world with a love of life, the world will reveal its beauty to us."</p>
+<p>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</p>
 
-<p>- Daisaku Ikeda</p>
+<p>- Naguib Mahfouz</p>
