@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</p>
+<p>"But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything."</p>
 
-<p>- Naguib Mahfouz</p>
+<p>- Alan Watts</p>
