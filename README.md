@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything."</p>
+<p>"Better be wise by the misfortunes of others than by your own."</p>
 
-<p>- Alan Watts</p>
+<p>- Aesop</p>
