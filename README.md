@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Better be wise by the misfortunes of others than by your own."</p>
+<p>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</p>
 
-<p>- Aesop</p>
+<p>- Samuel Johnson</p>
