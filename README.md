@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</p>
+<p>"Anybody can make history. Only a great man can write it."</p>
 
-<p>- Samuel Johnson</p>
+<p>- Oscar Wilde</p>
