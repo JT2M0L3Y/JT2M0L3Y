@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Anybody can make history. Only a great man can write it."</p>
+<p>"Follow effective action with quiet reflection. From the quiet reflection will come even more effective action."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Peter Drucker</p>
