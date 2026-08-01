@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Follow effective action with quiet reflection. From the quiet reflection will come even more effective action."</p>
+<p>"Excellence is not a skill. It is an attitude."</p>
 
-<p>- Peter Drucker</p>
+<p>- Ralph Marston</p>
