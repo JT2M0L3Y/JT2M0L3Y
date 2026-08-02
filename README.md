@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Excellence is not a skill. It is an attitude."</p>
+<p>"Happiness is when what you think, what you say, and what you do are in harmony."</p>
 
-<p>- Ralph Marston</p>
+<p>- Mahatma Gandhi</p>
