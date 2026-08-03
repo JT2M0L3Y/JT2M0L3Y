@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Happiness is when what you think, what you say, and what you do are in harmony."</p>
+<p>"The cause is hidden. The effect is visible to all."</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Ovid</p>
