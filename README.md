@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The cause is hidden. The effect is visible to all."</p>
+<p>"You have to believe in yourself."</p>
 
-<p>- Ovid</p>
+<p>- Sun Tzu</p>
