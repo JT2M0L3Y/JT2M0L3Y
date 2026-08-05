@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You have to believe in yourself."</p>
+<p>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</p>
 
-<p>- Sun Tzu</p>
+<p>- François de La Rochefoucauld</p>
