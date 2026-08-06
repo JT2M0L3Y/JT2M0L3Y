@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</p>
+<p>"All serious daring starts from within."</p>
 
-<p>- François de La Rochefoucauld</p>
+<p>- Harriet Beecher Stowe</p>
