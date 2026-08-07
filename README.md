@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All serious daring starts from within."</p>
+<p>"Independence is happiness."</p>
 
-<p>- Harriet Beecher Stowe</p>
+<p>- Susan B. Anthony</p>
