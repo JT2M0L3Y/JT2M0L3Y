@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Independence is happiness."</p>
+<p>"I gave my life to become the person I am right now. Was it worth it?"</p>
 
-<p>- Susan B. Anthony</p>
+<p>- Richard Bach</p>
