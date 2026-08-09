@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I gave my life to become the person I am right now. Was it worth it?"</p>
+<p>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</p>
 
-<p>- Richard Bach</p>
+<p>- Henry David Thoreau</p>
