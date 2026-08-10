@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</p>
+<p>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Thomas Carlyle</p>
