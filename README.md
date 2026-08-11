@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</p>
+<p>"The smallest act of kindness is worth more than the grandest intention."</p>
 
-<p>- Thomas Carlyle</p>
+<p>- Oscar Wilde</p>
