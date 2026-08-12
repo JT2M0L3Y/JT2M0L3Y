@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The smallest act of kindness is worth more than the grandest intention."</p>
+<p>"There are people who have money and people who are rich."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Coco Chanel</p>
