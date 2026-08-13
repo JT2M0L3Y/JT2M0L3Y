@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There are people who have money and people who are rich."</p>
+<p>"I prefer the folly of enthusiasm to the indifference of wisdom."</p>
 
-<p>- Coco Chanel</p>
+<p>- Anatole France</p>
