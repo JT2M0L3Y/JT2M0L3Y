@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I prefer the folly of enthusiasm to the indifference of wisdom."</p>
+<p>"It is never too late to be what you might have been."</p>
 
-<p>- Anatole France</p>
+<p>- George Eliot</p>
