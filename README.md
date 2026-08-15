@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is never too late to be what you might have been."</p>
+<p>"If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others."</p>
 
-<p>- George Eliot</p>
+<p>- Anne Lindbergh</p>
