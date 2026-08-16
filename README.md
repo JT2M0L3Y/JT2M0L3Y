@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others."</p>
+<p>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</p>
 
-<p>- Anne Lindbergh</p>
+<p>- Marie Curie</p>
