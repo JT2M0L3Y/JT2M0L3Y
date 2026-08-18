@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There are people who have money and people who are rich."</p>
+<p>"I can, therefore I am."</p>
 
-<p>- Coco Chanel</p>
+<p>- Simone Weil</p>
