@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I can, therefore I am."</p>
+<p>"If you correct your mind, the rest of your life will fall into place."</p>
 
-<p>- Simone Weil</p>
+<p>- Laozi</p>
