@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you correct your mind, the rest of your life will fall into place."</p>
+<p>"Efficiency is doing things right; effectiveness is doing the right things."</p>
 
-<p>- Laozi</p>
+<p>- Peter Drucker</p>
