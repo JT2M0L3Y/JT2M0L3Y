@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Efficiency is doing things right; effectiveness is doing the right things."</p>
+<p>"Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."</p>
 
-<p>- Peter Drucker</p>
+<p>- Paavo Nurmi</p>
