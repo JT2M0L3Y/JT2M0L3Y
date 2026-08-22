@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."</p>
+<p>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</p>
 
-<p>- Paavo Nurmi</p>
+<p>- Plutarch</p>
