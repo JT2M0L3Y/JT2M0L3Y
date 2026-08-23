@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</p>
+<p>"I never see what has been done; I only see what remains to be done."</p>
 
-<p>- Plutarch</p>
+<p>- Marie Curie</p>
