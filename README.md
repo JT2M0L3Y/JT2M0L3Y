@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I never see what has been done; I only see what remains to be done."</p>
+<p>"The way we communicate with others and with ourselves ultimately determines the quality of our lives."</p>
 
-<p>- Marie Curie</p>
+<p>- Tony Robbins</p>
