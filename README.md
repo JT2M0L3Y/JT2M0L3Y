@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The way we communicate with others and with ourselves ultimately determines the quality of our lives."</p>
+<p>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</p>
 
-<p>- Tony Robbins</p>
+<p>- Richard Bach</p>
