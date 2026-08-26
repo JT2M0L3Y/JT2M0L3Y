@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</p>
+<p>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</p>
 
-<p>- Richard Bach</p>
+<p>- Horace</p>
