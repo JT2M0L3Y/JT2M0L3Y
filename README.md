@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</p>
+<p>"Good timber does not grow with ease; the stronger the wind, the stronger the trees."</p>
 
-<p>- Horace</p>
+<p>- J. Willard Marriott</p>
