@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Good timber does not grow with ease; the stronger the wind, the stronger the trees."</p>
+<p>"It's easier to resist at the beginning than at the end."</p>
 
-<p>- J. Willard Marriott</p>
+<p>- Leonardo da Vinci</p>
