@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It's easier to resist at the beginning than at the end."</p>
+<p>"Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity."</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- The Buddha</p>
