@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity."</p>
+<p>"No man is free who is not master of himself."</p>
 
-<p>- The Buddha</p>
+<p>- Epictetus</p>
