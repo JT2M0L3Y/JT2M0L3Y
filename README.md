@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No man is free who is not master of himself."</p>
+<p>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</p>
 
 <p>- Epictetus</p>
