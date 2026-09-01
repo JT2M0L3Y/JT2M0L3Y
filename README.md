@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</p>
+<p>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</p>
 
-<p>- Epictetus</p>
+<p>- Alfred Korzybski</p>
