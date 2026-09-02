@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</p>
+<p>"The young man knows the rules, but the old man knows the exceptions."</p>
 
-<p>- Alfred Korzybski</p>
+<p>- Oliver Wendell Holmes Jr.</p>
