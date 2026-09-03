@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The young man knows the rules, but the old man knows the exceptions."</p>
+<p>"To follow, without halt, one aim: There is the secret of success."</p>
 
-<p>- Oliver Wendell Holmes Jr.</p>
+<p>- Anna Pavlova</p>
