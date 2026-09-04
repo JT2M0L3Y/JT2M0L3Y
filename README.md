@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"To follow, without halt, one aim: There is the secret of success."</p>
+<p>"I had three chairs in my house; one for solitude, two for friendship, three for society."</p>
 
-<p>- Anna Pavlova</p>
+<p>- Henry David Thoreau</p>
