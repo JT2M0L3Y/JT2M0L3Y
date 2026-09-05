@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I had three chairs in my house; one for solitude, two for friendship, three for society."</p>
+<p>"Music is a higher revelation than all wisdom and philosophy."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Ludwig van Beethoven</p>
