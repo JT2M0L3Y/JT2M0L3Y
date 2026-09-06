@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Music is a higher revelation than all wisdom and philosophy."</p>
+<p>"Technology has to be invented or adopted."</p>
 
-<p>- Ludwig van Beethoven</p>
+<p>- Jared Diamond</p>
