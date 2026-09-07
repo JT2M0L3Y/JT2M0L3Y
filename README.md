@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Technology has to be invented or adopted."</p>
+<p>"Silence is a source of great strength."</p>
 
-<p>- Jared Diamond</p>
+<p>- Laozi</p>
