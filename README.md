@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Silence is a source of great strength."</p>
+<p>"If you only have a hammer, you tend to see every problem as a nail."</p>
 
-<p>- Laozi</p>
+<p>- Abraham Maslow</p>
