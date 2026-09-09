@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you only have a hammer, you tend to see every problem as a nail."</p>
+<p>"If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion."</p>
 
-<p>- Abraham Maslow</p>
+<p>- Elon Musk</p>
