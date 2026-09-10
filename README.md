@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion."</p>
+<p>"Imagination is the highest kite one can fly."</p>
 
-<p>- Elon Musk</p>
+<p>- Lauren Bacall</p>
