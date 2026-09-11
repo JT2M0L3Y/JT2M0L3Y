@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Imagination is the highest kite one can fly."</p>
+<p>"Be content with your lot; one cannot be first in everything."</p>
 
-<p>- Lauren Bacall</p>
+<p>- Aesop</p>
