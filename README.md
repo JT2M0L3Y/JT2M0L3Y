@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be content with your lot; one cannot be first in everything."</p>
+<p>"Doing what you love is the cornerstone of having abundance in your life."</p>
 
-<p>- Aesop</p>
+<p>- Wayne Dyer</p>
