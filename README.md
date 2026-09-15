@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."</p>
+<p>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</p>
 
-<p>- Dalai Lama</p>
+<p>- Robert Southey</p>
