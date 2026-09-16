@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</p>
+<p>"If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem."</p>
 
-<p>- Robert Southey</p>
+<p>- J. Paul Getty</p>
