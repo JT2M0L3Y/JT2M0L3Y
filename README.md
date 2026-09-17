@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem."</p>
+<p>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</p>
 
-<p>- J. Paul Getty</p>
+<p>- Anne Frank</p>
