@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</p>
+<p>"The most technologically efficient machine that man has ever invented is the book."</p>
 
-<p>- Anne Frank</p>
+<p>- Northrop Frye</p>
