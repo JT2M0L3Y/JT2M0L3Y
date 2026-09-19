@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The most technologically efficient machine that man has ever invented is the book."</p>
+<p>"When in doubt, tell the truth."</p>
 
-<p>- Northrop Frye</p>
+<p>- Mark Twain</p>
