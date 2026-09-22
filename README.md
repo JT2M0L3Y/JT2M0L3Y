@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In every walk with nature, one receives far more than he seeks."</p>
+<p>"You were not born a winner, and you were not born a loser. You are what you make yourself be."</p>
 
-<p>- John Muir</p>
+<p>- Lou Holtz</p>
