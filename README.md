@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You were not born a winner, and you were not born a loser. You are what you make yourself be."</p>
+<p>"Business, you know, may bring you money, but friendship hardly ever does."</p>
 
-<p>- Lou Holtz</p>
+<p>- Jane Austen</p>
