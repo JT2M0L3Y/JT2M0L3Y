@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Business, you know, may bring you money, but friendship hardly ever does."</p>
+<p>"It is one of the blessings of old friends that you can afford to be stupid with them."</p>
 
-<p>- Jane Austen</p>
+<p>- Ralph Waldo Emerson</p>
