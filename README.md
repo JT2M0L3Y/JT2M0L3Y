@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"It is one of the blessings of old friends that you can afford to be stupid with them."</p>
+<p>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Epictetus</p>
