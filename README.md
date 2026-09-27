@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."</p>
+<p>"Delight in heedfulness! Guard well your thoughts!"</p>
 
-<p>- Ralph Abernathy</p>
+<p>- The Buddha</p>
