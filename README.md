@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Delight in heedfulness! Guard well your thoughts!"</p>
+<p>"People are not lazy. They simply have impotent goals - that is, goals that do not inspire them."</p>
 
-<p>- The Buddha</p>
+<p>- Tony Robbins</p>
