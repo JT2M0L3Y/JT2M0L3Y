@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"People are not lazy. They simply have impotent goals - that is, goals that do not inspire them."</p>
+<p>"If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair."</p>
 
-<p>- Tony Robbins</p>
+<p>- Samuel Johnson</p>
