@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."</p>
+<p>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</p>
 
-<p>- Henry James</p>
+<p>- Samuel Johnson</p>
