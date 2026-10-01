@@ -10,7 +10,7 @@
 [![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
 ## 👋 Introduction
-<p>I daylight as a Database Administrator and code things outside of work.</p>
+<p>I am looking for work.</p>
 <p>I've done a fair bit of web development, scripting, and DevOps.</p>
 <p>But, I've also flirted with cybersecurity, cloud computing, and machine learning.</p>
 <p>I enjoy soccer, hiking, snowboarding, photography, and PC/board/card games.</p>
