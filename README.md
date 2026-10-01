@@ -10,7 +10,7 @@
 [![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
 
 ## 👋 Introduction
-<p>I daylight as a Database Administrator and code things outside of work.</p>
+<p>I am looking for work.</p>
 <p>I've done a fair bit of web development, scripting, and DevOps.</p>
 <p>But, I've also flirted with cybersecurity, cloud computing, and machine learning.</p>
 <p>I enjoy soccer, hiking, snowboarding, photography, and PC/board/card games.</p>
@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can."</p>
+<p>"Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."</p>
 
-<p>- Neil Gaiman</p>
+<p>- Henry James</p>
