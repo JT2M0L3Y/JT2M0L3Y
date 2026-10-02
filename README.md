@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</p>
+<p>"Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?"</p>
 
-<p>- Samuel Johnson</p>
+<p>- Dalai Lama</p>
