@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?"</p>
+<p>"In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present."</p>
 
-<p>- Dalai Lama</p>
+<p>- Laozi</p>
