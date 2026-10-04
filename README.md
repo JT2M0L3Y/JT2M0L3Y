@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present."</p>
+<p>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</p>
 
-<p>- Laozi</p>
+<p>- Laurence J. Peter</p>
