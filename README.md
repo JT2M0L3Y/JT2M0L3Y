@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</p>
+<p>"An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind."</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Albert Schweitzer</p>
