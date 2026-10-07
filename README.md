@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present."</p>
+<p>"He who lives in harmony with himself lives in harmony with the world."</p>
 
-<p>- Babatunde Olatunji</p>
+<p>- Marcus Aurelius</p>
