@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"He who lives in harmony with himself lives in harmony with the world."</p>
+<p>"There is no charm equal to tenderness of heart."</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Jane Austen</p>
