@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There is no charm equal to tenderness of heart."</p>
+<p>"You can always count on Americans to do the right thing - after they've tried everything else."</p>
 
-<p>- Jane Austen</p>
+<p>- Winston Churchill</p>
