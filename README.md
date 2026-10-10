@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You can always count on Americans to do the right thing - after they've tried everything else."</p>
+<p>"No snowflake in an avalanche ever feels responsible."</p>
 
-<p>- Winston Churchill</p>
+<p>- Voltaire</p>
