@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"No snowflake in an avalanche ever feels responsible."</p>
+<p>"Inspiration exists, but it has to find us working."</p>
 
-<p>- Voltaire</p>
+<p>- Pablo Picasso</p>
