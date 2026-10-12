@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Inspiration exists, but it has to find us working."</p>
+<p>"Failure doesn't mean you are a failure it just means you haven't succeeded yet."</p>
 
-<p>- Pablo Picasso</p>
+<p>- Robert Schuller</p>
