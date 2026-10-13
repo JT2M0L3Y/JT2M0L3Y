@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Failure doesn't mean you are a failure it just means you haven't succeeded yet."</p>
+<p>"Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends."</p>
 
-<p>- Robert Schuller</p>
+<p>- Richard Bach</p>
