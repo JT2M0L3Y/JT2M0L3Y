@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably."</p>
+<p>"Be as you wish to seem."</p>
 
-<p>- William C. Menninger</p>
+<p>- Socrates</p>
