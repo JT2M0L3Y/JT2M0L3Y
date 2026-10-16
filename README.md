@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Be as you wish to seem."</p>
+<p>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</p>
 
-<p>- Socrates</p>
+<p>- Epictetus</p>
