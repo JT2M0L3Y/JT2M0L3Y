@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</p>
+<p>"Difficulties are things that show a person what they are."</p>
 
 <p>- Epictetus</p>
