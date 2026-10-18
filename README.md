@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Difficulties are things that show a person what they are."</p>
+<p>"I walk slowly, but I never walk backward."</p>
 
-<p>- Epictetus</p>
+<p>- Abraham Lincoln</p>
