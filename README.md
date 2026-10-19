@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"I walk slowly, but I never walk backward."</p>
+<p>"Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Alan Cohen</p>
