@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."</p>
+<p>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</p>
 
-<p>- Alan Cohen</p>
+<p>- Thomas Paine</p>
