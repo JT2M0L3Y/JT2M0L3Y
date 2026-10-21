@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</p>
+<p>"Victory belongs to the most persevering."</p>
 
-<p>- Thomas Paine</p>
+<p>- Napoleon</p>
