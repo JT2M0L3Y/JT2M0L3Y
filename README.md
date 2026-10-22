@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Victory belongs to the most persevering."</p>
+<p>"The cause is hidden. The effect is visible to all."</p>
 
-<p>- Napoleon</p>
+<p>- Ovid</p>
