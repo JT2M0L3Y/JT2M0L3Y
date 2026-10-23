@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The cause is hidden. The effect is visible to all."</p>
+<p>"Never interrupt your enemy when he is making a mistake."</p>
 
-<p>- Ovid</p>
+<p>- Napoleon</p>
