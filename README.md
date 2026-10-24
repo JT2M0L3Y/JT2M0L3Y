@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Never interrupt your enemy when he is making a mistake."</p>
+<p>"If you wish to be a writer, write."</p>
 
-<p>- Napoleon</p>
+<p>- Epictetus</p>
