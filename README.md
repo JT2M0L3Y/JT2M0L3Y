@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"If you wish to be a writer, write."</p>
+<p>"Fans don't boo nobodies."</p>
 
-<p>- Epictetus</p>
+<p>- Reggie Jackson (basketball, born 1990)</p>
