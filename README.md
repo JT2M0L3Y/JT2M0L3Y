@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Fans don't boo nobodies."</p>
+<p>"The superior man blames himself. The inferior man blames others."</p>
 
-<p>- Reggie Jackson (basketball, born 1990)</p>
+<p>- Don Shula</p>
