@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The superior man blames himself. The inferior man blames others."</p>
+<p>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</p>
 
-<p>- Don Shula</p>
+<p>- John Muir</p>
