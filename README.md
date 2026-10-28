@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</p>
+<p>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</p>
 
-<p>- John Muir</p>
+<p>- Bruce Lee</p>
