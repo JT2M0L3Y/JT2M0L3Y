@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</p>
+<p>"Do more than dream: work."</p>
 
-<p>- Bruce Lee</p>
+<p>- William Arthur Ward</p>
