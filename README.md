@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Do more than dream: work."</p>
+<p>"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."</p>
 
-<p>- William Arthur Ward</p>
+<p>- Henry van Dyke Jr.</p>
