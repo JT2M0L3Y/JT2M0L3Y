@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."</p>
+<p>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</p>
 
-<p>- Henry van Dyke Jr.</p>
+<p>- Norman Schwarzkopf</p>
