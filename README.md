@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</p>
+<p>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</p>
 
-<p>- Norman Schwarzkopf</p>
+<p>- Reinhold Niebuhr</p>
