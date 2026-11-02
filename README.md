@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</p>
+<p>"The virtue of justice consists in moderation, as regulated by wisdom."</p>
 
-<p>- Reinhold Niebuhr</p>
+<p>- Aristotle</p>
