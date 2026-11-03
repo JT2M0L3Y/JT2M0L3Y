@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The virtue of justice consists in moderation, as regulated by wisdom."</p>
+<p>"Friendship is always a sweet responsibility, never an opportunity."</p>
 
-<p>- Aristotle</p>
+<p>- Kahlil Gibran</p>
