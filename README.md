@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Friendship is always a sweet responsibility, never an opportunity."</p>
+<p>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Rudolf Arnheim</p>
