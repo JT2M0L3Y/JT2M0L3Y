@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</p>
+<p>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</p>
 
-<p>- Rudolf Arnheim</p>
+<p>- Marian Wright Edelman</p>
