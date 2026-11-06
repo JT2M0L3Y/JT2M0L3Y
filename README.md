@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</p>
+<p>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</p>
 
-<p>- Marian Wright Edelman</p>
+<p>- Henry David Thoreau</p>
