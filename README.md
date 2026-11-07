@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</p>
+<p>"A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be."</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Wayne Gretzky</p>
