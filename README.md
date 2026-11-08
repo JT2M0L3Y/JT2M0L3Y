@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be."</p>
+<p>"The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Vince Lombardi</p>
