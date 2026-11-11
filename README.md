@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity."</p>
+<p>"Think as a wise man but communicate in the language of the people."</p>
 
-<p>- Albert Schweitzer</p>
+<p>- William Butler Yeats</p>
