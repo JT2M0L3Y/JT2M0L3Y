@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Think as a wise man but communicate in the language of the people."</p>
+<p>"The self is not something ready-made, but something in continuous formation through choice of action."</p>
 
-<p>- William Butler Yeats</p>
+<p>- John Dewey</p>
