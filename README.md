@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The self is not something ready-made, but something in continuous formation through choice of action."</p>
+<p>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</p>
 
-<p>- John Dewey</p>
+<p>- Richard Bach</p>
