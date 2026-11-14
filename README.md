@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</p>
+<p>"Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him."</p>
 
-<p>- Richard Bach</p>
+<p>- Johann Wolfgang von Goethe</p>
