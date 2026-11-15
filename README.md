@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him."</p>
+<p>"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Barack Obama</p>
