@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You must welcome change as the rule but not as your ruler."</p>
+<p>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</p>
 
-<p>- Denis Waitley</p>
+<p>- Richard Bach</p>
