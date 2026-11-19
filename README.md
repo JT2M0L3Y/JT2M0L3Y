@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Nothing is softer or more flexible than water, yet nothing can resist it."</p>
+<p>"You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job."</p>
 
-<p>- Laozi</p>
+<p>- Laurence J. Peter</p>
