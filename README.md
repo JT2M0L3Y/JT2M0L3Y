@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job."</p>
+<p>"Marriage: A friendship recognized by the police."</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Robert Louis Stevenson</p>
