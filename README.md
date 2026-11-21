@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Marriage: A friendship recognized by the police."</p>
+<p>"Small opportunities are often the beginning of great enterprises."</p>
 
-<p>- Robert Louis Stevenson</p>
+<p>- Demosthenes</p>
