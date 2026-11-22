@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Small opportunities are often the beginning of great enterprises."</p>
+<p>"They can conquer who believe they can."</p>
 
-<p>- Demosthenes</p>
+<p>- Virgil</p>
