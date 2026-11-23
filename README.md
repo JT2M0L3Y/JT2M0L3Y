@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"They can conquer who believe they can."</p>
+<p>"Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things."</p>
 
-<p>- Virgil</p>
+<p>- Woody Allen</p>
