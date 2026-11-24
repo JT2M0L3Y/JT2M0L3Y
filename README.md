@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things."</p>
+<p>"You do not become good by trying to be good, but by finding the goodness that is already within you."</p>
 
-<p>- Woody Allen</p>
+<p>- Eckhart Tolle</p>
