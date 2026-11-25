@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"You do not become good by trying to be good, but by finding the goodness that is already within you."</p>
+<p>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Alfred Korzybski</p>
