@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</p>
+<p>"The greatest obstacle to connecting with our joy is resentment."</p>
 
-<p>- Alfred Korzybski</p>
+<p>- Pema Chödrön</p>
