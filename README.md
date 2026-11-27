@@ -58,6 +58,6 @@
 
 ## 📯 How about a daily inspirational quote?
 
-<p>"The greatest obstacle to connecting with our joy is resentment."</p>
+<p>"Before you put on a frown, make absolutely sure there are no smiles available."</p>
 
-<p>- Pema Chödrön</p>
+<p>- James M. Beggs</p>
